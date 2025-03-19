@@ -1,5 +1,5 @@
 def main():
-    print("Hello from agrotube!")
+    print("Hello from!")
 
 
 if __name__ == "__main__":
