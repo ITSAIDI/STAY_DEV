@@ -4,4 +4,8 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = []
+dependencies = [
+    "google-api-python-client>=2.165.0",
+    "ipykernel>=6.29.5",
+    "python-dotenv>=1.0.1",
+]
