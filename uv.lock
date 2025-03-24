@@ -13,6 +13,7 @@ dependencies = [
     { name = "google-api-python-client" },
     { name = "ipykernel" },
     { name = "python-dotenv" },
+    { name = "scrapetube" },
 ]
 
 [package.metadata]
@@ -20,6 +21,7 @@ requires-dist = [
     { name = "google-api-python-client", specifier = ">=2.165.0" },
     { name = "ipykernel", specifier = ">=6.29.5" },
     { name = "python-dotenv", specifier = ">=1.0.1" },
+    { name = "scrapetube", specifier = ">=2.5.1" },
 ]
 
 [[package]]
@@ -746,6 +748,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/aa/65/7d973b89c4d2351d7fb232c2e452547ddfa243e93131e7cfa766da627b52/rsa-4.9.tar.gz", hash = "sha256:e38464a49c6c85d7f1351b0126661487a7e0a14a50f1675ec50eb34d4f20ef21", size = 29711 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/49/97/fa78e3d2f65c02c8e1268b9aba606569fe97f6c8f7c2d74394553347c145/rsa-4.9-py3-none-any.whl", hash = "sha256:90260d9058e514786967344d0ef75fa8727eed8a7d2e43ce9f4bcf1b536174f7", size = 34315 },
+]
+
+[[package]]
+name = "scrapetube"
+version = "2.5.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "requests" },
+    { name = "typing-extensions" },
+]
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/27/ff/74e10d07bdcebbf3cb73a3d4666039bcd6dda52a5e62b7fbcb06ea62f878/scrapetube-2.5.1-py3-none-any.whl", hash = "sha256:4ede6e701001f280f3b23ba20f109556b24502b756b9732436571783b03ed91d", size = 5592 },
 ]
 
 [[package]]
