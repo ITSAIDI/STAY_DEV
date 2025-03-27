@@ -3,13 +3,14 @@ import itertools
 
 def generateQueries():
     sujets = ["autosuffisance", "permaculture", "potager en autonomie", "maraîchage bio", "agriculture durable"]
-    actions = ["comment faire", "techniques", "astuces", "conseils", "expérience"]
     cultures = ["tomates", "pommes de terre", "blé", "arbres fruitiers", "poules"]
     techniques = ["paillage", "compostage", "engrais naturels", "rotation des cultures"]
 
-    combinaisons = list(itertools.product(sujets, actions, cultures + techniques))
+    combinaisons = list(itertools.product(sujets, cultures + techniques))
     requêtes = [" ".join(comb) for comb in combinaisons]
     return requêtes
+ 
+
  
 ############################ Scraping
 
@@ -17,6 +18,8 @@ from dotenv import load_dotenv
 import os
 from googleapiclient.discovery import build
 import scrapetube
+from tqdm import tqdm
+import json
 
 load_dotenv() 
    
@@ -80,5 +83,44 @@ def searchYoutube(query,max_results=1):
     return videosData
     
     
+########################### Keywords augmentation 
+   
+def scrapeDetailsOne(query,max_results = 5):
+    #print(query)
+    videos_details = {}
+    
+    request = youtube.search().list(
+        q=query,
+        part="snippet",
+        maxResults=max_results,
+        type="video"
+    )
+    response = request.execute()
+    for item in response['items']:
+        video_id = item["id"]["videoId"]
+        title = item["snippet"]["title"]
+        ################## Get the description with videos function
+        video_request = youtube.videos().list(
+            part="snippet",
+            id=video_id
+        )
+        video_response = video_request.execute()
+        if video_response["items"]:
+            description = video_response["items"][0]["snippet"]["description"]
+            
+        if len(description)>0: # Keep only videos with description
+          videos_details[video_id] = {'title':title,'description':description}
+    
+    return videos_details
 
-
+def scrapeDetailsAll(queries):
+    scrape = {}
+    for query in tqdm(queries, desc="Scraping en cours", unit="requête"):
+        videosDetails = scrapeDetailsOne(query)
+        scrape[query]=videosDetails
+        
+    ################### Save in json file
+    
+    with open('scrape.json', "w", encoding="utf-8") as f:
+        json.dump(scrape, f, ensure_ascii=False, indent=4)
+    
