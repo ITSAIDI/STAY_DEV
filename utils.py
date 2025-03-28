@@ -124,3 +124,4 @@ def scrapeDetailsAll(queries):
     with open('scrape.json', "w", encoding="utf-8") as f:
         json.dump(scrape, f, ensure_ascii=False, indent=4)
     
+#######--> fonction LangChain API Chatgt entree : title + description --> mot cle secondaire ou primaiare.
