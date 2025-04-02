@@ -249,7 +249,7 @@ def getExtensions():
 
    
     
-getExtensions()    
+#getExtensions()    
 #Filtring()
 
 
