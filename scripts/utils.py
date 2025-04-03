@@ -25,40 +25,6 @@ load_dotenv()
    
 youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY"))
 
-
-def parseScrapetube(videos):
-    parsed_data = []
-    
-    for video in videos:
-        best_thumbnail = max(video['thumbnail']['thumbnails'], key=lambda x: x['width'])
-        
-        video_data = {
-            "id_video": video["videoId"],
-            "id_chaine": video["longBylineText"]["runs"][0]["navigationEndpoint"]["browseEndpoint"]["browseId"],
-            "titre_video": video["title"]["runs"][0]["text"],
-            "nom_chaine": video["longBylineText"]["runs"][0]["text"],
-            "date_publication": video["publishedTimeText"]["simpleText"],
-            "lien_video": f"https://www.youtube.com/watch?v={video['videoId']}",
-            "lien_chaine": f"https://www.youtube.com/channel/{video['longBylineText']['runs'][0]['navigationEndpoint']['browseEndpoint']['browseId']}",
-            "durée": video["lengthText"]["simpleText"],
-            "miniature": best_thumbnail["url"]
-        }
-        
-        parsed_data.append(video_data)
-    
-    return parsed_data
-
-def getvideo_description(video_id):
-    request = youtube.videos().list(part='snippet', id=video_id)
-    response = request.execute()
-
-    if 'items' in response and len(response['items']) > 0:
-        video_details = response['items'][0]['snippet']
-        description = video_details.get('description', 'No description available')
-        title = video_details.get('title', 'No title available')
-        return description
-    return None
-
 def getchannel_details(channel_id):
     request = youtube.channels().list(part='snippet,contentDetails', id=channel_id)
     response = request.execute()
@@ -70,19 +36,46 @@ def getchannel_details(channel_id):
         return  bio,creation_date
     return None
 
-def searchYoutube(query,max_results=1):
-    ############################## Scrapetube
-    videos = list(scrapetube.get_search(query,limit=max_results,sort_by='relevance'))
-    videosData = parseScrapetube(videos)
+def getvideo_details(video_id):
+    request = youtube.videos().list(part='snippet,contentDetails', id=video_id)
+    response = request.execute()
+    videoMetadata = {
+        'id_video': response['items'][0]['id'],
+        'titre_video': response['items'][0]['snippet']['title'],
+        'description':response['items'][0]['snippet']['description'],
+        'date_publication':response['items'][0]['snippet']['publishedAt'],
+        'duree': response['items'][0]['contentDetails']['duration'],
+        'miniature':response['items'][0]['snippet']['thumbnails']['maxres']['url'],
+        'tags':'',
+        'langue':'',
+        'youtubeCategorie':response['items'][0]['snippet']['categoryId'],
+    }
+    if 'tags' in response['items'][0]['snippet']:
+        videoMetadata['tags']= response['items'][0]['snippet']['tags']
+        
+    if 'defaultAudioLanguage'in response['items'][0]['snippet']:
+        videoMetadata['langue']= response['items'][0]['snippet']['defaultAudioLanguage']
+    return videoMetadata
+
+def searchYoutube(query,max_results=3):
+    ############################## Scrapetube (jute for search (avoid spending the 100 units !))
     
-    ######################### Youtube API
-    for videodata in videosData:
-        videodata['description'] = getvideo_description(videodata['id_video'])
-        videodata['bio'],videodata['date_creation'] = getchannel_details(videodata['id_chaine'])
+    videoIds = []
+    searchResults = list(scrapetube.get_search(query,limit=max_results,sort_by='relevance'))
+    for result in searchResults:
+        videoIds.append(result['videoId'])
+    #print(videoIds)
     
-    return videosData
+    ######################### Youtube API (get the metadata)
+    for videoid in videoIds:
+        videoMetadata = getvideo_details(videoid)
+        print(json.dumps(videoMetadata,indent=2,ensure_ascii=False))
+    #########3 Scrape channel details
     
+    #### Scrape statistiques
     
+
+searchYoutube('autosuffisance potager')
 ########################### Keywords augmentation 
 from dotenv import load_dotenv
 from openai import OpenAI
@@ -247,9 +240,36 @@ def getExtensions():
             print('---------Empty Chatgpt response')
             
 
-   
+def vocBatching(n_groups=4):
     
-#getExtensions()    
-#Filtring()
+    with open("../jsons/Voc.json", "r", encoding="utf-8") as file:
+        data = json.load(file)
 
+    secondary_keywords = data["Secondaire"]
+    groups = {str(i+1): secondary_keywords[i::n_groups] for i in range(n_groups)}
+    updated_data = {
+    "Primaire": data["Primaire"],
+    "Secondaire": groups
+      } 
+    ################ Saving       
+    with open("../jsons/Voc.json", "w", encoding="utf-8") as f:
+       json.dump(updated_data, f, ensure_ascii=False, indent=2)  
+
+def getQueries(batchId):
+    with open("../jsons/Voc.json", "r", encoding="utf-8") as file:
+        Vocabulary = json.load(file)
+    with open("../jsons/queries.json", "r", encoding="utf-8") as file:
+        Queries = json.load(file)
+        
+    Queries[batchId] = []
+    for pkeyword in Vocabulary['Primaire']:
+        for skeyword in Vocabulary['Secondaire'][batchId]:
+            query  = f'{pkeyword} {skeyword}'
+            Queries[batchId].append(query)
+            
+    ###############3 Upsdate Queries json file
+    with open("../jsons/queries.json", "w", encoding="utf-8") as f:
+       json.dump(Queries, f, ensure_ascii=False, indent=2)  
+    
+   
 

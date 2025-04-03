@@ -38,3 +38,35 @@ videos = list(scrapetube.get_channel(channel_id))
 print(len(videos))
 print(json.dumps(videos[0],indent=4))
 
+
+def parseScrapetube(videos):
+    parsed_data = []
+    
+    for video in videos:
+        best_thumbnail = max(video['thumbnail']['thumbnails'], key=lambda x: x['width'])
+        
+        video_data = {
+            "id_video": video["videoId"],
+            "id_chaine": video["longBylineText"]["runs"][0]["navigationEndpoint"]["browseEndpoint"]["browseId"],
+            "titre_video": video["title"]["runs"][0]["text"],
+            "nom_chaine": video["longBylineText"]["runs"][0]["text"],
+            "date_publication": video["publishedTimeText"]["simpleText"],
+            "durée": video["lengthText"]["simpleText"],
+            "miniature": best_thumbnail["url"]
+        }
+        
+        parsed_data.append(video_data)
+    
+    return parsed_data
+
+def getvideo_description(video_id):
+    request = youtube.videos().list(part='snippet', id=video_id)
+    response = request.execute()
+    
+    print('Response :',json.dumps(response,indent=2,ensure_ascii=False))
+    
+    if 'items' in response and len(response['items']) > 0:
+        video_details = response['items'][0]['snippet']
+        description = video_details.get('description', 'No description available')
+        return description
+    return None
