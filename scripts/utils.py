@@ -27,55 +27,92 @@ youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY"))
 
 def getchannel_details(channel_id):
     request = youtube.channels().list(part='snippet,contentDetails', id=channel_id)
-    response = request.execute()
-
-    if 'items' in response and len(response['items']) > 0:
-        channel_details = response['items'][0]
-        bio = channel_details['snippet'].get('description', 'No bio available')
-        creation_date = channel_details['snippet'].get('publishedAt', 'No creation date available')
-        return  bio,creation_date
-    return None
-
+    response = request.execute()    
+    channelMetadata = {
+        'id_chaine' : response['items'][0]['id'],
+        'nom_chaine' :response['items'][0]['snippet']['title'],
+        'bio':response['items'][0]['snippet']['description'],
+        'date_creation' :response['items'][0]['snippet']['publishedAt'],
+        'type_monetisation' :'',
+        'details_monetisation' :''
+    }
+    return channelMetadata
+    
 def getvideo_details(video_id):
     request = youtube.videos().list(part='snippet,contentDetails', id=video_id)
     response = request.execute()
+    print(response)
     videoMetadata = {
         'id_video': response['items'][0]['id'],
+        'id_chaine':response['items'][0]['snippet']['channelId'],
         'titre_video': response['items'][0]['snippet']['title'],
         'description':response['items'][0]['snippet']['description'],
         'date_publication':response['items'][0]['snippet']['publishedAt'],
         'duree': response['items'][0]['contentDetails']['duration'],
-        'miniature':response['items'][0]['snippet']['thumbnails']['maxres']['url'],
+        'miniature':'',
         'tags':'',
         'langue':'',
         'youtubeCategorie':response['items'][0]['snippet']['categoryId'],
     }
+    
+    ################# get the highest resolution thumbnail
+    resolution_order = ["maxres", "standard", "high", "medium", "default"]
+    for res in resolution_order:
+        if res in response['items'][0]['snippet']['thumbnails']:
+            videoMetadata['miniature']= response['items'][0]['snippet']['thumbnails'][res]['url']
+            break
+    
     if 'tags' in response['items'][0]['snippet']:
         videoMetadata['tags']= response['items'][0]['snippet']['tags']
         
     if 'defaultAudioLanguage'in response['items'][0]['snippet']:
         videoMetadata['langue']= response['items'][0]['snippet']['defaultAudioLanguage']
+    print(json.dumps(videoMetadata,indent=2,ensure_ascii=False))
     return videoMetadata
 
-def searchYoutube(query,max_results=3):
+def updateVideos(videoMetadata):
+    with open("../jsons/videos.json", "r", encoding="utf-8") as file:
+        videos = json.load(file)
+    
+def updateChannels(channelMetadata):
+    pass
+
+def searchYoutube(query,max_results=5):
     ############################## Scrapetube (jute for search (avoid spending the 100 units !))
     
     videoIds = []
-    searchResults = list(scrapetube.get_search(query,limit=max_results,sort_by='relevance'))
+    searchResults = list(scrapetube.get_search(query,limit=max_results,sort_by='relevance',results_type='video'))
     for result in searchResults:
         videoIds.append(result['videoId'])
-    #print(videoIds)
-    
+        
+    channelIds = []
+    searchResults = list(scrapetube.get_search(query,limit=max_results,sort_by='relevance',results_type='channel'))
+    for result in searchResults:
+        channelIds.append(result['channelId'])
+        
     ######################### Youtube API (get the metadata)
+    #--> Scrape video details
+    videosMetadata = []
     for videoid in videoIds:
-        videoMetadata = getvideo_details(videoid)
-        print(json.dumps(videoMetadata,indent=2,ensure_ascii=False))
-    #########3 Scrape channel details
+        videodata = getvideo_details(videoid)
+        videosMetadata.append(videodata)
     
-    #### Scrape statistiques
+    updateVideos(videosMetadata)    
+        
+    #--> Scrape channel details
+    
+    channelsMetadata = []
+    for channelid in channelIds:
+        channeldata = getchannel_details(channelid)
+        channelsMetadata.append(channeldata)
+    
+    updateChannels(channelsMetadata)
+    #print(channelIds)
+    #--> Scrape statistiques
     
 
 searchYoutube('autosuffisance potager')
+
 ########################### Keywords augmentation 
 from dotenv import load_dotenv
 from openai import OpenAI
