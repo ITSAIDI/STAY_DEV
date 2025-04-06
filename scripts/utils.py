@@ -9,9 +9,7 @@ def generateQueries():
     combinaisons = list(itertools.product(sujets, cultures + techniques))
     requêtes = [" ".join(comb) for comb in combinaisons]
     return requêtes
- 
-
- 
+  
 ############################ Scraping
 
 from dotenv import load_dotenv
@@ -20,28 +18,18 @@ from googleapiclient.discovery import build
 import scrapetube
 from tqdm import tqdm
 import json
+from colorama import Fore, Style, init
 
 load_dotenv() 
+init()
    
 youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY"))
 
-def getchannel_details(channel_id):
-    request = youtube.channels().list(part='snippet,contentDetails', id=channel_id)
-    response = request.execute()    
-    channelMetadata = {
-        'id_chaine' : response['items'][0]['id'],
-        'nom_chaine' :response['items'][0]['snippet']['title'],
-        'bio':response['items'][0]['snippet']['description'],
-        'date_creation' :response['items'][0]['snippet']['publishedAt'],
-        'type_monetisation' :'',
-        'details_monetisation' :''
-    }
-    return channelMetadata
-    
+#--> Videos
+  
 def getvideo_details(video_id):
     request = youtube.videos().list(part='snippet,contentDetails', id=video_id)
     response = request.execute()
-    print(response)
     videoMetadata = {
         'id_video': response['items'][0]['id'],
         'id_chaine':response['items'][0]['snippet']['channelId'],
@@ -67,23 +55,81 @@ def getvideo_details(video_id):
         
     if 'defaultAudioLanguage'in response['items'][0]['snippet']:
         videoMetadata['langue']= response['items'][0]['snippet']['defaultAudioLanguage']
-    print(json.dumps(videoMetadata,indent=2,ensure_ascii=False))
+        
     return videoMetadata
 
-def updateVideos(videoMetadata):
+def getIds(listVideos):
+    ids = []
+    for videoDic in listVideos:
+        ids.append(videoDic['id_video'])
+    return ids 
+   
+def updateVideos(videosMetadata):
+    
+    print(Style.BRIGHT + Fore.GREEN + '\n Updating...')
+    
     with open("../jsons/videos.json", "r", encoding="utf-8") as file:
         videos = json.load(file)
-    
-def updateChannels(channelMetadata):
-    pass
-
-def searchYoutube(query,max_results=5):
-    ############################## Scrapetube (jute for search (avoid spending the 100 units !))
-    
+        ids = getIds(videos)
+                
+    if len(videos) == 0:
+        videos.extend(videosMetadata)
+    else:
+        for video in videosMetadata:
+            id = video['id_video']
+            query = video['requete'][0]
+            if id in ids:
+                ###### Select the video dicionary by using the id
+                videoDicionary = videos[ids.index(id)]
+                videoDicionary['requete'].append(query)
+            else:
+                videos.append(video)
+                   
+    ################ Saving       
+    with open("../jsons/videos.json", "w", encoding="utf-8") as f:
+        print(Style.BRIGHT + Fore.YELLOW + f'\n Actual Nbr videos : {len(videos)}')
+        print(Style.BRIGHT + Fore.GREEN + '\n Saving videos...')
+        json.dump(videos, f, ensure_ascii=False, indent=2) 
+        
+def scrapeVideos(query,max_results):
+    print(Style.BRIGHT + Fore.GREEN + '\nScraping Videos...')
+    ############################## Scrapetube
     videoIds = []
     searchResults = list(scrapetube.get_search(query,limit=max_results,sort_by='relevance',results_type='video'))
     for result in searchResults:
         videoIds.append(result['videoId'])
+        
+    ############################## Youtube API
+    videosMetadata = []
+    for videoid in videoIds:
+        videodata = getvideo_details(videoid)
+        videodata['requete']=[query]
+        videosMetadata.append(videodata)
+    
+    ############################## Update the json
+    updateVideos(videosMetadata) 
+
+    print(Style.RESET_ALL)
+
+#--> Channels
+
+def getchannel_details(channel_id):
+    request = youtube.channels().list(part='snippet,contentDetails', id=channel_id)
+    response = request.execute()    
+    channelMetadata = {
+        'id_chaine' : response['items'][0]['id'],
+        'nom_chaine' :response['items'][0]['snippet']['title'],
+        'bio':response['items'][0]['snippet']['description'],
+        'date_creation' :response['items'][0]['snippet']['publishedAt'],
+        'type_monetisation' :'',
+        'details_monetisation' :''
+    }
+    return channelMetadata
+      
+def updateChannels(channelMetadata):
+    pass
+
+def searchYoutube(query,max_results=5):
         
     channelIds = []
     searchResults = list(scrapetube.get_search(query,limit=max_results,sort_by='relevance',results_type='channel'))
@@ -100,20 +146,20 @@ def searchYoutube(query,max_results=5):
     updateVideos(videosMetadata)    
         
     #--> Scrape channel details
-    
     channelsMetadata = []
     for channelid in channelIds:
         channeldata = getchannel_details(channelid)
         channelsMetadata.append(channeldata)
     
     updateChannels(channelsMetadata)
-    #print(channelIds)
+    print(channelIds)
     #--> Scrape statistiques
     
-
-searchYoutube('autosuffisance potager')
+#--> Statistics
 
 ########################### Keywords augmentation 
+
+
 from dotenv import load_dotenv
 from openai import OpenAI
 import os

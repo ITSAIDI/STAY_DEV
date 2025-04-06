@@ -10,6 +10,7 @@ name = "agrotube"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "colorama" },
     { name = "google-api-python-client" },
     { name = "ipykernel" },
     { name = "openai" },
@@ -20,6 +21,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "colorama", specifier = ">=0.4.6" },
     { name = "google-api-python-client", specifier = ">=2.165.0" },
     { name = "ipykernel", specifier = ">=6.29.5" },
     { name = "openai", specifier = ">=1.69.0" },
