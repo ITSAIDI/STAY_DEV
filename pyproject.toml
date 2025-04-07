@@ -8,6 +8,7 @@ dependencies = [
     "colorama>=0.4.6",
     "google-api-python-client>=2.165.0",
     "ipykernel>=6.29.5",
+    "matplotlib>=3.10.1",
     "openai>=1.69.0",
     "python-dotenv>=1.0.1",
     "scrapetube>=2.5.1",
