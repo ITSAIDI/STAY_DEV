@@ -23,7 +23,7 @@ from colorama import Fore, Style, init
 load_dotenv() 
 init()
    
-youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY"))
+youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY2"))
 
 #--> Videos
   
@@ -322,6 +322,7 @@ def getExtensions():
         else :
             print('---------Empty Chatgpt response')
             
+########################### Constructing queries 
 
 def vocBatching(n_groups=4):
     
@@ -350,9 +351,9 @@ def getQueries(batchId):
             query  = f'{pkeyword} {skeyword}'
             Queries[batchId].append(query)
             
-    ###############3 Upsdate Queries json file
+    ############### Upsdate Queries json file
     with open("../jsons/queries.json", "w", encoding="utf-8") as f:
        json.dump(Queries, f, ensure_ascii=False, indent=2)  
     
-   
+
 
