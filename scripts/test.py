@@ -1,40 +1,66 @@
 import json
-import requests
-from tqdm import tqdm
+import pandas as pd
+from openpyxl import load_workbook
+from openpyxl.styles import PatternFill
 
-# Charger les données JSON depuis le fichier
-with open("../jsons/echantillon.json", "r", encoding="utf-8") as f:
-    echantillon = json.load(f)
+# === Load JSON data ===
+with open("../jsons/echantillon.json", "r", encoding="utf-8") as file:
+    videos = json.load(file)
 
-# Clé API YouTube Data (remplacer par la vôtre)
-api_key = "AIzaSyC7fRtrFt_eykZpSSBVg-o6q9EWBFR3Wiw"
+with open("../jsons/channel_names.json", "r", encoding="utf-8") as file:
+    channel_names = json.load(file)
 
-# Fonction pour obtenir le nom de la chaîne à partir de l'ID
-def get_channel_name(channel_id, api_key):
-    url = f"https://www.googleapis.com/youtube/v3/channels?part=snippet&id={channel_id}&key={api_key}"
-    response = requests.get(url)
-    data = response.json()
-    if 'items' in data and data['items']:
-        return data['items'][0]['snippet']['title']
-    else:
-        return None  # Si aucun résultat trouvé pour l'ID de la chaîne
+with open("../jsons/categories.json", "r", encoding="utf-8") as file:
+    categorie_labels = json.load(file)
 
-# Collecter les IDs des chaînes
-channel_ids = {video['id_chaine'] for video in echantillon}
+# === Prepare Data ===
+video_data = []
+for video in videos:
+    channel_name = channel_names.get(video["id_chaine"], "Unknown Channel")
+    category_name = categorie_labels.get(str(video["youtubeCategorie"]), "Unknown Category")
+    video_data.append({
+        "Video": video["titre_video"],
+        "Lien": f"https://www.youtube.com/watch?v={video['id_video']}",
+        "Chaine (Nom)": channel_name,
+        "Categorie (Nom)": category_name,
+        "CategorieId": video["youtubeCategorie"]
+    })
 
-# Créer un dictionnaire pour stocker les noms des chaînes
-channel_names = {}
+df = pd.DataFrame(video_data)
+df = df.sort_values(by="CategorieId", ascending=False)
 
-# Utilisation de tqdm pour afficher une barre de progression
-for channel_id in tqdm(channel_ids, desc="Récupération des noms de chaînes", unit="chaîne"):
-    name = get_channel_name(channel_id, api_key)
-    if name:
-        channel_names[channel_id] = name
-    else:
-        channel_names[channel_id] = "Nom non trouvé"  # Si le nom n'est pas trouvé
+# === Write to Excel first ===
+excel_path = "../xls/videos_categories.xlsx"
+df.to_excel(excel_path, index=False)
 
-# Sauvegarder les noms des chaînes dans un fichier JSON
-with open("../jsons/channel_names.json", "w", encoding="utf-8") as f:
-    json.dump(channel_names, f, ensure_ascii=False, indent=4)
+# === Open with openpyxl for formatting ===
+wb = load_workbook(excel_path)
+ws = wb.active
 
-print("Les noms des chaînes ont été sauvegardés dans 'channel_names.json'")
+# Assign a unique color per CategorieId
+from itertools import cycle
+
+# Color palette (light pastel tones)
+colors = cycle([
+    "FFDDC1", "FFABAB", "FFC3A0", "D5AAFF", "B5EAD7", "C7CEEA", "E2F0CB",
+    "FFDAC1", "CBAACB", "FFFFD1", "FFB7B2", "B5EAD7", "FF9AA2", "E0BBE4"
+])
+
+# Get all unique categories and assign a color
+categorie_to_color = {}
+for i, cat_id in enumerate(sorted(df["CategorieId"].unique(), reverse=True)):
+    categorie_to_color[str(cat_id)] = next(colors)
+
+# Apply color row by row (start at row 2 since row 1 is headers)
+for row in ws.iter_rows(min_row=2, max_row=ws.max_row):
+    categorie_id = str(row[4].value)  # 5th column = CategorieId
+    fill = PatternFill(start_color=categorie_to_color[categorie_id],
+                       end_color=categorie_to_color[categorie_id],
+                       fill_type="solid")
+    for cell in row:
+        cell.fill = fill
+
+# Save the formatted file
+wb.save(excel_path)
+
+print("✅ Excel file with colored rows by CategorieId saved at:", excel_path)
