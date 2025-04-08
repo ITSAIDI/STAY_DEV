@@ -15,6 +15,7 @@ dependencies = [
     { name = "colorama" },
     { name = "google-api-python-client" },
     { name = "ipykernel" },
+    { name = "isodate" },
     { name = "matplotlib" },
     { name = "openai" },
     { name = "openpyxl" },
@@ -30,6 +31,7 @@ requires-dist = [
     { name = "colorama", specifier = ">=0.4.6" },
     { name = "google-api-python-client", specifier = ">=2.165.0" },
     { name = "ipykernel", specifier = ">=6.29.5" },
+    { name = "isodate", specifier = ">=0.7.2" },
     { name = "matplotlib", specifier = ">=3.10.1" },
     { name = "openai", specifier = ">=1.69.0" },
     { name = "openpyxl", specifier = ">=3.1.5" },
@@ -596,6 +598,15 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/13/18/1a60aa62e9d272fcd7e658a89e1c148da10e1a5d38edcbcd834b52ca7492/ipython-8.34.0.tar.gz", hash = "sha256:c31d658e754673ecc6514583e7dda8069e47136eb62458816b7d1e6625948b5a", size = 5508477 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/04/78/45615356bb973904856808183ae2a5fba1f360e9d682314d79766f4b88f2/ipython-8.34.0-py3-none-any.whl", hash = "sha256:0419883fa46e0baa182c5d50ebb8d6b49df1889fdb70750ad6d8cfe678eda6e3", size = 826731 },
+]
+
+[[package]]
+name = "isodate"
+version = "0.7.2"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/54/4d/e940025e2ce31a8ce1202635910747e5a87cc3a6a6bb2d00973375014749/isodate-0.7.2.tar.gz", hash = "sha256:4cd1aa0f43ca76f4a6c6c0292a85f40b35ec2e43e315b59f06e6d32171a953e6", size = 29705 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/15/aa/0aca39a37d3c7eb941ba736ede56d689e7be91cab5d9ca846bde3999eba6/isodate-0.7.2-py3-none-any.whl", hash = "sha256:28009937d8031054830160fce6d409ed342816b543597cece116d966c6d99e15", size = 22320 },
 ]
 
 [[package]]
