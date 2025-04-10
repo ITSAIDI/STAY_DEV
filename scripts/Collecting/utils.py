@@ -23,7 +23,7 @@ from colorama import Fore, Style, init
 load_dotenv() 
 init()
    
-youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY1"))
+youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY3"))
 
 #--> Videos
   
@@ -211,8 +211,8 @@ def getVidoesMetrics():
             vidoesMetrics.append(metrics)
               
     with open("../../jsons/videosMetrics.json", "w", encoding="utf-8") as f:
-        print(Style.BRIGHT + Fore.GREEN + '\n Saving metrics...')
         json.dump(vidoesMetrics, f, ensure_ascii=False, indent=2) 
+        print(Style.BRIGHT + Fore.GREEN + '\n json saved...')
     
 ########################### Keywords augmentation 
 
