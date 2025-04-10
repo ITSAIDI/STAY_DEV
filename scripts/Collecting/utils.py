@@ -23,7 +23,7 @@ from colorama import Fore, Style, init
 load_dotenv() 
 init()
    
-youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY2"))
+youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY1"))
 
 #--> Videos
   
@@ -58,7 +58,7 @@ def getvideo_details(video_id):
         
     return videoMetadata
 
-def getVidoesId(listVideos):
+def getVideosId(listVideos):
     ids = []
     for videoDic in listVideos:
         ids.append(videoDic['id_video'])
@@ -113,37 +113,107 @@ def scrapeVideos(query,max_results):
 
 #--> Channels
 
-def getChannnelsId(videosList):
-    Ids = set()
-    for video in videosList:
-        Ids.add(video['id_chaine'])
-    return Ids
-
 def getchannel_details(channel_id):
-    request = youtube.channels().list(part='snippet,contentDetails', id=channel_id)
-    response = request.execute()    
-    channelMetadata = {
-        'id_chaine' : response['items'][0]['id'],
-        'nom_chaine' :response['items'][0]['snippet']['title'],
-        'bio':response['items'][0]['snippet']['description'],
-        'date_creation' :response['items'][0]['snippet']['publishedAt'],
-        'type_monetisation' :'',
-        'details_monetisation' :''
-    }
-    return channelMetadata
-      
-def updateChannels(channelMetadata):
-    pass
+    request = youtube.channels().list(
+        part='snippet,contentDetails,brandingSettings',
+        id=channel_id
+    )
+    
+    try:
+        response = request.execute()
+        
+        if 'items' not in response:
+            print(f"Warning: No items found for channel {channel_id}")
+            return None
+        
+        item = response['items'][0]
+        branding = item.get('brandingSettings', {}).get('channel', {})
+        country = branding.get('country', '')
 
-def scrapeChannels():
+        channelMetadata = {
+            'id_chaine' : item['id'],
+            'nom_chaine' : item['snippet']['title'],
+            'bio' : item['snippet']['description'],
+            'localisation' : country,
+            'date_creation' : item['snippet']['publishedAt'],
+            'type_monetisation' : '',
+            'details_monetisation' : ''
+        }
+        return channelMetadata
+    
+    except Exception as e:
+        print(f"Error occurred for channel {channel_id}: {str(e)}")
+        return None
+
+def getChannnelsId():
     with open('../../jsons/videos.json', "r", encoding="utf-8") as f:
         vidoes = json.load(f)
-    channelIds = getChannnelsId(vidoes)
-    print(len(channelIds))
+    Ids = set()
+    for video in vidoes:
+        Ids.add(video['id_chaine'])
+    return Ids  
+      
+def scrapeChannels():
+    channelIds = getChannnelsId()
+    channels = []
+    for id in tqdm(channelIds,'Scraping channels metadata...'):
+        channelDic = getchannel_details(id)
+        if channelDic is not None:
+            channels.append(channelDic)
+            
+    ################ Saving       
+    with open("../../jsons/channels.json", "w", encoding="utf-8") as f:
+        print(Style.BRIGHT + Fore.GREEN + '\n Saving channels...')
+        json.dump(channels, f, ensure_ascii=False, indent=2) 
+       
+#--> metrics
 
-scrapeChannels()
-#--> Statistics
+from datetime import datetime
 
+def getMetrics(video_id):
+    request = youtube.videos().list(
+        part="snippet,statistics",
+        id=video_id
+    )
+    
+    response = request.execute()
+
+    if 'items' not in response or len(response['items']) == 0:
+        print(f"Error: Video {video_id} not found.")
+        return None
+
+    item = response['items'][0]
+    
+    video_metrics = {
+        'id_video': video_id,
+        'date_releve': datetime.now().strftime('%Y-%m-%d'),
+        'nombre_vues': int(item['statistics'].get('viewCount', 0)),
+        'nombre_likes': int(item['statistics'].get('likeCount', 0)),
+    }
+
+    return video_metrics
+
+def getVIDs():
+    with open('../../jsons/videos.json', "r", encoding="utf-8") as f:
+        vidoes = json.load(f)
+    Ids = set()
+    for video in vidoes:
+        Ids.add(video['id_video'])
+    return Ids   
+
+def getVidoesMetrics():
+    videosIds = getVIDs()
+    vidoesMetrics = []
+    
+    for id in tqdm(videosIds,"Scraping vidoes metrics..."):
+        metrics = getMetrics(id)
+        if metrics:
+            vidoesMetrics.append(metrics)
+              
+    with open("../../jsons/videosMetrics.json", "w", encoding="utf-8") as f:
+        print(Style.BRIGHT + Fore.GREEN + '\n Saving metrics...')
+        json.dump(vidoesMetrics, f, ensure_ascii=False, indent=2) 
+    
 ########################### Keywords augmentation 
 
 
@@ -157,7 +227,7 @@ model_name = "gpt-4o-mini"
 
 client = OpenAI(
     base_url=endpoint,
-    api_key=os.getenv("GITHUB_TOKEN"),
+    api_key=os.getenv("GITHUB_TOKEN1"),
 )
 
 def scrapeDetailsOne(query,max_results = 5):
