@@ -58,7 +58,7 @@ def getvideo_details(video_id):
         
     return videoMetadata
 
-def getIds(listVideos):
+def getVidoesId(listVideos):
     ids = []
     for videoDic in listVideos:
         ids.append(videoDic['id_video'])
@@ -70,7 +70,7 @@ def updateVideos(videosMetadata):
     
     with open("../jsons/videos.json", "r", encoding="utf-8") as file:
         videos = json.load(file)
-        ids = getIds(videos)
+        ids = getVidoesId(videos)
                 
     if len(videos) == 0:
         videos.extend(videosMetadata)
@@ -113,6 +113,12 @@ def scrapeVideos(query,max_results):
 
 #--> Channels
 
+def getChannnelsId(videosList):
+    Ids = set()
+    for video in videosList:
+        Ids.add(video['id_chaine'])
+    return Ids
+
 def getchannel_details(channel_id):
     request = youtube.channels().list(part='snippet,contentDetails', id=channel_id)
     response = request.execute()    
@@ -129,32 +135,13 @@ def getchannel_details(channel_id):
 def updateChannels(channelMetadata):
     pass
 
-def searchYoutube(query,max_results=5):
-        
-    channelIds = []
-    searchResults = list(scrapetube.get_search(query,limit=max_results,sort_by='relevance',results_type='channel'))
-    for result in searchResults:
-        channelIds.append(result['channelId'])
-        
-    ######################### Youtube API (get the metadata)
-    #--> Scrape video details
-    videosMetadata = []
-    for videoid in videoIds:
-        videodata = getvideo_details(videoid)
-        videosMetadata.append(videodata)
-    
-    updateVideos(videosMetadata)    
-        
-    #--> Scrape channel details
-    channelsMetadata = []
-    for channelid in channelIds:
-        channeldata = getchannel_details(channelid)
-        channelsMetadata.append(channeldata)
-    
-    updateChannels(channelsMetadata)
-    print(channelIds)
-    #--> Scrape statistiques
-    
+def scrapeChannels():
+    with open('../../jsons/videos.json', "r", encoding="utf-8") as f:
+        vidoes = json.load(f)
+    channelIds = getChannnelsId(vidoes)
+    print(len(channelIds))
+
+scrapeChannels()
 #--> Statistics
 
 ########################### Keywords augmentation 

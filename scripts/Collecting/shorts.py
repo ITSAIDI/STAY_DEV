@@ -69,7 +69,6 @@ def Prompter_shorts(context):
         print(f"Error: {e}")
         return None
 
-# === TRAITEMENT PAR LOTS + ÉCRITURE INCRÉMENTALE ===
 for i in tqdm(range(0, len(shorts), batch_size)):
     batch = shorts[i:i + batch_size]
 
