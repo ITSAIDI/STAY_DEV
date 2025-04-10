@@ -1,3 +1,3 @@
-from utils import getVidoesMetrics
+from utils import getChannelsMetrics
 
-getVidoesMetrics()
+getChannelsMetrics()

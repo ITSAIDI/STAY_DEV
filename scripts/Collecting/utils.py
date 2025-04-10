@@ -23,7 +23,7 @@ from colorama import Fore, Style, init
 load_dotenv() 
 init()
    
-youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY3"))
+youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY2"))
 
 #--> Videos
   
@@ -168,9 +168,11 @@ def scrapeChannels():
        
 #--> metrics
 
+#---------------------------- Vidoes
+
 from datetime import datetime
 
-def getMetrics(video_id):
+def getMetricsV(video_id):
     request = youtube.videos().list(
         part="snippet,statistics",
         id=video_id
@@ -206,13 +208,53 @@ def getVidoesMetrics():
     vidoesMetrics = []
     
     for id in tqdm(videosIds,"Scraping vidoes metrics..."):
-        metrics = getMetrics(id)
+        metrics = getMetricsV(id)
         if metrics:
             vidoesMetrics.append(metrics)
               
     with open("../../jsons/videosMetrics.json", "w", encoding="utf-8") as f:
         json.dump(vidoesMetrics, f, ensure_ascii=False, indent=2) 
         print(Style.BRIGHT + Fore.GREEN + '\n json saved...')
+ 
+#---------------------------- Channels
+
+def getMetricsC(channel_id):    
+    request = youtube.channels().list(
+        part='statistics',
+        id=channel_id
+    )
+    
+    response = request.execute()
+
+    if 'items' not in response or len(response['items']) == 0:
+        print(f"Error: Channel {channel_id} not found.")
+        return None
+
+    stats = response['items'][0]['statistics']
+    
+    metrics = {
+        'id_chaine': channel_id,
+        'date_releve': datetime.now().strftime('%Y-%m-%d'),
+        'nombre_vues': int(stats.get('viewCount', 0)),
+        'nombre_abonnes': int(stats.get('subscriberCount', 0)) if 'subscriberCount' in stats else '',
+        'nombre_videos': int(stats.get('videoCount', 0))
+    }
+    
+    return metrics
+
+def getChannelsMetrics():
+    channelsIds = getChannnelsId()
+    channelsMetrics = []
+    
+    for id in tqdm(channelsIds,"Scraping channels metrics..."):
+        metrics = getMetricsC(id)
+        if metrics:
+            channelsMetrics.append(metrics)
+              
+    with open("../../jsons/channelsMetrics.json", "w", encoding="utf-8") as f:
+        json.dump(channelsMetrics, f, ensure_ascii=False, indent=2) 
+        print(Style.BRIGHT + Fore.GREEN + '\n json saved...')
+
     
 ########################### Keywords augmentation 
 
