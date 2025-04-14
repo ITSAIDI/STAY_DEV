@@ -15,7 +15,14 @@ def filterByLanguage():
             else:
                 video['langue'] = 'autre'
         except:
-            print(Style.BRIGHT+Fore.YELLOW+f"Detection failed for video : {video['id_video']}"+Style.RESET_ALL)
+            try :
+                lg = detect(video['description'])
+                if lg == 'fr':
+                    video['langue'] = 'fr'
+                else:
+                    video['langue'] = 'autre'
+            except:
+                print(Style.BRIGHT+Fore.YELLOW+f"Detection failed for video : {video['id_video']}"+Style.RESET_ALL)
             
     with open("./jsons/videosF1.json", "w", encoding="utf-8") as f:
        json.dump(videos, f, ensure_ascii=False, indent=2)
