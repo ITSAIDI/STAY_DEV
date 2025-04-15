@@ -7,7 +7,7 @@ def RefineLanguage1():
     with open("../../collecting/jsons/videos.json", "r", encoding="utf-8") as file:
         videos = json.load(file)
         
-    for video in tqdm(videos,'refining the language...'):
+    for video in tqdm(videos,'Refining1...'):
         try:
             lg = detect((video['titre_video']+video['description']).lower())
             if lg == 'fr':
@@ -31,17 +31,17 @@ def RefineLanguage1():
     
 def RefineLanguage2():
     with open("../jsons/videosR1.json", "r", encoding="utf-8") as file:
-        videosF1 = json.load(file)
+        videosR1 = json.load(file)
     with open("../../collecting/jsons/channels.json", "r", encoding="utf-8") as file:
         channels = json.load(file)
     
     ################### Channels Countries dictionary
     channels_countries = {}
-    for channel in tqdm(channels,'channels-countries...'):
+    for channel in channels:
         channels_countries[channel['id_chaine']]= channel['localisation']
      
     ################## Refine the language with the country Code if existent
-    for video in tqdm(videosF1,'Refining language...'):
+    for video in tqdm(videosR1,'Refining2...'):
         if video['langue'] == 'fr':  
             channelId = video['id_chaine']
             try:
@@ -53,5 +53,5 @@ def RefineLanguage2():
                 
     ################## Save the New json file
     with open("../jsons/videosR2.json", "w", encoding="utf-8") as f:
-       json.dump(videosF1, f, ensure_ascii=False, indent=2)
+       json.dump(videosR1, f, ensure_ascii=False, indent=2)
        print(Style.BRIGHT+Fore.GREEN+'\n json saved'+Style.RESET_ALL)
