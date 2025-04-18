@@ -2,7 +2,8 @@ import json
 from langdetect import detect
 from tqdm import tqdm
 from colorama import Style,Fore
-from searchAgent import main
+
+############### Refining 1
 
 def RefineLanguage1():
     with open("../../collecting/jsons/videos.json", "r", encoding="utf-8") as file:
@@ -28,7 +29,9 @@ def RefineLanguage1():
     with open("../jsons/videosR1.json", "w", encoding="utf-8") as f:
        json.dump(videos, f, ensure_ascii=False, indent=2)
        print(Style.BRIGHT+Fore.GREEN+'\n json saved'+Style.RESET_ALL)
-    
+  
+############### Refining 2
+  
 def RefineLanguage2():
     with open("../jsons/videosR1.json", "r", encoding="utf-8") as file:
         videosR1 = json.load(file)
@@ -58,7 +61,20 @@ def RefineLanguage2():
    
    
 ############### Refining 3
-       
+
+from collections import Counter
+from geopy.geocoders import Nominatim
+from geopy.exc import GeocoderTimedOut
+import time 
+  
+from tqdm import tqdm
+from flair.models import SequenceTagger
+from flair.data import Sentence
+
+tagger = SequenceTagger.load("flair/ner-french")
+geolocator = Nominatim(user_agent="geoapi")
+
+
 def getContext(channelId,videos,channels):
     # Return the Channel Bio and Vidoes Descriptions+Titles from what we collect        
     for channel in channels:
@@ -103,15 +119,61 @@ def getContextAll():
                 'context':context
               }
             )
-    with open("../jsons/vidoesfrR3.json", "w", encoding="utf-8") as f:
+    with open("../jsons/videosfrR3.json", "w", encoding="utf-8") as f:
        json.dump(vidoesfrR3, f, ensure_ascii=False, indent=2)
        print(Style.BRIGHT+Fore.GREEN+'\n json saved'+Style.RESET_ALL)
        print(Style.BRIGHT+Fore.YELLOW+f'\n json length is : {len(vidoesfrR3)}'+Style.RESET_ALL)
  
-       
-def getLocation():
-    # Pass throw the videosfr get the channelid --> getContext 
-    # --> Context --> Gemini --> Country,Justification --> Save in vidoesfrR3.json
-    # chnnelid,videoid,Context,Country,Justification (Only 5 fields)
-    pass
+def getCountry(text):
+    sentence = Sentence(text)
+    tagger.predict(sentence)
+    country_codes = Counter()
+    entities_countries = {}
+    
+    for entity in sentence.get_spans('ner'):
+        label = entity.get_label("ner")
+        if label.value == "LOC" and label.score >= 0.6:
+            try:
+                location = geolocator.geocode(entity.text, language='fr', addressdetails=True, timeout=10)
+                if location and "country_code" in location.raw['address']:
+                    code = location.raw['address']['country_code'].upper()
+                    country_codes[code] += 1
+                    entities_countries[entity.text] = code
+                time.sleep(1)  # respecter la limite Nominatim
+            except GeocoderTimedOut:
+                continue
+            except Exception as e:
+                print(f"Erreur avec '{entity.text}':", e)
 
+    if country_codes:
+        return country_codes.most_common(1)[0][0],entities_countries
+    else:
+        return 'unknown', {}
+       
+def RefineLanguage3():
+    with open("../jsons/videosfrR3.json", "r", encoding="utf-8") as file:
+        videosfrR3 = json.load(file)
+    
+    tempsave = 0 # For safety reason,in case the loop is breaked a temporary save is executed.
+    
+    for videofr in tqdm(videosfrR3):
+        country,locations = getCountry(videofr['context'])
+        videofr['country'] = country
+        videofr['finded_locations'] = locations
+        
+        print(Style.BRIGHT+Fore.GREEN+ f'\n--{country}--\n'+Style.RESET_ALL)
+        #print(locations)
+        print(json.dumps(locations, indent=2, ensure_ascii=False))
+        
+        tempsave+=1
+        if tempsave>=300 :
+            with open("../jsons/videosfrR3.json", "w", encoding="utf-8") as f:
+                json.dump(videosfrR3, f, ensure_ascii=False, indent=2)
+                print(Style.BRIGHT+Fore.GREEN+ f'\n json saved --{tempsave}--'+Style.RESET_ALL)
+            tempsave = 0
+                
+    with open("../jsons/videosfrR3.json", "w", encoding="utf-8") as f:
+        json.dump(videosfrR3, f, ensure_ascii=False, indent=2)
+        print(Style.BRIGHT+Fore.GREEN+'\n json saved'+Style.RESET_ALL)
+        print(Style.BRIGHT+Fore.YELLOW+f'\n json length is : {len(videosfrR3)}'+Style.RESET_ALL)
+            

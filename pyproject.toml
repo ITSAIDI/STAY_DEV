@@ -7,6 +7,8 @@ requires-python = ">=3.10"
 dependencies = [
     "beautifulsoup4>=4.13.3",
     "colorama>=0.4.6",
+    "flair>=0.15.1",
+    "geopy>=2.4.1",
     "google-api-python-client>=2.165.0",
     "ipykernel>=6.29.5",
     "isodate>=0.7.2",
@@ -18,10 +20,13 @@ dependencies = [
     "matplotlib>=3.10.1",
     "openai>=1.69.0",
     "openpyxl>=3.1.5",
+    "pip>=25.0.1",
     "python-dotenv>=1.0.1",
     "scrapetube>=2.5.1",
     "seaborn>=0.13.2",
     "selenium>=4.31.0",
+    "spacy>=3.8.5",
+    "textrazor>=1.4.1",
     "tqdm>=4.67.1",
     "wordcloud>=1.9.4",
 ]
