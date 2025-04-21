@@ -1,9 +1,22 @@
 import json
-from langdetect import detect
 from tqdm import tqdm
 from colorama import Style,Fore
+from collections import Counter
+import time
+
+def openJson(path):
+    with open(path, "r", encoding="utf-8") as file:
+        data = json.load(file)
+    return data
+
+def saveJson(path,data):
+    with open(path, "w", encoding="utf-8") as f:
+       json.dump(data, f, ensure_ascii=False, indent=2)
+       print(Style.BRIGHT+Fore.GREEN+'\n json saved'+Style.RESET_ALL)
 
 ############### Refining 1
+
+from langdetect import detect
 
 def RefineLanguage1():
     with open("../../collecting/jsons/videos.json", "r", encoding="utf-8") as file:
@@ -62,118 +75,125 @@ def RefineLanguage2():
    
 ############### Refining 3
 
-from collections import Counter
 from geopy.geocoders import Nominatim
-from geopy.exc import GeocoderTimedOut
-import time 
-  
-from tqdm import tqdm
-from flair.models import SequenceTagger
-from flair.data import Sentence
+from gliner import GLiNER
 
-tagger = SequenceTagger.load("flair/ner-french")
+NER = GLiNER.from_pretrained("urchade/gliner_multi-v2.1")
 geolocator = Nominatim(user_agent="geoapi")
 
+labels = [
+    "Localisation",
+    "Ville",
+    "Commune",
+    "Pays",
+    "Zone géographique",
+    "Continent",
+    "Région",
+    "Département",
+    "Code postal",
+    "Quartier",
+    "Adresse",
+    "Lieu-dit",
+    "Coordonnées GPS",
+    "Latitude",
+    "Longitude",
+    "Territoire",
+    "Aire urbaine",
+    "Espace rural",
+    "Zone rurale",
+    "Zone urbaine",
+    "Périmètre géographique",
+    "Localité",
+]
 
-def getContext(channelId,videos,channels):
-    # Return the Channel Bio and Vidoes Descriptions+Titles from what we collect        
-    for channel in channels:
-        if channel['id_chaine']==channelId:
-            bio = channel['bio']
-    descriptions = []
-    titles = []
+def getNer(context):
+    locations = []
+    results =  NER.predict_entities(context, labels)
+    if results :
+        for result in results :
+            if result['score'] > 0.5 :
+                locations.append(result['text'])
+    return locations
+
+def getGeocoding(locations):
+    countries = []
+    details = {}
+    try :
+        for location in locations:
+            Adresse = geolocator.geocode(location, language='fr', addressdetails=True, timeout=10)  
+            if Adresse and "country_code" in Adresse.raw['address']:
+                code = Adresse.raw['address']['country_code'].upper()
+                countries.append(code)
+                details[location]=code
+            #time.sleep(1)  # respecter la limite Nominatim     
+        return countries,details
+    except:
+        print("Error with GeoCoding")
+        time.sleep(1)
+        return countries,details
+
+def countRepetitions(countries):
+    counts = Counter()
+    for country in countries:  
+        counts[country] +=1
+    return counts 
+
+def getVidoesdata(channelId,videos):
+    context = ''
     for video in videos:
         if video['id_chaine']==channelId:
-           descriptions.append(video['description']) 
-           titles.append(video['titre_video']) 
-           
-    context = f"Le bio de la chaine : \n {bio}"
-    for des in descriptions:
-        context+= f"""
-        \n###############
-        \nDescription : {des}
-        """
-    for tit in titles:
-        context+= f"""
-        \n###############\n
-        titre : {tit}
-        """
+            context += video['titre_video']+'\n'
+            context += video['description']+'\n'
     return context
 
-def getContextAll():
-    with open("../../collecting/jsons/videos.json", "r", encoding="utf-8") as file:
-        videos = json.load(file)
-        
-    with open("../../collecting/jsons/channels.json", "r", encoding="utf-8") as file:
-        channels = json.load(file)
-        
-    with open("../jsons/videosfr.json", "r", encoding="utf-8") as file:
-        videosfr = json.load(file)
-    vidoesfrR3 = []
-    for videofr in tqdm(videosfr):
-        context = getContext(videofr['id_chaine'],videos,channels)
-        vidoesfrR3.append(
-              {
-                'id_chaine':videofr['id_chaine'],
-                'videofr_id':videofr['id_video'],
-                'context':context
-              }
-            )
-    with open("../jsons/videosfrR3.json", "w", encoding="utf-8") as f:
-       json.dump(vidoesfrR3, f, ensure_ascii=False, indent=2)
-       print(Style.BRIGHT+Fore.GREEN+'\n json saved'+Style.RESET_ALL)
-       print(Style.BRIGHT+Fore.YELLOW+f'\n json length is : {len(vidoesfrR3)}'+Style.RESET_ALL)
- 
-def getCountry(text):
-    sentence = Sentence(text)
-    tagger.predict(sentence)
-    country_codes = Counter()
-    entities_countries = {}
-    
-    for entity in sentence.get_spans('ner'):
-        label = entity.get_label("ner")
-        if label.value == "LOC" and label.score >= 0.6:
-            try:
-                location = geolocator.geocode(entity.text, language='fr', addressdetails=True, timeout=10)
-                if location and "country_code" in location.raw['address']:
-                    code = location.raw['address']['country_code'].upper()
-                    country_codes[code] += 1
-                    entities_countries[entity.text] = code
-                time.sleep(1)  # respecter la limite Nominatim
-            except GeocoderTimedOut:
-                continue
-            except Exception as e:
-                print(f"Erreur avec '{entity.text}':", e)
+def findCountry(locations):
+    countries,details = getGeocoding(locations)
+    #print("countries ",countries)
+    if len(countries)>0:
+        if len(countries) == 1:
+            return countries[0],details
+        else :
+            counts = countRepetitions(countries)
+            return counts.most_common(1)[0][0],details
+    return '',details
 
-    if country_codes:
-        return country_codes.most_common(1)[0][0],entities_countries
-    else:
-        return 'unknown', {}
+def RefineChannel(channel,videos):
+
+    locationsChannel_1 = getNer(channel['nom_chaine']+'\n'+channel['bio'])
+    #print("locationsChannel_1",locationsChannel_1)
+
+    if len(locationsChannel_1)>0:
+        channelLocation,details = findCountry(locationsChannel_1)  
+        return channelLocation,details
+    else :
+        context = getVidoesdata(channel['id_chaine'],videos)
+        locationsChannel_2 = getNer(context)
+        #print("locationsChannel_2 ",locationsChannel_2)
+        if len(locationsChannel_2)>0:
+
+            channelLocation,details = findCountry(locationsChannel_2) 
+            return channelLocation,details
+        else:
+            return '',{}
+    
+def RefineAllChannels():
+
+    channels_location_Unknown = openJson("../jsons/channels_location_Unknown.json")
+    videos = openJson("../../collecting/jsons/videos.json")
+    temp = 0
+    for channel in tqdm(channels_location_Unknown,"Channels-Locations Refining..."):
+        start = time.time()
+        channelLocation,details = RefineChannel(channel,videos)
+        end = time.time()
+        channel['localisation']=channelLocation
+        channel['localisation_details']= details
+        channel['localisationTime(s)'] = end-start
        
-def RefineLanguage3():
-    with open("../jsons/videosfrR3.json", "r", encoding="utf-8") as file:
-        videosfrR3 = json.load(file)
-    
-    tempsave = 0 # For safety reason,in case the loop is breaked a temporary save is executed.
-    
-    for videofr in tqdm(videosfrR3):
-        country,locations = getCountry(videofr['context'])
-        videofr['country'] = country
-        videofr['finded_locations'] = locations
+        temp+=1
         
-        print(Style.BRIGHT+Fore.GREEN+ f'\n--{country}--\n'+Style.RESET_ALL)
-        #print(locations)
-        print(json.dumps(locations, indent=2, ensure_ascii=False))
-        
-        tempsave+=1
-        if tempsave>=300 :
-            with open("../jsons/videosfrR3.json", "w", encoding="utf-8") as f:
-                json.dump(videosfrR3, f, ensure_ascii=False, indent=2)
-                print(Style.BRIGHT+Fore.GREEN+ f'\n json saved --{tempsave}--'+Style.RESET_ALL)
-            tempsave = 0
-                
-    with open("../jsons/videosfrR3.json", "w", encoding="utf-8") as f:
-        json.dump(videosfrR3, f, ensure_ascii=False, indent=2)
-        print(Style.BRIGHT+Fore.GREEN+'\n json saved'+Style.RESET_ALL)
-        print(Style.BRIGHT+Fore.YELLOW+f'\n json length is : {len(videosfrR3)}'+Style.RESET_ALL)
-            
+        if temp >= 100:
+            saveJson("../jsons/channels_location_Unknown.json",channels_location_Unknown)
+            temp = 0
+
+    saveJson("../jsons/channels_location_Unknown.json",channels_location_Unknown)
+
