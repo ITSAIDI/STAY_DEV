@@ -27,6 +27,7 @@ dependencies = [
     "scrapetube>=2.5.1",
     "seaborn>=0.13.2",
     "selenium>=4.31.0",
+    "sentence-transformers>=4.1.0",
     "spacy>=3.8.5",
     "textrazor>=1.4.1",
     "tqdm>=4.67.1",
