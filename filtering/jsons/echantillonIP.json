@@ -1,0 +1,6602 @@
+[
+  {
+    "id_video": "NRzflSM89iI",
+    "llmScore": 10,
+    "nbrQueries": 5,
+    "IP": 8.5
+  },
+  {
+    "id_video": "6CI-4_XszYg",
+    "llmScore": 10,
+    "nbrQueries": 107,
+    "IP": 39.1
+  },
+  {
+    "id_video": "E1Zo4dBPbGM",
+    "llmScore": 10,
+    "nbrQueries": 3,
+    "IP": 7.9
+  },
+  {
+    "id_video": "z35x21dbhsw",
+    "llmScore": 9,
+    "nbrQueries": 30,
+    "IP": 15.3
+  },
+  {
+    "id_video": "iF3O2TSheXI",
+    "llmScore": 10,
+    "nbrQueries": 162,
+    "IP": 55.6
+  },
+  {
+    "id_video": "9nl8mw96R90",
+    "llmScore": 10,
+    "nbrQueries": 66,
+    "IP": 26.8
+  },
+  {
+    "id_video": "viSl4Gv9mqU",
+    "llmScore": 9,
+    "nbrQueries": 82,
+    "IP": 30.9
+  },
+  {
+    "id_video": "A31isr90nNI",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "9-pbc-zRdss",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "_l191QtAqlc",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "-5ahOCpQi-k",
+    "llmScore": 9,
+    "nbrQueries": 10,
+    "IP": 9.3
+  },
+  {
+    "id_video": "7dO0lOOPZVw",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "pCf8PjSn6xs",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "YER-2qYt2B0",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "YER-2qYt2B0",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "lSoWicUMVlM",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "G4_vmWaSU3Q",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "CbPHyfHqIHw",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "yu5wQ_e1UMo",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "1UvvwnWkFho",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "tbrycDTUECg",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "e2gMKuiDxQY",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "VmaB1cxsLxA",
+    "llmScore": 9,
+    "nbrQueries": 16,
+    "IP": 11.1
+  },
+  {
+    "id_video": "-PYlxVfbEGA",
+    "llmScore": 9,
+    "nbrQueries": 10,
+    "IP": 9.3
+  },
+  {
+    "id_video": "IG35vKlx0U0",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "EyExd5h_j3M",
+    "llmScore": 9,
+    "nbrQueries": 18,
+    "IP": 11.7
+  },
+  {
+    "id_video": "pzMvlEuc7xc",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "-6ecq5hc5ig",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "gjcxL3mVVe0",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "VC0jyL7qnDU",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "1Tur0zcDnvU",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "XYZwomaR3ns",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "0nZyupbiRVQ",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "LJP8bYpCBPI",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "7ZnBr3v59Iw",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "HkpV4V4dYOw",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "ayUMX5QFZBs",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "Wcgs5XjxzFs",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "vJSzXIPoOkw",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "aZusRHXECMY",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "LifnAsRRY4E",
+    "llmScore": 10,
+    "nbrQueries": 27,
+    "IP": 15.1
+  },
+  {
+    "id_video": "EMKZk61uA0w",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "EMKZk61uA0w",
+    "llmScore": 6,
+    "nbrQueries": 2,
+    "IP": 4.799999999999999
+  },
+  {
+    "id_video": "U7RY1lzS6us",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "_3X3muyDFKY",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "W79c-I7vqFI",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "8ChX6276Rhk",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "M92CPBXG0U0",
+    "llmScore": 9,
+    "nbrQueries": 12,
+    "IP": 9.899999999999999
+  },
+  {
+    "id_video": "FZBgBkMdgTg",
+    "llmScore": 10,
+    "nbrQueries": 88,
+    "IP": 33.4
+  },
+  {
+    "id_video": "BCENbxCl7XU",
+    "llmScore": 9,
+    "nbrQueries": 21,
+    "IP": 12.6
+  },
+  {
+    "id_video": "ihOZZgTg9hg",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "NgdYYbRCtrc",
+    "llmScore": 10,
+    "nbrQueries": 11,
+    "IP": 10.3
+  },
+  {
+    "id_video": "3KxD8q2oWVc",
+    "llmScore": 9,
+    "nbrQueries": 88,
+    "IP": 32.699999999999996
+  },
+  {
+    "id_video": "5nsdQucYdak",
+    "llmScore": 9,
+    "nbrQueries": 12,
+    "IP": 9.899999999999999
+  },
+  {
+    "id_video": "XDvc6vkvKJU",
+    "llmScore": 9,
+    "nbrQueries": 48,
+    "IP": 20.7
+  },
+  {
+    "id_video": "85i3qfuDK1g",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "jLlyOeOrIzA",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "sOTzAnxcohI",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "NHLziogcmNA",
+    "llmScore": 9,
+    "nbrQueries": 9,
+    "IP": 9.0
+  },
+  {
+    "id_video": "B9oMHIbBJaQ",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "-cmVPa6vrHM",
+    "llmScore": 9,
+    "nbrQueries": 14,
+    "IP": 10.5
+  },
+  {
+    "id_video": "nTi-xbAEjOw",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "-v1RyFcWmp8",
+    "llmScore": 9,
+    "nbrQueries": 9,
+    "IP": 9.0
+  },
+  {
+    "id_video": "krNa-Re4Hlw",
+    "llmScore": 9,
+    "nbrQueries": 15,
+    "IP": 10.8
+  },
+  {
+    "id_video": "YakXcfaE9YA",
+    "llmScore": 8,
+    "nbrQueries": 7,
+    "IP": 7.699999999999999
+  },
+  {
+    "id_video": "VbhHpgDrPD0",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "SBmubDSyn3Q",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "XvsQoaumzNg",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "3qYQJQEU2Pk",
+    "llmScore": 9,
+    "nbrQueries": 28,
+    "IP": 14.7
+  },
+  {
+    "id_video": "LimuekuregU",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "LimuekuregU",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "f1Lj91M5U6E",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "3fVTRIFiCck",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "efy2uUZG7JQ",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "A6ULOgGvSmk",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "uPIyZCw-Odk",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "T6cFPxLRkTs",
+    "llmScore": 9,
+    "nbrQueries": 10,
+    "IP": 9.3
+  },
+  {
+    "id_video": "7bb-3Y96Ixw",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "ftyO41TYOI0",
+    "llmScore": 9,
+    "nbrQueries": 25,
+    "IP": 13.8
+  },
+  {
+    "id_video": "_eQmH7eqT64",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "Zyv99CUSe0M",
+    "llmScore": 9,
+    "nbrQueries": 15,
+    "IP": 10.8
+  },
+  {
+    "id_video": "MrpGaGb-iFY",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "IJ5YTqI3fqY",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "N8dPyKqeQvQ",
+    "llmScore": 9,
+    "nbrQueries": 14,
+    "IP": 10.5
+  },
+  {
+    "id_video": "eH8bnmclXGo",
+    "llmScore": 9,
+    "nbrQueries": 24,
+    "IP": 13.5
+  },
+  {
+    "id_video": "ERTG4JexXLw",
+    "llmScore": 8,
+    "nbrQueries": 9,
+    "IP": 8.299999999999999
+  },
+  {
+    "id_video": "i4cpZ76nnf8",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "9Wi53NrNL04",
+    "llmScore": 9,
+    "nbrQueries": 13,
+    "IP": 10.2
+  },
+  {
+    "id_video": "KynhuzSEtqU",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "IetnX1zHuWE",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "wpjiT-hCfR4",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "mGlfXPQJL9Y",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "OmshTBwMZt0",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "bM4ii9-EP1k",
+    "llmScore": 8,
+    "nbrQueries": 6,
+    "IP": 7.3999999999999995
+  },
+  {
+    "id_video": "RjAFHTTGH60",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "RBkzm2lSqKE",
+    "llmScore": 8,
+    "nbrQueries": 7,
+    "IP": 7.699999999999999
+  },
+  {
+    "id_video": "v7VSeqTj1S8",
+    "llmScore": 10,
+    "nbrQueries": 87,
+    "IP": 33.099999999999994
+  },
+  {
+    "id_video": "LXoDDQ_GpiA",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "LXoDDQ_GpiA",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "AEhDDHES19g",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "2Yau2HrKDM4",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "kUIPnI6fBCU",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "qftPJ3vP26Y",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "6AuAhotFf6A",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "TfwKOE_bv4g",
+    "llmScore": 6,
+    "nbrQueries": 3,
+    "IP": 5.1
+  },
+  {
+    "id_video": "X_StBE-tyXw",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "hAgGD_YiFlA",
+    "llmScore": 7,
+    "nbrQueries": 6,
+    "IP": 6.699999999999999
+  },
+  {
+    "id_video": "HhQ7KohYp18",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "_j582iDvMGQ",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "wEaZTXMsbK0",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "ex2KDWtFW_Q",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "F2Htc-RF4R0",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "ZFfc0R9IiZU",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "YFQCiz6-xx4",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "amnDBxwuRRg",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "JZNhEr9takk",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "b3NDEBu6OJQ",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "oMXFZgiM9F4",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "ZHl25-3t_Jc",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "yTQYw5Omdso",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "-5UIyQPhSvM",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "M57HHnx3iAg",
+    "llmScore": 9,
+    "nbrQueries": 24,
+    "IP": 13.5
+  },
+  {
+    "id_video": "4voCJjxOoAE",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "HheJdCzUBkQ",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "Vz4yibOxdug",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "eEWiyt4JZmw",
+    "llmScore": 8,
+    "nbrQueries": 9,
+    "IP": 8.299999999999999
+  },
+  {
+    "id_video": "eEWiyt4JZmw",
+    "llmScore": 8,
+    "nbrQueries": 9,
+    "IP": 8.299999999999999
+  },
+  {
+    "id_video": "w-ZzRpXvgqI",
+    "llmScore": 9,
+    "nbrQueries": 13,
+    "IP": 10.2
+  },
+  {
+    "id_video": "7ZX0nQrq05Q",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "oaJcEvGe3lQ",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "OzlVBfSFR-c",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "llEgjaXDR0k",
+    "llmScore": 6,
+    "nbrQueries": 2,
+    "IP": 4.799999999999999
+  },
+  {
+    "id_video": "K_DFOssQRBw",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "KJeHDFicB1g",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "c65AOBiV4ew",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "ydO_4q91fJk",
+    "llmScore": 10,
+    "nbrQueries": 8,
+    "IP": 9.4
+  },
+  {
+    "id_video": "ZtKqOFXCX1Y",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "81OLMeIWjzE",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "0mGmEw96pLE",
+    "llmScore": 10,
+    "nbrQueries": 68,
+    "IP": 27.4
+  },
+  {
+    "id_video": "I8zyXW1R4dY",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "GWsvm_VriS0",
+    "llmScore": 9,
+    "nbrQueries": 22,
+    "IP": 12.899999999999999
+  },
+  {
+    "id_video": "1uwAf3mmluk",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "LIJ3eH0qoQI",
+    "llmScore": 8,
+    "nbrQueries": 8,
+    "IP": 8.0
+  },
+  {
+    "id_video": "lZIVe1UVdN8",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "gEOjS9nk5Kg",
+    "llmScore": 8,
+    "nbrQueries": 9,
+    "IP": 8.299999999999999
+  },
+  {
+    "id_video": "6mM5v2lKtIY",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "ulHrMzlbGp0",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "AOGwUQ56rkc",
+    "llmScore": 10,
+    "nbrQueries": 2,
+    "IP": 7.6
+  },
+  {
+    "id_video": "c_MFhZMdKbY",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "LHDhp6tqQI0",
+    "llmScore": 9,
+    "nbrQueries": 12,
+    "IP": 9.899999999999999
+  },
+  {
+    "id_video": "B21So1_VYMY",
+    "llmScore": 9,
+    "nbrQueries": 112,
+    "IP": 39.9
+  },
+  {
+    "id_video": "3BgBITcr9So",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "NgzTNEpm4-w",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "RM5Mzgh07A4",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "RM5Mzgh07A4",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "8E_cw_Hn3v0",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "p6-4-DMjDY0",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "7W3WSj7QuzU",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "ZbAq3xPHuQ4",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "KNnyTf1l6dg",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "j4rQ8FAKEAk",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "J8rLzR9yByg",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "K1MpIjlpUy0",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "e9f2ALW1zLY",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "iAMAGNLO37A",
+    "llmScore": 8,
+    "nbrQueries": 18,
+    "IP": 11.0
+  },
+  {
+    "id_video": "ihi165Ha_58",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "imLUIQnpzTU",
+    "llmScore": 10,
+    "nbrQueries": 58,
+    "IP": 24.4
+  },
+  {
+    "id_video": "hr_vD5fy8FA",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "mqj4FAw06wo",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "x8NLEDvgESk",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "qWPEATmeIUU",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "grrBPjWgPE0",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "ViaVmfrmF2M",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "9QxmGn5If48",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "ScNDOguxyQE",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "-inrKRnDpiU",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "I9-khUrt2qI",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "w06_1HNoxZM",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "jlfz5KWdP1I",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "s8mNAirza5U",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "94GAyrnAq8w",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "HkYYWec5JjY",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "HkYYWec5JjY",
+    "llmScore": 10,
+    "nbrQueries": 1,
+    "IP": 7.3
+  },
+  {
+    "id_video": "93XeojuElwA",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "3SCLflWdpeg",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "x0vRWEFKlb8",
+    "llmScore": 8,
+    "nbrQueries": 6,
+    "IP": 7.3999999999999995
+  },
+  {
+    "id_video": "hKAPzInHZs0",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "GNIKAhiizyU",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "k2zPHYtPDYA",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "L30sT4Nxsx0",
+    "llmScore": 9,
+    "nbrQueries": 37,
+    "IP": 17.4
+  },
+  {
+    "id_video": "ss568YMuVUM",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "qB7mwR4PERs",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "QUDYFP2xDYk",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "lwDKZiMEjlw",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "Jj98cj-r9wI",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "Rpz5t48b9a8",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "Wc0r-ExqjB8",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "HaTRptXhtzk",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "UKdt2Su7eew",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "ymf8S_h_KaQ",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "LiOxQ1eIwk4",
+    "llmScore": 9,
+    "nbrQueries": 15,
+    "IP": 10.8
+  },
+  {
+    "id_video": "2lkdgOdX3jA",
+    "llmScore": 9,
+    "nbrQueries": 19,
+    "IP": 12.0
+  },
+  {
+    "id_video": "mFqSuB8Vt40",
+    "llmScore": 9,
+    "nbrQueries": 10,
+    "IP": 9.3
+  },
+  {
+    "id_video": "Vai-581l-kc",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "4hPDZvKFRcs",
+    "llmScore": 10,
+    "nbrQueries": 6,
+    "IP": 8.8
+  },
+  {
+    "id_video": "2gtwp02AiVE",
+    "llmScore": 10,
+    "nbrQueries": 22,
+    "IP": 13.6
+  },
+  {
+    "id_video": "6Aty6FPBshY",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "SGslcr5UEwQ",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "TZSkspDJgxA",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "55Z_usdxsoE",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "55Z_usdxsoE",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "YcE0YlIMyCs",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "t14uEe-Hjh8",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "bIMjariydVA",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "OmT42WYsstU",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "P9kotBU36XI",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "IcHfSnYhoTs",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "De1X6ThCx9k",
+    "llmScore": 1,
+    "nbrQueries": 2,
+    "IP": 1.2999999999999998
+  },
+  {
+    "id_video": "RfuShOa10m0",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "UDK78cTg_lk",
+    "llmScore": 9,
+    "nbrQueries": 12,
+    "IP": 9.899999999999999
+  },
+  {
+    "id_video": "NzoaJgzKWIU",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "s54awbl_G4s",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "vQhkwuEACEg",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "71OgP_082kE",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "b6jWmnORmwM",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "79UsXG2zUeA",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "Xh88OaKYNUs",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "leiUG5re4m8",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "n1Y8x-DM6DI",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "EWNjhLPss8o",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "cbdk2qmFMI4",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "FCv7HDlaqSA",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "i_N4H4t0aFg",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "74FhjUmo6Og",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "jhs5BvrlT88",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "ARI6J4PQ74c",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "3Bejohn3D2c",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "xBRhefx1qOc",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "xBRhefx1qOc",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "ZYI5bSJK1tU",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "NHLH58L6VYA",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "G8opfBP1rg8",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "iCDYAunYQFA",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "yvRSd9A3GGM",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "EICl50Aj8ro",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "gq4PzMtTGxA",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "u0xKDWXbFvY",
+    "llmScore": 9,
+    "nbrQueries": 56,
+    "IP": 23.1
+  },
+  {
+    "id_video": "g-agU2r3JWY",
+    "llmScore": 8,
+    "nbrQueries": 8,
+    "IP": 8.0
+  },
+  {
+    "id_video": "TzUawmn80XA",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "mh5g8rDQwzU",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "M4IGy_aWug8",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "TeCJ4s_9Gts",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "hXQfRPOpXbY",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "S5l6mCU8xL4",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "MuFOH6Rtm1Y",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "C2FACGzIJ3c",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "CW65LazOX5s",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "kxQhRwgf2u4",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "9uGmCSXJYgk",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "FQ21tjyIOeo",
+    "llmScore": 8,
+    "nbrQueries": 31,
+    "IP": 14.899999999999999
+  },
+  {
+    "id_video": "fIvSQsHKEHE",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "6ZDmDWITp9I",
+    "llmScore": 3,
+    "nbrQueries": 1,
+    "IP": 2.3999999999999995
+  },
+  {
+    "id_video": "heOuHHI_C4I",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "5iNpvA7uwg4",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "OSLSlojC8Yc",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "z-uIawE6UTE",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "z-uIawE6UTE",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "i2TsSh3-yLU",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "HetQbwCA5ys",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "meeLkuHoswI",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "SvaITbil4vQ",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "68YnJLnHDuU",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "iFMG2f2-BNs",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "HQwNWuC5k-A",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "zakYfUoo7fg",
+    "llmScore": 3,
+    "nbrQueries": 1,
+    "IP": 2.3999999999999995
+  },
+  {
+    "id_video": "FSPQ6x1y2oU",
+    "llmScore": 6,
+    "nbrQueries": 2,
+    "IP": 4.799999999999999
+  },
+  {
+    "id_video": "2TiSPUImHbQ",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "GojXvlVfcAU",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "R0eS9tica-4",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "k2d_jSuXNM0",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "8mRzKhlcH6o",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "BXYpXbfF2Xk",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "fFLdqPRBToI",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "-J8tUNVD7u4",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "ebwA9efjDyg",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "S-YEu_UJiio",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "70phFq2MnD4",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "Kg_moYtLH0Q",
+    "llmScore": 8,
+    "nbrQueries": 8,
+    "IP": 8.0
+  },
+  {
+    "id_video": "YkiG5gE8Q8A",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "B_-g9Pp2bBQ",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "sgm_zU_W5jc",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "B5Kw5S2kfw8",
+    "llmScore": 9,
+    "nbrQueries": 44,
+    "IP": 19.5
+  },
+  {
+    "id_video": "-45uiNBc-KY",
+    "llmScore": 8,
+    "nbrQueries": 24,
+    "IP": 12.799999999999999
+  },
+  {
+    "id_video": "bUMd5TYbhMo",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "bUMd5TYbhMo",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "i255mA2XDLg",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "FKlWh9e33Ks",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "vYR-oN1Fols",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "qmHxjcYCgJI",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "1HbTJ6LjMkg",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "erLg5U_1SqY",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "LsNOE_ApxG0",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "8DGcT8d-43I",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "mni8sZJSdfQ",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "CDBkv2Az8RY",
+    "llmScore": 2,
+    "nbrQueries": 2,
+    "IP": 2.0
+  },
+  {
+    "id_video": "AuI_MMfceNQ",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "cF6LgZktn3k",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "YAnFVLP1orQ",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "1c3AV5X1exg",
+    "llmScore": 2,
+    "nbrQueries": 2,
+    "IP": 2.0
+  },
+  {
+    "id_video": "X3A2Wfqcoko",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "65PZvB-2aqw",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "GgS8H0L9Uy8",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "cLKgmqed-rY",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "oTEmWvK453U",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "G28uj1O6xcw",
+    "llmScore": 7,
+    "nbrQueries": 6,
+    "IP": 6.699999999999999
+  },
+  {
+    "id_video": "BgcwRob6S7c",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "xOMVDdzZCAE",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "_jmYodtbYKE",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "nmapTAJcA4E",
+    "llmScore": 4,
+    "nbrQueries": 2,
+    "IP": 3.4
+  },
+  {
+    "id_video": "fhHGI_yXbyI",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "wPGNUPVjgzk",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "pJtu9gf-xOg",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "pJtu9gf-xOg",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "Mq-vL_V_3hA",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "NhjRcdbPpMg",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "7-l-_Av3I6I",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "hdeJUcDYTqY",
+    "llmScore": 9,
+    "nbrQueries": 63,
+    "IP": 25.2
+  },
+  {
+    "id_video": "bLoHGlpQdaU",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "4RNYUpDgp10",
+    "llmScore": 10,
+    "nbrQueries": 36,
+    "IP": 17.799999999999997
+  },
+  {
+    "id_video": "8waoAttTffY",
+    "llmScore": 2,
+    "nbrQueries": 2,
+    "IP": 2.0
+  },
+  {
+    "id_video": "RmN529MFKpU",
+    "llmScore": 2,
+    "nbrQueries": 2,
+    "IP": 2.0
+  },
+  {
+    "id_video": "99vuxK3Z14Y",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "5WzUWDhp4Ow",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "cTQMX0n48-Q",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "96T_cMJJthU",
+    "llmScore": 6,
+    "nbrQueries": 2,
+    "IP": 4.799999999999999
+  },
+  {
+    "id_video": "UvOn_jVrSAg",
+    "llmScore": 6,
+    "nbrQueries": 2,
+    "IP": 4.799999999999999
+  },
+  {
+    "id_video": "s3X_N5Y2fUY",
+    "llmScore": 10,
+    "nbrQueries": 2,
+    "IP": 7.6
+  },
+  {
+    "id_video": "POPtzy-5jLg",
+    "llmScore": 10,
+    "nbrQueries": 97,
+    "IP": 36.099999999999994
+  },
+  {
+    "id_video": "v_zazV2r3Qc",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "XW0XiPLImeg",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "RsgydG1bTm4",
+    "llmScore": 10,
+    "nbrQueries": 11,
+    "IP": 10.3
+  },
+  {
+    "id_video": "VV-_swO-S8k",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "OatSU906QT0",
+    "llmScore": 9,
+    "nbrQueries": 22,
+    "IP": 12.899999999999999
+  },
+  {
+    "id_video": "OMiwTN9XLGM",
+    "llmScore": 8,
+    "nbrQueries": 14,
+    "IP": 9.8
+  },
+  {
+    "id_video": "2Tp70X_U5og",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "fCAUbCwsQ9A",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "ttAYTle1ocw",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "L1cXBYBIkWA",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "IHxz_qjL9D0",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "XEkMBsW5qOA",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "XEkMBsW5qOA",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "5d0hw4TZfFU",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "QThC10R9mMA",
+    "llmScore": 10,
+    "nbrQueries": 7,
+    "IP": 9.1
+  },
+  {
+    "id_video": "8rAKrGSj3No",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "dNiLrpYD_uk",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "xro4pjbE7Xs",
+    "llmScore": 8,
+    "nbrQueries": 8,
+    "IP": 8.0
+  },
+  {
+    "id_video": "5uAfBTnxMq4",
+    "llmScore": 7,
+    "nbrQueries": 5,
+    "IP": 6.3999999999999995
+  },
+  {
+    "id_video": "MW5TnTnQ_1Q",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "4oRgLcuGO74",
+    "llmScore": 7,
+    "nbrQueries": 6,
+    "IP": 6.699999999999999
+  },
+  {
+    "id_video": "AYQmIlzRRI8",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "SxkDjZ7GOM8",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "iS9SAXgusq4",
+    "llmScore": 7,
+    "nbrQueries": 4,
+    "IP": 6.1
+  },
+  {
+    "id_video": "n1eiHMsTWiE",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "LNOKw93wnRk",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "CENTSXvuKSE",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "XzD5byHxW68",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "3Ujg5K8nDTQ",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "NEnaxn-nRLo",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "gG3AAgDjF6M",
+    "llmScore": 9,
+    "nbrQueries": 13,
+    "IP": 10.2
+  },
+  {
+    "id_video": "7ud9Yshseww",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "JU517Lpz64Q",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "S2GVvXkKLeU",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "GkZ6xJZ-BzY",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "qBzoqgnSkUY",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "eKudrSrjwFM",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "MOSzLYnA_14",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "TOPIXbkj70k",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "aDbbH734ThA",
+    "llmScore": 6,
+    "nbrQueries": 2,
+    "IP": 4.799999999999999
+  },
+  {
+    "id_video": "aDbbH734ThA",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "VgUVzkHVc7I",
+    "llmScore": 7,
+    "nbrQueries": 5,
+    "IP": 6.3999999999999995
+  },
+  {
+    "id_video": "7gfbk82ksLY",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "EqVC09fnKXc",
+    "llmScore": 9,
+    "nbrQueries": 31,
+    "IP": 15.599999999999998
+  },
+  {
+    "id_video": "9cyD8-lcnYA",
+    "llmScore": 9,
+    "nbrQueries": 32,
+    "IP": 15.899999999999999
+  },
+  {
+    "id_video": "jJl82-vQdok",
+    "llmScore": 8,
+    "nbrQueries": 19,
+    "IP": 11.3
+  },
+  {
+    "id_video": "KwdP5guQaDw",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "JLhTKoqFxeU",
+    "llmScore": 7,
+    "nbrQueries": 5,
+    "IP": 6.3999999999999995
+  },
+  {
+    "id_video": "g0WD_YROx64",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "daWOd63h05c",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "zNIDJrweT9k",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "ZipUXj8sF-8",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "_iJ3J3sRMg4",
+    "llmScore": 8,
+    "nbrQueries": 13,
+    "IP": 9.5
+  },
+  {
+    "id_video": "VMcb7N4CanA",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "TYlhL4K5rz4",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "O5keBay6tM4",
+    "llmScore": 9,
+    "nbrQueries": 20,
+    "IP": 12.3
+  },
+  {
+    "id_video": "dGDPDqL3HKA",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "CPXq-jWNMHY",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "59mHqbuz8rQ",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "lJw9OIVJLMA",
+    "llmScore": 9,
+    "nbrQueries": 13,
+    "IP": 10.2
+  },
+  {
+    "id_video": "59BrehgdiC4",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "XDRYvkFg8n4",
+    "llmScore": 9,
+    "nbrQueries": 25,
+    "IP": 13.8
+  },
+  {
+    "id_video": "E3O9sDuUnb4",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "pzLlUbeRpkU",
+    "llmScore": 2,
+    "nbrQueries": 2,
+    "IP": 2.0
+  },
+  {
+    "id_video": "QQ-velNz-Lw",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "Kd-EjQLr_AE",
+    "llmScore": 8,
+    "nbrQueries": 6,
+    "IP": 7.3999999999999995
+  },
+  {
+    "id_video": "ohl5u-83CDw",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "9giIzWhP8zI",
+    "llmScore": 3,
+    "nbrQueries": 2,
+    "IP": 2.6999999999999997
+  },
+  {
+    "id_video": "9giIzWhP8zI",
+    "llmScore": 3,
+    "nbrQueries": 2,
+    "IP": 2.6999999999999997
+  },
+  {
+    "id_video": "39R8_RRfJc0",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "uo5dDdhXBTM",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "h6P6QfIADxQ",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "UsDls0K6jLU",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "d_kJeyFr32o",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "pcGIQ2xx-Xs",
+    "llmScore": 9,
+    "nbrQueries": 15,
+    "IP": 10.8
+  },
+  {
+    "id_video": "ArCKm1w22do",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "Twcq5sKVopE",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "GR_zR6Exgyc",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "nXXZWtoIMks",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "YE_krX2_BcE",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "9l7XwEi2bgE",
+    "llmScore": 8,
+    "nbrQueries": 9,
+    "IP": 8.299999999999999
+  },
+  {
+    "id_video": "nzNP7CI7v7M",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "teB1O9Vai6g",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "fLGRRBEraeU",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "2ElUav2lVag",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "54rCbAEWtR8",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "2U5jfAsuV18",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "nM6bhY-oGk8",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "Apcq7ggQTWU",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "4JLOFiiIGq4",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "trgPVWUeHIk",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "MRB_jAMjOoU",
+    "llmScore": 9,
+    "nbrQueries": 9,
+    "IP": 9.0
+  },
+  {
+    "id_video": "GGWp0xqw5Vk",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "d7jHCy0eZZo",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "WjeLiBUyQYU",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "ssW0jBy9asc",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "ssW0jBy9asc",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "oe2ZWdEK1oo",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "BVcyMNNb5sQ",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "-ScJnKKBfHs",
+    "llmScore": 9,
+    "nbrQueries": 10,
+    "IP": 9.3
+  },
+  {
+    "id_video": "a2sq-OtgTbU",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "14Ail1wWJ_M",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "yA1_t9ek9L8",
+    "llmScore": 9,
+    "nbrQueries": 9,
+    "IP": 9.0
+  },
+  {
+    "id_video": "9A5d55hWO6E",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "iVlPgIHF2g0",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "3bAOEjj1GC8",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "9bdruQeQmmk",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "-os9gV3Fjjs",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "7Pk00nxCl3Q",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "PrJY3oulorA",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "_pqIFlDTfGs",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "LcpCbEWrR5k",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "5wwN3hr5_Bw",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "IPYv5LjFy2I",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "3rUEHLTiY-I",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "JGVaSp1TzgE",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "tGnj_I9nhMo",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "lsfpkCrx94o",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "ueqGfkn5nXw",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "oVVc99Ea9Os",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "YYeRCfQ6Dsk",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "NmRVRpUulXU",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "tMfQpklT-dI",
+    "llmScore": 9,
+    "nbrQueries": 35,
+    "IP": 16.8
+  },
+  {
+    "id_video": "aOza7UCfi1o",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "aOza7UCfi1o",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "3OXbnQutAt0",
+    "llmScore": 7,
+    "nbrQueries": 6,
+    "IP": 6.699999999999999
+  },
+  {
+    "id_video": "QeZ9u1d4Snw",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "U2pDfU0668k",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "OOTd4MGlkZE",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "FK66uyb2ToI",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "fUP5gcJnXK0",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "ey9eDpr2khw",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "gq-1LjwWcDE",
+    "llmScore": 9,
+    "nbrQueries": 19,
+    "IP": 12.0
+  },
+  {
+    "id_video": "e3msYAj_6ic",
+    "llmScore": 10,
+    "nbrQueries": 21,
+    "IP": 13.3
+  },
+  {
+    "id_video": "5AW5F9XWlsI",
+    "llmScore": 9,
+    "nbrQueries": 27,
+    "IP": 14.399999999999999
+  },
+  {
+    "id_video": "6jXyZDQnI0Y",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "DFGSx-n1Oas",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "giXiOlh0pzM",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "F90Q5v8jM4A",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "zeJzDeyJIWs",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "jfcSojHsyGc",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "o25MXxSkj_U",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "T_Vu-WGVnDY",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "6LxzXLx4N2M",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "0esFlxOlZgw",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "hGVqJ9T6Ppc",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "c1wj-BwlHx8",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "X-LylDhHQT8",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "TgAy2cHDNA0",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "H4SsCcc-Ifg",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "SFfL9MimBE0",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "BiiiJaToZ5c",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "BiiiJaToZ5c",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "pHjrj9eJRiE",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "hIGvqUHHzCo",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "-LGvtRoj2u8",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "f86GFO50NQk",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "9mGaAvScTI8",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "AeTXBJq4MTE",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "5UIsAYWjtVg",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "otslmpbS_k4",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "_MpJgYav_xo",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "j01V-wqA5b4",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "wHbEEkVxZUo",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "vW2khD_CSwg",
+    "llmScore": 10,
+    "nbrQueries": 10,
+    "IP": 10.0
+  },
+  {
+    "id_video": "dXevmgWuS2Q",
+    "llmScore": 10,
+    "nbrQueries": 21,
+    "IP": 13.3
+  },
+  {
+    "id_video": "Npz3P9yABz8",
+    "llmScore": 9,
+    "nbrQueries": 13,
+    "IP": 10.2
+  },
+  {
+    "id_video": "Rq2mY46CyPs",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "yjA2RiRVl_U",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "UgD8b3UV6qU",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "FRpF97iCwHc",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "RdumlHdfy04",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "fMMWTl-VzHI",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "Z5M6eYDGNv4",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "Z3EhDGx62FY",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "aW1I5LsuYIM",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "YmE5ln7JuIQ",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "QcO5vXVbXTY",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "NtC_xg3vYWg",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "AYYl7SuXbS0",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "AYYl7SuXbS0",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "PGuW_K39Kyk",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "SgIwgf-oVT0",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "YXJICfYa0z8",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "LMYh50V3sHs",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "y_ka7oF-TQU",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "hAce_AlXtS0",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "1EHP5vI3V2Y",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "AkZy2bWg1vU",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "JvkQDYosSRU",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "3havoll5K1M",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "RVC-DH9hgEg",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "Yb-ujblpLDQ",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "b6gCyEuMDJE",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "r2XpQJJX5M8",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "QckYUT0SGv8",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "Jf94GQDQrEg",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "KfEtxRnksdU",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "YlkmbTeR5p8",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "uoDPWniza5s",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "xLKmG3bbOQ4",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "KxxfsVhI-ag",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "chO5vRXlqSI",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "oQ-EeHQAo58",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "nSXLLml9OJc",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "j3F-AvwvM6s",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "Ywjn3ZjFL-Q",
+    "llmScore": 3,
+    "nbrQueries": 1,
+    "IP": 2.3999999999999995
+  },
+  {
+    "id_video": "N0cVC5zO-aE",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "N0cVC5zO-aE",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "yM3nGuQYZXM",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "szdCh536fNA",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "_UsvINRYRAA",
+    "llmScore": 6,
+    "nbrQueries": 3,
+    "IP": 5.1
+  },
+  {
+    "id_video": "2IguOOg39XE",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "dFvxlrz5uZQ",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "CeRLKoi1LVg",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "yeRGS4nACY8",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "jOfIx3VegOE",
+    "llmScore": 3,
+    "nbrQueries": 1,
+    "IP": 2.3999999999999995
+  },
+  {
+    "id_video": "wkiGX0hCbJM",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "Yc24O1r7FfU",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "9AHEkShwi5Y",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "KRmNgpJcI10",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "jH-VSZSc8-Y",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "sRrrObKA9k8",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "sJGZIAdyaRI",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "38hYbzQFSFE",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "L7lanZecajQ",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "jCFsMCbpeQU",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "yQWYvtY7kWI",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "Z_YrUANhmOc",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "CbJQZwDEqU4",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "tMlNR5HRPII",
+    "llmScore": 9,
+    "nbrQueries": 10,
+    "IP": 9.3
+  },
+  {
+    "id_video": "DUzglNftC9w",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "BNnlSCnd_6o",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "XeJWoVSBhNA",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "SSEc14g01hY",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "4TdBxU6qUDI",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "4TdBxU6qUDI",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "1-n03HKXzdE",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "Tf0ciNZa7-E",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "SSMY1Mq-PDA",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "L25GLHwQ-3E",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "8EtcBSOn-mA",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "EJ7CHwWBdUw",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "j7Zj7sY-XtQ",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "fMCtESAAMuc",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "cbaiO5-q0mI",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "9ORdIC52Was",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "aydRQaNBGGw",
+    "llmScore": 9,
+    "nbrQueries": 15,
+    "IP": 10.8
+  },
+  {
+    "id_video": "Qzx7E7Peuaw",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "FEwDHmEXtww",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "bmjL1PniX5w",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "9s2TgDON3_U",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "mwCAsQ_2e2I",
+    "llmScore": 8,
+    "nbrQueries": 7,
+    "IP": 7.699999999999999
+  },
+  {
+    "id_video": "LM3dNrIeOWY",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "lQRDrtLW7xQ",
+    "llmScore": 8,
+    "nbrQueries": 13,
+    "IP": 9.5
+  },
+  {
+    "id_video": "U8ezKh0Js7M",
+    "llmScore": 8,
+    "nbrQueries": 6,
+    "IP": 7.3999999999999995
+  },
+  {
+    "id_video": "5zn-6O_8oUI",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "ojGIQO66BiY",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "JwOeZoWCx84",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "E6fIy2XVd2Q",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "1UcHztkztQ4",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "Sb8KQUD2p9E",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "0uhZSgRULso",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "J9yQZcdkIH8",
+    "llmScore": 3,
+    "nbrQueries": 2,
+    "IP": 2.6999999999999997
+  },
+  {
+    "id_video": "J9yQZcdkIH8",
+    "llmScore": 2,
+    "nbrQueries": 2,
+    "IP": 2.0
+  },
+  {
+    "id_video": "6LEvKg8qKao",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "l-3ekLSsDmY",
+    "llmScore": 1,
+    "nbrQueries": 1,
+    "IP": 1.0
+  },
+  {
+    "id_video": "7JIDkOO9PP0",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "uIib2jT2r3w",
+    "llmScore": 1,
+    "nbrQueries": 1,
+    "IP": 1.0
+  },
+  {
+    "id_video": "eo1tlmmunUQ",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "-GAmpPMbvXs",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "McG4VWQhZeY",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "xcG1tuVBj7Q",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "8_f6RxY93EA",
+    "llmScore": 9,
+    "nbrQueries": 9,
+    "IP": 9.0
+  },
+  {
+    "id_video": "Dx2Ctthz63A",
+    "llmScore": 9,
+    "nbrQueries": 22,
+    "IP": 12.899999999999999
+  },
+  {
+    "id_video": "yiWyqXgkCQ0",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "9_OgldCDNvY",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "oktKQ620Oic",
+    "llmScore": 10,
+    "nbrQueries": 7,
+    "IP": 9.1
+  },
+  {
+    "id_video": "8-nYE9bZNQ8",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "CET8OH4IEzY",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "OMAhFGMdCmw",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "7tPO_BmIzLo",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "8ldnXd65o1s",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "p60yfDOIKCw",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "uDkkYZvQjZo",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "LT_99-IQHmU",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "Wq9KKuuJUnM",
+    "llmScore": 8,
+    "nbrQueries": 9,
+    "IP": 8.299999999999999
+  },
+  {
+    "id_video": "3sKcqMx1oyM",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "gtUCfzbtCJo",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "dCRmn5fj2yY",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "kUlc_EVsSV8",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "bTPs8Q5XWqI",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "bTPs8Q5XWqI",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "HOt5PMUB2c0",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "OHqK35r7hF8",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "HPxXM651ZDU",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "BTuudByJ9Kw",
+    "llmScore": 9,
+    "nbrQueries": 10,
+    "IP": 9.3
+  },
+  {
+    "id_video": "UUCBLNerDNE",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "QjiFaYKliZ0",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "r4MxZVuInWA",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "ej-p728koa0",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "V4GQ5dcUHis",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "hHJKLEfxaZs",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "JUO8X5YnUAg",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "pnD2v5lLT0o",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "WwRGOUxTK9U",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "Kyc54ZiuDLg",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "EFa75uxInoA",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "8VFDOgzi15k",
+    "llmScore": 7,
+    "nbrQueries": 5,
+    "IP": 6.3999999999999995
+  },
+  {
+    "id_video": "KVhSYd3arIU",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "u35raXt9f-I",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "j7fEJEnGczA",
+    "llmScore": 10,
+    "nbrQueries": 27,
+    "IP": 15.1
+  },
+  {
+    "id_video": "W8Zh8wLKc4Q",
+    "llmScore": 10,
+    "nbrQueries": 69,
+    "IP": 27.7
+  },
+  {
+    "id_video": "3NoygPH1WoU",
+    "llmScore": 9,
+    "nbrQueries": 50,
+    "IP": 21.3
+  },
+  {
+    "id_video": "mATf4k_AkoM",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "SNApsty0Aw0",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "yc9Ow0bkz9U",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "SofzCFGsp28",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "vNx6xMCRAIA",
+    "llmScore": 9,
+    "nbrQueries": 10,
+    "IP": 9.3
+  },
+  {
+    "id_video": "RcXjdqzr9Ps",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "RcXjdqzr9Ps",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "QCcYN8qIOAI",
+    "llmScore": 3,
+    "nbrQueries": 2,
+    "IP": 2.6999999999999997
+  },
+  {
+    "id_video": "jzEL37YGMTA",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "WkAqVG9WKiQ",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "N3jbz4RakMU",
+    "llmScore": 9,
+    "nbrQueries": 17,
+    "IP": 11.399999999999999
+  },
+  {
+    "id_video": "FxKoF21p6FM",
+    "llmScore": 9,
+    "nbrQueries": 32,
+    "IP": 15.899999999999999
+  },
+  {
+    "id_video": "b1iQuwUOttw",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "TH4Zps5ntLM",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "XWdDnMNncrc",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "oP36Vg3Opu4",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "3IHvof-yvZk",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "MbnrZ8rB1oI",
+    "llmScore": 9,
+    "nbrQueries": 12,
+    "IP": 9.899999999999999
+  },
+  {
+    "id_video": "vI2tXwq6qCU",
+    "llmScore": 10,
+    "nbrQueries": 53,
+    "IP": 22.9
+  },
+  {
+    "id_video": "eXPstpyPvRk",
+    "llmScore": 7,
+    "nbrQueries": 28,
+    "IP": 13.3
+  },
+  {
+    "id_video": "z97t4luAEPo",
+    "llmScore": 9,
+    "nbrQueries": 30,
+    "IP": 15.3
+  },
+  {
+    "id_video": "Z6il8lZvrZY",
+    "llmScore": 7,
+    "nbrQueries": 7,
+    "IP": 7.0
+  },
+  {
+    "id_video": "Y7SMz1tsrTM",
+    "llmScore": 8,
+    "nbrQueries": 28,
+    "IP": 14.0
+  },
+  {
+    "id_video": "VZt9NBqKZHY",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "SNVwsOXm9mQ",
+    "llmScore": 8,
+    "nbrQueries": 17,
+    "IP": 10.7
+  },
+  {
+    "id_video": "NRVsgoI8kBM",
+    "llmScore": 3,
+    "nbrQueries": 2,
+    "IP": 2.6999999999999997
+  },
+  {
+    "id_video": "CM6areo2nGc",
+    "llmScore": 9,
+    "nbrQueries": 29,
+    "IP": 15.0
+  },
+  {
+    "id_video": "yRgT-5en8Rw",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "xyEC9I6luRY",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "4quvU6ZNpVc",
+    "llmScore": 9,
+    "nbrQueries": 15,
+    "IP": 10.8
+  },
+  {
+    "id_video": "8SW7OsOWlRY",
+    "llmScore": 1,
+    "nbrQueries": 8,
+    "IP": 3.0999999999999996
+  },
+  {
+    "id_video": "cny9FMmeOGU",
+    "llmScore": 8,
+    "nbrQueries": 7,
+    "IP": 7.699999999999999
+  },
+  {
+    "id_video": "3kOrw-LSqV0",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "YuKEA2jCp4M",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "YuKEA2jCp4M",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "EBS7uSRKPlY",
+    "llmScore": 9,
+    "nbrQueries": 31,
+    "IP": 15.599999999999998
+  },
+  {
+    "id_video": "f5-ibnNDYps",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "Panln2bGkxY",
+    "llmScore": 9,
+    "nbrQueries": 13,
+    "IP": 10.2
+  },
+  {
+    "id_video": "6hfS2VhRzqQ",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "aObmw1KiYgU",
+    "llmScore": 9,
+    "nbrQueries": 30,
+    "IP": 15.3
+  },
+  {
+    "id_video": "pmCx3_FQnyM",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "sDiWSArdkSw",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "-dTgTSoDpxc",
+    "llmScore": 10,
+    "nbrQueries": 15,
+    "IP": 11.5
+  },
+  {
+    "id_video": "rte-YeGJkaA",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "mde8rq8WG9w",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "qppDyOgwygI",
+    "llmScore": 2,
+    "nbrQueries": 12,
+    "IP": 5.0
+  },
+  {
+    "id_video": "SgtawBkCvBM",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "LkaWu8oIE10",
+    "llmScore": 7,
+    "nbrQueries": 10,
+    "IP": 7.8999999999999995
+  },
+  {
+    "id_video": "D_GPCpK-ZFY",
+    "llmScore": 8,
+    "nbrQueries": 6,
+    "IP": 7.3999999999999995
+  },
+  {
+    "id_video": "u4HhBwdRyXw",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "ZYVCQKB6Q_Y",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "c2w98a_kQ-c",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "jjth4ZUeWhI",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "Cr33AxgN8og",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "scqVGu0xltw",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "c9bw9_k1Gok",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "eazkwVFC87E",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "m86Jgy1IyhQ",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "xDzpdOHnSH4",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "oS80iMwxd28",
+    "llmScore": 9,
+    "nbrQueries": 16,
+    "IP": 11.1
+  },
+  {
+    "id_video": "VImp0n6Qx_4",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "HRsHAoHCd3U",
+    "llmScore": 9,
+    "nbrQueries": 25,
+    "IP": 13.8
+  },
+  {
+    "id_video": "HRsHAoHCd3U",
+    "llmScore": 9,
+    "nbrQueries": 25,
+    "IP": 13.8
+  },
+  {
+    "id_video": "uSf6WZ-zldI",
+    "llmScore": 9,
+    "nbrQueries": 21,
+    "IP": 12.6
+  },
+  {
+    "id_video": "PIJFqQP4Lts",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "Yhdt8lfwETg",
+    "llmScore": 7,
+    "nbrQueries": 15,
+    "IP": 9.399999999999999
+  },
+  {
+    "id_video": "1MLn6ZoaxoE",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "4qvHeYX37tg",
+    "llmScore": 10,
+    "nbrQueries": 8,
+    "IP": 9.4
+  },
+  {
+    "id_video": "AkO4sM2F6bM",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "3PYNl-8Fnbs",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "Xy1xriY-Uk4",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "glOXaWVwU3U",
+    "llmScore": 10,
+    "nbrQueries": 12,
+    "IP": 10.6
+  },
+  {
+    "id_video": "W8Hy9yLIMKk",
+    "llmScore": 9,
+    "nbrQueries": 22,
+    "IP": 12.899999999999999
+  },
+  {
+    "id_video": "piRLlM-qROY",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "WUK1THkEmEI",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "rr9v5EkqspE",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "2bKy_7Ptkp8",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "NxHC6R_Odb0",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "3P3Cm8gyOsg",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "bK8phVDlleQ",
+    "llmScore": 9,
+    "nbrQueries": 43,
+    "IP": 19.2
+  },
+  {
+    "id_video": "xVBy-J9SRRg",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "pmGgVzWpN_0",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "SOweVg7cFUE",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "qUeRX_yVnpw",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "2grH3e2-LxA",
+    "llmScore": 1,
+    "nbrQueries": 4,
+    "IP": 1.9
+  },
+  {
+    "id_video": "KLMwyTK4XZQ",
+    "llmScore": 7,
+    "nbrQueries": 8,
+    "IP": 7.299999999999999
+  },
+  {
+    "id_video": "5z4j-vMdpi8",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "OeUHEk5xocw",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "6tm5roe99VY",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "eNPvFKBIGKg",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "eNPvFKBIGKg",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "dbaNB7-_JKY",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "XwqZ2MV97aI",
+    "llmScore": 7,
+    "nbrQueries": 4,
+    "IP": 6.1
+  },
+  {
+    "id_video": "0YLTHhvH_lk",
+    "llmScore": 7,
+    "nbrQueries": 5,
+    "IP": 6.3999999999999995
+  },
+  {
+    "id_video": "cyefI9wgZZY",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "c4znPrFBs-Q",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "cj4BhwMcEek",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "ptdvYZ7uO5w",
+    "llmScore": 6,
+    "nbrQueries": 2,
+    "IP": 4.799999999999999
+  },
+  {
+    "id_video": "O3dZEgJTzNo",
+    "llmScore": 7,
+    "nbrQueries": 9,
+    "IP": 7.6
+  },
+  {
+    "id_video": "YCrtcMQQ3II",
+    "llmScore": 8,
+    "nbrQueries": 7,
+    "IP": 7.699999999999999
+  },
+  {
+    "id_video": "lyLQYVJDerE",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "nNK2KRrjj1s",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "2PVDaQei9RY",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "JvRGUrlMcU8",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "iaUboIY9X4Q",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "6NeO3GILcog",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "tQICLhotV6Q",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "2Fqr6hv_qwY",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "DjwakY2tCTo",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "nvlMVSnu1o0",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "zWmY-SpTGF4",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "h7SFGSucPK8",
+    "llmScore": 9,
+    "nbrQueries": 9,
+    "IP": 9.0
+  },
+  {
+    "id_video": "cgBDnaED3Ag",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "0LtMRPYGCVk",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "H-aDZuL9EjU",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "ayvkehmAOrc",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "uCVGKNCfWdQ",
+    "llmScore": 9,
+    "nbrQueries": 22,
+    "IP": 12.899999999999999
+  },
+  {
+    "id_video": "YDsOiP7phtw",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "YDsOiP7phtw",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "5i4nx_8AwtI",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "rh6i_5WfBuE",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "NXSaqVf5BAQ",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "RZem8E2Gp_0",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "iDIIKfmqNZ8",
+    "llmScore": 2,
+    "nbrQueries": 3,
+    "IP": 2.3
+  },
+  {
+    "id_video": "EcoFjAHE-LE",
+    "llmScore": 6,
+    "nbrQueries": 2,
+    "IP": 4.799999999999999
+  },
+  {
+    "id_video": "MULHHN89I6M",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "hZaM0quJjrw",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "3_ITiuUrvkA",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "9d5BOwWWJ5U",
+    "llmScore": 7,
+    "nbrQueries": 13,
+    "IP": 8.799999999999999
+  },
+  {
+    "id_video": "s9sHWgLEX9A",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "zCkixK-momE",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "U67vCbpekIk",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "e-UlGJIa6RI",
+    "llmScore": 6,
+    "nbrQueries": 4,
+    "IP": 5.3999999999999995
+  },
+  {
+    "id_video": "7pNeqTZuT7E",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "Y37fg2QGkW8",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "31dKCfWtJmI",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "m7JsowTZiP8",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "OSuJfRS3_fg",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "Ueb8uOivId8",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "PxespDhtpMA",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "bSAI5srbung",
+    "llmScore": 9,
+    "nbrQueries": 12,
+    "IP": 9.899999999999999
+  },
+  {
+    "id_video": "PpE-VwDV2yw",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "Towvy4PsgX4",
+    "llmScore": 9,
+    "nbrQueries": 33,
+    "IP": 16.2
+  },
+  {
+    "id_video": "7vC_Xuz6J9A",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "YKHHuRkPnY8",
+    "llmScore": 9,
+    "nbrQueries": 16,
+    "IP": 11.1
+  },
+  {
+    "id_video": "dgcN0wM0LgE",
+    "llmScore": 9,
+    "nbrQueries": 16,
+    "IP": 11.1
+  },
+  {
+    "id_video": "dgcN0wM0LgE",
+    "llmScore": 9,
+    "nbrQueries": 16,
+    "IP": 11.1
+  },
+  {
+    "id_video": "IdCrt2aeKXI",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "wORYonnap8A",
+    "llmScore": 10,
+    "nbrQueries": 7,
+    "IP": 9.1
+  },
+  {
+    "id_video": "SIn3L-zkLns",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "4HWqNLwGph8",
+    "llmScore": 9,
+    "nbrQueries": 27,
+    "IP": 14.399999999999999
+  },
+  {
+    "id_video": "zjYP_i0VdxI",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "PNtqRSACcag",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "m0O-WgCDCPE",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "pUBSkPIHif4",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "Ookc-9TCIfw",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "72OFGynw6xE",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "jKfi7HuHhwc",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "bYZ_FziuETw",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "SYRrEJdd69c",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "YWdmnAQPIeY",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "iWa0lsPUDVs",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "VHIMtBfDJ3g",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "sBX9nDsNweA",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "XVZE24n4iDg",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "Y21ZVM0l-Bg",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "mfO3RuV5Ok8",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "vs5WzWrZHGM",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "dMvtZabRIvY",
+    "llmScore": 6,
+    "nbrQueries": 5,
+    "IP": 5.699999999999999
+  },
+  {
+    "id_video": "kqLItKmPiBE",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "SrFPFZ14loQ",
+    "llmScore": 9,
+    "nbrQueries": 23,
+    "IP": 13.2
+  },
+  {
+    "id_video": "IxrD-a8vvR8",
+    "llmScore": 10,
+    "nbrQueries": 26,
+    "IP": 14.8
+  },
+  {
+    "id_video": "n_hSXqthzGo",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "LqzkyOHF7WQ",
+    "llmScore": 10,
+    "nbrQueries": 6,
+    "IP": 8.8
+  },
+  {
+    "id_video": "LqzkyOHF7WQ",
+    "llmScore": 10,
+    "nbrQueries": 6,
+    "IP": 8.8
+  },
+  {
+    "id_video": "DEdxkdY2BvM",
+    "llmScore": 9,
+    "nbrQueries": 60,
+    "IP": 24.3
+  },
+  {
+    "id_video": "KrDkWmt1kXI",
+    "llmScore": 10,
+    "nbrQueries": 17,
+    "IP": 12.1
+  },
+  {
+    "id_video": "15sDmGr2e6o",
+    "llmScore": 9,
+    "nbrQueries": 22,
+    "IP": 12.899999999999999
+  },
+  {
+    "id_video": "XDz2Ipy6EuM",
+    "llmScore": 9,
+    "nbrQueries": 31,
+    "IP": 15.599999999999998
+  },
+  {
+    "id_video": "DmjFQm2BD7w",
+    "llmScore": 9,
+    "nbrQueries": 14,
+    "IP": 10.5
+  },
+  {
+    "id_video": "JAYEIIk3yuI",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "g2b-BieV-KU",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "IjaeywhSego",
+    "llmScore": 9,
+    "nbrQueries": 57,
+    "IP": 23.4
+  },
+  {
+    "id_video": "yni7WTpyA1k",
+    "llmScore": 9,
+    "nbrQueries": 10,
+    "IP": 9.3
+  },
+  {
+    "id_video": "HBP9x_3LgEM",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "E8e11kE1M8I",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "ewQN9zcQaSE",
+    "llmScore": 8,
+    "nbrQueries": 37,
+    "IP": 16.7
+  },
+  {
+    "id_video": "TBWMgrbSCIE",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "QNWU7jhjkuI",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "pC5M9LnsAAs",
+    "llmScore": 8,
+    "nbrQueries": 21,
+    "IP": 11.899999999999999
+  },
+  {
+    "id_video": "z-1MzqoxIm4",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "xAfkyNhUF7A",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "bRvpEqtm1qQ",
+    "llmScore": 8,
+    "nbrQueries": 7,
+    "IP": 7.699999999999999
+  },
+  {
+    "id_video": "6skS-343bGY",
+    "llmScore": 9,
+    "nbrQueries": 26,
+    "IP": 14.1
+  },
+  {
+    "id_video": "VOevjhYaNSg",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "bWgOk2dzDug",
+    "llmScore": 3,
+    "nbrQueries": 2,
+    "IP": 2.6999999999999997
+  },
+  {
+    "id_video": "gXEVIopAXEE",
+    "llmScore": 7,
+    "nbrQueries": 20,
+    "IP": 10.899999999999999
+  },
+  {
+    "id_video": "nP2GTY4dz4c",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "Oh_1cunH9Ts",
+    "llmScore": 9,
+    "nbrQueries": 23,
+    "IP": 13.2
+  },
+  {
+    "id_video": "UH7tB8XzDzY",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "a3vVVnkghjI",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "HFBBxaCYO6Q",
+    "llmScore": 9,
+    "nbrQueries": 47,
+    "IP": 20.4
+  },
+  {
+    "id_video": "HFBBxaCYO6Q",
+    "llmScore": 9,
+    "nbrQueries": 47,
+    "IP": 20.4
+  },
+  {
+    "id_video": "FlQ5fidSszk",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "pZTSW6u7dY8",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "SWey21MH8Gc",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "I-iMhC1l778",
+    "llmScore": 9,
+    "nbrQueries": 17,
+    "IP": 11.399999999999999
+  },
+  {
+    "id_video": "WU65vcs-30Q",
+    "llmScore": 7,
+    "nbrQueries": 5,
+    "IP": 6.3999999999999995
+  },
+  {
+    "id_video": "52B-ewzWROY",
+    "llmScore": 1,
+    "nbrQueries": 1,
+    "IP": 1.0
+  },
+  {
+    "id_video": "z0HZS583HfQ",
+    "llmScore": 7,
+    "nbrQueries": 4,
+    "IP": 6.1
+  },
+  {
+    "id_video": "7qMNGTltcFA",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "P3gm8GHB29U",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "u49gXTpYcFQ",
+    "llmScore": 8,
+    "nbrQueries": 19,
+    "IP": 11.3
+  },
+  {
+    "id_video": "Whxy7Fx9QkY",
+    "llmScore": 9,
+    "nbrQueries": 12,
+    "IP": 9.899999999999999
+  },
+  {
+    "id_video": "vtPM40WibPA",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "VL9Pd734ljU",
+    "llmScore": 8,
+    "nbrQueries": 16,
+    "IP": 10.399999999999999
+  },
+  {
+    "id_video": "Rgh0XTZoMKs",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "n6Z30R4K6rw",
+    "llmScore": 10,
+    "nbrQueries": 4,
+    "IP": 8.2
+  },
+  {
+    "id_video": "13UkjLo-94A",
+    "llmScore": 10,
+    "nbrQueries": 69,
+    "IP": 27.7
+  },
+  {
+    "id_video": "jva7--gAkx0",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "8Z3Fd-zUh4g",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "Z24_SpYdXQQ",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "XcGNCdImxcE",
+    "llmScore": 7,
+    "nbrQueries": 25,
+    "IP": 12.399999999999999
+  },
+  {
+    "id_video": "RvYZuqzY4dA",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "xql_KlIS-wA",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "MTjojvjs8YI",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "oYiocs_DcfY",
+    "llmScore": 7,
+    "nbrQueries": 4,
+    "IP": 6.1
+  },
+  {
+    "id_video": "4zFI1wvZ0zg",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "2jpmj1k1NFI",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "AhgN0wNFCC8",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "AhgN0wNFCC8",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "bxKPfPnSdK0",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "tdF66TPsjKs",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "CpCFEaqU47E",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "ophO6Om8EDU",
+    "llmScore": 2,
+    "nbrQueries": 3,
+    "IP": 2.3
+  },
+  {
+    "id_video": "xyOThYaeP7Q",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "ND6QUAtWABI",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "LjP9ewyViog",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "sMKohL-Fn6c",
+    "llmScore": 7,
+    "nbrQueries": 4,
+    "IP": 6.1
+  },
+  {
+    "id_video": "Xm2oot3MaSc",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "uqGLFxrydEU",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "Z59RoRIAXQI",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "xaN5N4YFBRk",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "YDF7jXDUJwo",
+    "llmScore": 9,
+    "nbrQueries": 26,
+    "IP": 14.1
+  },
+  {
+    "id_video": "7e08aRPAJIc",
+    "llmScore": 10,
+    "nbrQueries": 8,
+    "IP": 9.4
+  },
+  {
+    "id_video": "dFFYLaSKeTM",
+    "llmScore": 9,
+    "nbrQueries": 10,
+    "IP": 9.3
+  },
+  {
+    "id_video": "e8I1NDvOssU",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "yoXnxe8EJxo",
+    "llmScore": 6,
+    "nbrQueries": 15,
+    "IP": 8.7
+  },
+  {
+    "id_video": "Bnl0v_9Ak9c",
+    "llmScore": 8,
+    "nbrQueries": 15,
+    "IP": 10.1
+  },
+  {
+    "id_video": "2jgN9ImODoM",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "H0oaGxnilt4",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "bOR_UkFTZAI",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "x9YGBJGQuDs",
+    "llmScore": 10,
+    "nbrQueries": 6,
+    "IP": 8.8
+  },
+  {
+    "id_video": "EsraQ8Ezgww",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "zbLcePifj-c",
+    "llmScore": 8,
+    "nbrQueries": 18,
+    "IP": 11.0
+  },
+  {
+    "id_video": "BlzYroLpwWc",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "d5dXHazLMPw",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "ycxS4-Y7M88",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "ycxS4-Y7M88",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "Ej6xbWCMr5I",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "6-au9lTY8PE",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "UcRpcyK61lg",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "EkEjgAo6hh0",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "7xPUcKSaU-k",
+    "llmScore": 1,
+    "nbrQueries": 2,
+    "IP": 1.2999999999999998
+  },
+  {
+    "id_video": "PPQfkJEToqU",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "ZuQCIsTBgcQ",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "xxqlfsXfjn8",
+    "llmScore": 7,
+    "nbrQueries": 5,
+    "IP": 6.3999999999999995
+  },
+  {
+    "id_video": "Sjs6EfUaP4k",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "ye7_V7-C5Hc",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "_oRD7G9XaNU",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "D8dFoX3r_r0",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "U-9YcyNv8Lk",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "X3bNak4a_Xk",
+    "llmScore": 6,
+    "nbrQueries": 2,
+    "IP": 4.799999999999999
+  },
+  {
+    "id_video": "doE7K4miGN8",
+    "llmScore": 3,
+    "nbrQueries": 1,
+    "IP": 2.3999999999999995
+  },
+  {
+    "id_video": "kGvWR6cAFg4",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "JMDYrLQQZ5s",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "iBjTD3urewo",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "jMP-RdHe8fA",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "QliFMx870hA",
+    "llmScore": 9,
+    "nbrQueries": 9,
+    "IP": 9.0
+  },
+  {
+    "id_video": "idz54MQdHRc",
+    "llmScore": 10,
+    "nbrQueries": 1,
+    "IP": 7.3
+  },
+  {
+    "id_video": "NmABY2MN-bs",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "8HZkdb9ejvs",
+    "llmScore": 7,
+    "nbrQueries": 7,
+    "IP": 7.0
+  },
+  {
+    "id_video": "R7f1T0EmSE4",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "Uf3Tu9QRYu0",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "TokH3LeN58s",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "oS4THO30Aw4",
+    "llmScore": 8,
+    "nbrQueries": 7,
+    "IP": 7.699999999999999
+  },
+  {
+    "id_video": "oS4THO30Aw4",
+    "llmScore": 8,
+    "nbrQueries": 7,
+    "IP": 7.699999999999999
+  },
+  {
+    "id_video": "QwenHAYA0gI",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "5nvExzbNXoY",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "9sE4vBO6sUs",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "cxpt9QTgc5w",
+    "llmScore": 3,
+    "nbrQueries": 1,
+    "IP": 2.3999999999999995
+  },
+  {
+    "id_video": "U6dJ6AJVI8U",
+    "llmScore": 2,
+    "nbrQueries": 1,
+    "IP": 1.7
+  },
+  {
+    "id_video": "4XJzil-wVAE",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "p7P39qBv9J4",
+    "llmScore": 1,
+    "nbrQueries": 1,
+    "IP": 1.0
+  },
+  {
+    "id_video": "nTf4xfgdQuc",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "wL_7d-gH7ek",
+    "llmScore": 1,
+    "nbrQueries": 2,
+    "IP": 1.2999999999999998
+  },
+  {
+    "id_video": "IWFdTNi2tpg",
+    "llmScore": 7,
+    "nbrQueries": 6,
+    "IP": 6.699999999999999
+  },
+  {
+    "id_video": "6cID9SRujgM",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "8ekM4wZd9Eg",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "65_dHQmBe8g",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "khKxIj37-bQ",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "OpT2ThjU6YI",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "Wv_m_dYaKdM",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "uXXakEhn4HI",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "gFy9fwQwT30",
+    "llmScore": 3,
+    "nbrQueries": 2,
+    "IP": 2.6999999999999997
+  },
+  {
+    "id_video": "H37T2x3iFio",
+    "llmScore": 6,
+    "nbrQueries": 19,
+    "IP": 9.899999999999999
+  },
+  {
+    "id_video": "mdPgrH6GL1U",
+    "llmScore": 7,
+    "nbrQueries": 13,
+    "IP": 8.799999999999999
+  },
+  {
+    "id_video": "VRBUCQd6o-c",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "xIeU9J_gM4E",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "zQokodkO_eE",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "J3DVwey7ReQ",
+    "llmScore": 8,
+    "nbrQueries": 8,
+    "IP": 8.0
+  },
+  {
+    "id_video": "CGOoiYAQCYY",
+    "llmScore": 8,
+    "nbrQueries": 6,
+    "IP": 7.3999999999999995
+  },
+  {
+    "id_video": "RplFDHDtdOY",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "vCjDNlVkrOM",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "vCjDNlVkrOM",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "ETv-2NzpoJI",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "nN8fUDixUhM",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "MAxQhgePFH8",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "DIhSvG5upUI",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "tEnZtqFLC4U",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "cHtyGuUchyc",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "0b39Cl2iKmU",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "D5Zw4y7Twh4",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "fJE_t-eXjhc",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "7Sf9SLiO7Kg",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "EBImBH3SWj4",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "KYHEJVVgxg8",
+    "llmScore": 7,
+    "nbrQueries": 6,
+    "IP": 6.699999999999999
+  },
+  {
+    "id_video": "4gikpwZsV18",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "ZnV4tJw82Yc",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "M95XZ27ASpY",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "p1wGIG6QOXk",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "NxbNIn-C63M",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "3zb9UYgGxpU",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "BMuf64URw5E",
+    "llmScore": 1,
+    "nbrQueries": 1,
+    "IP": 1.0
+  },
+  {
+    "id_video": "lDtaQw_T0rM",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "Y49xOYIKEuA",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "qePUdJIw0Z4",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "WEnUXqJxa04",
+    "llmScore": 9,
+    "nbrQueries": 4,
+    "IP": 7.5
+  },
+  {
+    "id_video": "xfC37ZKP6HU",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "0wxh0wiUbTE",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "1jpCwM3BtVg",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "Y-kbrJFhJ0w",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "Y-kbrJFhJ0w",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "SttxyfCz7os",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "tNHp_F0_nKU",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "iWhcu9naBPk",
+    "llmScore": 7,
+    "nbrQueries": 7,
+    "IP": 7.0
+  },
+  {
+    "id_video": "LMx30CBcLwc",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "SpIOIyfuTk8",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "_R2hZJ2pSAs",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "BkulVJzqalQ",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "pm5v28PBioU",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "BdAeHHCjSm8",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "LxQqbLIYbjc",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "51kTcyjipLI",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "0CzaGC7Sn_c",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "KGJAwQwsZAQ",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "ZLGVeWApdWY",
+    "llmScore": 9,
+    "nbrQueries": 12,
+    "IP": 9.899999999999999
+  },
+  {
+    "id_video": "EvY9ipx5GkI",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "JlgtJQrps14",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "56D-vRSJTHI",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "GJKqDUxm1I8",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "L_qsaxi2uRI",
+    "llmScore": 6,
+    "nbrQueries": 2,
+    "IP": 4.799999999999999
+  },
+  {
+    "id_video": "pUsYsHfdgtc",
+    "llmScore": 2,
+    "nbrQueries": 2,
+    "IP": 2.0
+  },
+  {
+    "id_video": "0rauT6xT6tI",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "x1N-Fl75BAw",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "2V2jMaqy0ew",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "Qwg4pXckbXI",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "WoYAx3f5fyc",
+    "llmScore": 9,
+    "nbrQueries": 9,
+    "IP": 9.0
+  },
+  {
+    "id_video": "ZEl0RY-61aE",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "W2PX7M3ztFM",
+    "llmScore": 10,
+    "nbrQueries": 2,
+    "IP": 7.6
+  },
+  {
+    "id_video": "W2PX7M3ztFM",
+    "llmScore": 10,
+    "nbrQueries": 2,
+    "IP": 7.6
+  },
+  {
+    "id_video": "Vdb6SJ-BBT4",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "VJT2VzgLkkw",
+    "llmScore": 7,
+    "nbrQueries": 8,
+    "IP": 7.299999999999999
+  },
+  {
+    "id_video": "0YT79IZ9ngQ",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "M6DYHDMx1-U",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "0dRhZcFODQg",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "gID7gmTlvu0",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "CTijmi5OceY",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "HiWKhNrA2NI",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "gZqOtpcAe3Y",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "I51G71zibIQ",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "YjBzu208Iz4",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "beKMNeHveV4",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "Jy1gGE_Ki04",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "9eU-09xwln8",
+    "llmScore": 9,
+    "nbrQueries": 1,
+    "IP": 6.6
+  },
+  {
+    "id_video": "TeKhoOnbKEM",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "7OsYveLJZdQ",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "lspeei6_c1o",
+    "llmScore": 2,
+    "nbrQueries": 3,
+    "IP": 2.3
+  },
+  {
+    "id_video": "bVe6R355T84",
+    "llmScore": 9,
+    "nbrQueries": 9,
+    "IP": 9.0
+  },
+  {
+    "id_video": "kfQupsBzhoY",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "EtfXZNWTJik",
+    "llmScore": 6,
+    "nbrQueries": 1,
+    "IP": 4.499999999999999
+  },
+  {
+    "id_video": "mBufMaBw-sY",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "pziR517z-sA",
+    "llmScore": 9,
+    "nbrQueries": 16,
+    "IP": 11.1
+  },
+  {
+    "id_video": "7moF74BV4_o",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "2Ok8wcifYuI",
+    "llmScore": 8,
+    "nbrQueries": 39,
+    "IP": 17.299999999999997
+  },
+  {
+    "id_video": "FVAq_E0J-cE",
+    "llmScore": 9,
+    "nbrQueries": 11,
+    "IP": 9.6
+  },
+  {
+    "id_video": "4wXf0OrT4AI",
+    "llmScore": 8,
+    "nbrQueries": 12,
+    "IP": 9.2
+  },
+  {
+    "id_video": "jCr72alvvcg",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "jCr72alvvcg",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "5QIG1tXsh5k",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "O0C-L9P-NEA",
+    "llmScore": 9,
+    "nbrQueries": 5,
+    "IP": 7.8
+  },
+  {
+    "id_video": "snc6I77B4AQ",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "jJrNSHmlwXU",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "Ukf9k6RMibI",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "vUVfSSEGUjY",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "N25RH8ttBdY",
+    "llmScore": 1,
+    "nbrQueries": 3,
+    "IP": 1.5999999999999999
+  },
+  {
+    "id_video": "lCn3Zu6yXi4",
+    "llmScore": 6,
+    "nbrQueries": 7,
+    "IP": 6.299999999999999
+  },
+  {
+    "id_video": "7MCVVUh_z2c",
+    "llmScore": 9,
+    "nbrQueries": 10,
+    "IP": 9.3
+  },
+  {
+    "id_video": "1zBeMbemRHg",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "D6g4L5XQb5c",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "_l3tEPRuCUE",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "R2vKOA7-CyI",
+    "llmScore": 8,
+    "nbrQueries": 3,
+    "IP": 6.5
+  },
+  {
+    "id_video": "ZcAYdILVSuU",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "I7yvU9E0V_M",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "jgGoOd9drSQ",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "90-aBARJLrM",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "3MExx8n6954",
+    "llmScore": 7,
+    "nbrQueries": 5,
+    "IP": 6.3999999999999995
+  },
+  {
+    "id_video": "TH4HdPvup6s",
+    "llmScore": 7,
+    "nbrQueries": 5,
+    "IP": 6.3999999999999995
+  },
+  {
+    "id_video": "gTPFUn6XUKs",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "ZiCqFBiMOYU",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "4mLZ903O220",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "rsBPy4SpNYc",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "7LTs_kDyJ0c",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "amG8ZHiN-6A",
+    "llmScore": 8,
+    "nbrQueries": 4,
+    "IP": 6.8
+  },
+  {
+    "id_video": "tVoVH3AwRgk",
+    "llmScore": 9,
+    "nbrQueries": 14,
+    "IP": 10.5
+  },
+  {
+    "id_video": "sviVFYAnLAw",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "sviVFYAnLAw",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "QdedzgGFqKg",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "o-DRfdtv4Hw",
+    "llmScore": 7,
+    "nbrQueries": 1,
+    "IP": 5.199999999999999
+  },
+  {
+    "id_video": "8120161Flzw",
+    "llmScore": 8,
+    "nbrQueries": 2,
+    "IP": 6.199999999999999
+  },
+  {
+    "id_video": "nke8us5dUZI",
+    "llmScore": 7,
+    "nbrQueries": 2,
+    "IP": 5.499999999999999
+  },
+  {
+    "id_video": "vJLMkUWt4SI",
+    "llmScore": 8,
+    "nbrQueries": 7,
+    "IP": 7.699999999999999
+  },
+  {
+    "id_video": "ntNn9ESum6U",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "lu-t1OtDn6k",
+    "llmScore": 8,
+    "nbrQueries": 5,
+    "IP": 7.1
+  },
+  {
+    "id_video": "3nnHG2IhvWU",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  },
+  {
+    "id_video": "F1CZjqjar28",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "oOUd505JP_o",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "OOoeYsS2MJU",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "0uORzJZETX8",
+    "llmScore": 9,
+    "nbrQueries": 2,
+    "IP": 6.8999999999999995
+  },
+  {
+    "id_video": "lDG99-QVglI",
+    "llmScore": 9,
+    "nbrQueries": 7,
+    "IP": 8.4
+  },
+  {
+    "id_video": "NJ2TAOo0sTs",
+    "llmScore": 9,
+    "nbrQueries": 6,
+    "IP": 8.1
+  },
+  {
+    "id_video": "Bs-4HTbBLVU",
+    "llmScore": 9,
+    "nbrQueries": 8,
+    "IP": 8.7
+  },
+  {
+    "id_video": "rEOLwMlVEYs",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "_LEU5LEA4pc",
+    "llmScore": 8,
+    "nbrQueries": 1,
+    "IP": 5.8999999999999995
+  },
+  {
+    "id_video": "rWiX2fumYQk",
+    "llmScore": 9,
+    "nbrQueries": 3,
+    "IP": 7.199999999999999
+  },
+  {
+    "id_video": "M6ukds8Zaog",
+    "llmScore": 8,
+    "nbrQueries": 8,
+    "IP": 8.0
+  },
+  {
+    "id_video": "-kJvPjAaokY",
+    "llmScore": 8,
+    "nbrQueries": 23,
+    "IP": 12.5
+  },
+  {
+    "id_video": "nkR0hVCmrm8",
+    "llmScore": 7,
+    "nbrQueries": 3,
+    "IP": 5.799999999999999
+  }
+]
