@@ -1170,5 +1170,65 @@
     "decision": "non",
     "justification": "Le titre et les tags sont trop vagues pour déterminer si la vidéo traite de l'autosuffisance. La description est un simple hashtag.",
     "score": 1
-  }
-]
+  },
+  {
+    "id_video": "8waoAttTffY",
+    "id_chaine": "UCuKlCCIm5assi1BLn7gVgLw",
+    "titre_video": "Buvez de l'eau de source volcanique dynamisée à votre robinet  -  www biovie fr",
+    "description": "Si vous avez envie de découvrir l'alimentation vivante, nous vous offrons notre best seller, en version ebook : Cuisine vivante pour une santé optimale : https://subscribepage.io/77HI1p\n\n👉 Pour nous suivre :\nInstagram : https://www.instagram.com/biovieofficiel/\nFacebook : https://www.facebook.com/eric.aurelie.viard.biovie\nPinterest : https://www.pinterest.fr/biovievivant/",
+    "date_publication": "2020-10-31T15:00:05Z",
+    "duree": "PT12M48S",
+    "miniature": "https://i.ytimg.com/vi/8waoAttTffY/maxresdefault.jpg",
+    "tags": "",
+    "langue": "fr-FR",
+    "youtubeCategorie": "26",
+    "requete": [
+      "autosuffisance eau dynamisée",
+      "autonomie eau dynamisée"
+    ],
+    "decision": "non",
+    "justification": "La vidéo semble promouvoir un système de filtration d'eau. Bien que l'accès à l'eau soit un besoin fondamental, la vidéo ne traite pas directement de la production ou de la gestion autonome des ressources, ni d'une démarche globale d'autosuffisance.",
+    "score": 2
+    },
+    {
+      "id_video": "RmN529MFKpU",
+      "id_chaine": "UCEamCGwRV_vxVVMLlSG98-A",
+      "titre_video": "#005 : Tout savoir sur l’eau dynamisée - DEUXIÈME PARTIE",
+      "description": "L’eau du robinet, tout comme l’eau en bouteille que nous buvons sont des « eaux mortes » d’un point de vue énergétique, car elles ont transité par des conduites métalliques. Elles ne satisfont pas les critères essentiels à notre hydratation, et notamment au niveau cellulaire. Le résultat est que notre corps n’est pas attiré par cette eau de boisson et en plus de boire de la mauvaise eau, nous ne buvons pas assez d’eau tout court. \nLes effets sur notre santé a long termes sont plus que négatifs et de nombreuses pathologies peuvent y être  connectées.\nQUELS SONT LES PROCÉDÉS POUR DYNAMISER VOTRE EAU ?\n\nPROCÉDÉ NUMERO 1, INVENTÉ PAR MARCEL VIOLET\n\nLA STIMULATION ELECTRO-VIBRATOIRE.\nCela consiste en un boîtier branché  sur le secteur. Ce boiter contient le dispositif « eau Violet » auquel est raccordé une électrode métallique. Il suffit de poser une bouteille remplie d’eau sur le boîtier et d’y plonger l’électrode. Une fois le dispositif mis sous tension, l’eau va se dynamiser en un temps donné. Notez que quelques milligrammes de métal vont “fondre” dans l’eau, lui procurant en plus de la dynamisation, une concentration en oligo-éléments. Certains dispositifs permettent de combiner plusieurs batons de dynamisation (Or, argent, cuivre, manganese, …. )\n\nIl y a donc un double avantage à utiliser ce procédé, car on cumule les effets de la dynamisation et des oligo-éléments.\nPROCÉDÉ NUMÉRO 2, INVENTÉ  PAR VIKTOR SCHAUBERGER\n\nLA DYNAMISATION PAR VORTEX \nViktor Schauberger, garde-forestier autrichien, naturaliste, philosophe et inventeur, a publié des essais sur ses inventions et théories. Selon lui, l’eau est un élément qui se dynamise naturellement dans sa course le long d’un cours d’eau en mouvement à l’aide des Vortex fluidiques, plus communément nommés tourbillons ou Tore. En résumé, il suffit de faire tourbillonner l’eau pour la dynamiser. L’eau ainsi dynamisée a des effets positifs sur les humains et les végétaux. \n\nLa principale différence avec la méthode Violet est qu’il n’y a pas d’ajout d’oligo-éléments ajoutés dans l’eau par ce procédé.\nQUELS APPAREILS UTILISER POUR DYNAMISER VOTRE EAU ? \nJ'ai fait la recherche pour vous !\n\nPour la dynamisation électro-vibratoire :  \n\nPersonnellement, j’utilise la valise de dynamisation conçue par l’ingénieur Jean Pagot, qu a collaboré de nombreuses années avec Marcel Violet . La dynamisation de plusieurs litres d’eau est très rapide (de 30 minutes à 1 heure) et elle est livrée avec 19 Électrodes métalliques qui permettent d’avoir une utilisation quasi thérapeutique.\n\nLe procédé de dynamisation par vortex :\n\nPermet d’avoir accès à de l’eau dynamisée pour un coût moindre. J’ai testé pour vous cette carafe dynamisante. Elle est efficace et vous apportera l’énergie dont vous avez besoin.\n\n\nBOIRE UNE EAU PURE : UTILISER UN DISTILLATEUR\nQu’est-ce que la distillation ?\n\nLa distillation d’eau se fait à l’aide d’un distillateur qui porte l’ eau à ébullition, les vapeurs sont ensuite condensées et récupérées dans un réservoir.  C’est le système de purification qui enlève la plus grande variété de contaminants. Ce procédé permet de supprimer 99,8 % des résidus toxiques, et reproduit le cycle naturel de l’eau : évaporation, condensation, puis précipitation. À la manière d’un rein artificiel, les résidus nocifs restent ainsi au fond de la cuve de distillation et on récupère une eau pure, exempte de polluants, de métaux lourds, de minéraux inorganiques, de contaminants. Il suffit d’observer le fond de la cuve après distillation pour en être convaincu. Une fois parfaitement purifiée votre eau sera prête pour être dynamisée.",
+      "date_publication": "2021-02-07T15:45:43Z",
+      "duree": "PT9M",
+      "miniature": "https://i.ytimg.com/vi/RmN529MFKpU/maxresdefault.jpg",
+      "tags": "",
+      "langue": "fr-FR",
+      "youtubeCategorie": "28",
+      "requete": [
+        "autosuffisance eau dynamisée",
+        "autonomie eau dynamisée"
+      ],
+      "decision": "non",
+      "justification": "La vidéo traite de la dynamisation de l'eau et de la purification de l'eau, ce qui n'est pas directement lié à l'autosuffisance. Bien que l'accès à une eau de qualité soit important, le sujet principal n'est pas centré sur la production de ressources essentielles par soi-même.",
+      "score": 2
+    },
+    {
+      "id_video": "J9yQZcdkIH8",
+      "id_chaine": "UCrysekFIILBd-6QwqFzyrgg",
+      "titre_video": "Au Brésil, une ferme géante de 100 000 hectares - #JT20H 24/02/2023",
+      "description": "🚜 Grande comme dix fois la ville de Paris, la ferme Roncador, au Brésil, s’étend sur 100 000 hectares de champs et de prairies.\nMalgré son gigantisme, elle fait figure de bon élève auprès des organisations de protection de l’environnement.",
+      "date_publication": "2023-03-05T09:42:14Z",
+      "duree": "PT4M4S",
+      "miniature": "https://i.ytimg.com/vi/J9yQZcdkIH8/maxresdefault.jpg",
+      "tags": "",
+      "langue": "fr-FR",
+      "youtubeCategorie": "22",
+      "requete": [
+        "autonomie poullailler",
+        "ferme autonome exploitation agricole"
+      ],
+      "decision": "non",
+      "justification": "Bien que la vidéo parle d'une ferme, l'échelle industrielle mentionnée (100 000 hectares) et l'absence d'éléments liés à l'autoconsommation, à la permaculture ou à une démarche d'autonomie individuelle indiquent que ce n'est pas lié à l'autosuffisance. L'accent est mis sur la taille et l'aspect environnemental, et non sur la réduction de la dépendance au système économique extérieur.",
+      "score": 2
+    }
+
+
+
+  ]
