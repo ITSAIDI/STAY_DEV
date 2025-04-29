@@ -67,7 +67,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit la construction d'un poêle de masse, un système de chauffage autonome et écologique. Les tags incluent des termes clés comme \"permaculture\", \"autonomie alimentaire\", \"autonomie\", \"résilience\", \"chauffage\", \"ferme écologique\", \"offgrid\", ce qui indique un lien fort avec la thématique de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "-b6dgogXo1U",
@@ -102,7 +102,7 @@
     "decision": "oui",
     "justification": "La vidéo traite du choix de panneaux solaires, un élément important pour l'autonomie énergétique, qui est un aspect de l'autosuffisance. Elle explique comment choisir le bon panneau solaire pour l'autoconsommation, ce qui est pertinent pour la thématique.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "RsnjEME3bwM",
@@ -140,7 +140,7 @@
     "decision": "oui",
     "justification": "La vidéo est un tutoriel sur la plantation de tomates, ce qui contribue à l'autosuffisance alimentaire. Les mots-clés tels que \"potager\", \"permaculture\", \"autonomie\", \"legumes\", \"tutorial\" et \"potager bio\" confirment la pertinence de la vidéo par rapport à la thématique.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "u-Txp1SkvmE",
@@ -332,7 +332,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la production locale d'électricité et de l'autoconsommation, des éléments clés de l'autosuffisance énergétique. Elle aborde également la question de l'autonomie face au dérèglement climatique et à la limitation des ressources, ce qui est directement lié à la thématique de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "Gv4asggbIs0",
@@ -351,7 +351,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un écosite de ressourcement et de biodiversité, ce qui implique une démarche d'autonomie et de respect de l'environnement, en lien avec l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "SvaITbil4vQ",
@@ -382,7 +382,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'utilisation de marc de café et de cendre de bois comme engrais naturels pour le potager, ce qui contribue à l'autosuffisance alimentaire en optimisant la production de légumes. Les tags confirment le lien avec le potager bio et le jardinage.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "S5l6mCU8xL4",
@@ -405,7 +405,7 @@
     "decision": "oui",
     "justification": "La description de la vidéo mentionne explicitement la participation à l'autosuffisance alimentaire. De plus, elle propose des techniques agricoles et des conseils pour augmenter les rendements, ce qui correspond à la recherche d'autonomie matérielle et à l'optimisation de la production.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "7vC_Xuz6J9A",
@@ -441,7 +441,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'autonomie de l'habitat et de la permaculture, des sujets directement liés à l'autosuffisance. Les tags incluent également des termes pertinents comme \"autonomie\" et \"habitat autonome\".",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "mbWjjECz8dY",
@@ -476,7 +476,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment calculer l'autonomie d'une installation électrique sur batterie, ce qui est pertinent pour l'autosuffisance énergétique, un aspect important de l'autosuffisance globale.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "mbWjjECz8dY",
@@ -511,7 +511,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment calculer l'autonomie d'une installation électrique sur batterie, ce qui est pertinent pour l'autosuffisance énergétique, un aspect important de l'autosuffisance globale.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "87x2vNnIexU",
@@ -531,7 +531,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une ferme en agro-écologie certifiée AB, axée sur les plantes aromatiques et médicinales, la forêt comestible et la cueillette sauvage, avec un objectif d'autonomie. Ces éléments correspondent à la définition de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "5CaxbvD0kCo",
@@ -579,7 +579,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment faire du Lben, un lait fermenté. La fermentation est une technique de conservation des aliments qui contribue à l'autosuffisance alimentaire.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "79UsXG2zUeA",
@@ -635,7 +635,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une betterave fourragère, ce qui est lié à l'alimentation du bétail et donc à l'autosuffisance alimentaire pour l'élevage. La description mentionne une betterave facile à pâturer, ce qui suggère une méthode d'alimentation autonome pour les vaches.",
     "score": 6,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "kwWJeVZqkD8",
@@ -671,7 +671,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'installation de panneaux solaires pour atteindre l'autonomie énergétique, ce qui est un aspect important de l'autosuffisance. Elle aborde les différents types de kits solaires, leur installation, leur coût et leur rentabilité, fournissant des informations utiles pour ceux qui cherchent à réduire leur dépendance au réseau électrique.",
     "score": 8,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "91qIonjSU6Y",
@@ -691,7 +691,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une technique de conservation alimentaire (lactofermentation de courges) permettant de préparer des lasagnes toute l'année. Cela contribue à l'autosuffisance alimentaire en permettant de consommer des légumes hors saison grâce à une méthode de conservation.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "8so1zR4Iu6k",
@@ -711,7 +711,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne l'autonomie alimentaire à la ferme. La description parle de souveraineté alimentaire et d'un reportage chez un éleveur. Cela correspond à la thématique de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "85i3qfuDK1g",
@@ -752,7 +752,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'autonomie alimentaire dans une exploitation agricole biologique, ce qui correspond à la définition de l'autosuffisance. Le témoignage d'un agriculteur qui a basé son système sur l'autonomie alimentaire et qui utilise un séchoir en grange est pertinent. Les tags confirment la thématique de l'agriculture biologique, de l'élevage et de l'autonomie fourragère.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "q3cZfxeG4zQ",
@@ -801,7 +801,7 @@
     "decision": "oui",
     "justification": "La vidéo aborde la réduction et la valorisation des déchets, la confection d'objets \"zéro déchets\" et la création d'un éco-lieu d'expérimentation. Ces actions contribuent à réduire la dépendance au système économique et social extérieur, ce qui est un aspect important de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "LWwGVQNq69M",
@@ -854,7 +854,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la fertilité des sols, un aspect essentiel de l'autosuffisance alimentaire. Les mots clés comme \"autonomie\", \"solsvivants\", \"couvert végétal\", et les références au maraîchage sur sols vivants confirment la pertinence du sujet.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "3TSTFBir23Q",
@@ -876,7 +876,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un apprenti agriculteur dans une exploitation céréalière. Bien que cela ne soit pas directement de l'autosuffisance, la production de céréales est une composante importante de l'alimentation et peut contribuer à l'autosuffisance alimentaire si elle est pratiquée à une échelle plus petite et orientée vers l'autoconsommation. La vidéo peut potentiellement montrer des techniques ou des aspects pertinents pour une démarche d'autosuffisance.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "CMSPdiWzlno",
@@ -896,7 +896,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne un \"éco-lieu\" et la \"permaculture\", qui sont des éléments directement liés à l'autosuffisance et à la création d'un environnement autonome et durable.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "2NKKe0POqig",
@@ -921,7 +921,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'isolation écologique avec des matériaux naturels (chaux/chanvre), ce qui contribue à l'autonomie et à la réduction de la dépendance aux systèmes industriels conventionnels dans le domaine de la construction et de l'habitat. Cela s'inscrit dans une démarche d'autosuffisance au sens large.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "ludExE6ixm8",
@@ -972,7 +972,7 @@
     "decision": "oui",
     "justification": "Le titre de la vidéo indique clairement qu'elle traite de l'autonomie alimentaire, et la description renforce cette idée en mentionnant le soutien au travail de médiatisation de l'autonomie. La présence de liens vers des communautés d'entraide et des partenaires liés à l'autonomie confirme la pertinence de la vidéo.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "31dKCfWtJmI",
@@ -1023,7 +1023,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un équipement de camping high-tech conçu pour l'autonomie énergétique et la production d'eau, contribuant ainsi à l'autarcie et à l'autosuffisance lors de voyages. Les tags incluent des termes pertinents comme \"autarcie\", \"autonomie\", \"énergie solaire\", \"eau potable\", et \"hors réseau\".",
     "score": 8,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "yyXMxeYlX2E",
@@ -1068,7 +1068,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une méthode pour recycler les eaux usées pour la vaisselle, ce qui contribue à l'autosuffisance en réduisant la dépendance aux ressources extérieures. De plus, la description contient des liens vers du matériel pour l'autonomie énergétique (panneaux solaires, batteries) et mentionne des thèmes comme l'autarcie et le survivalisme.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "kqLItKmPiBE",
@@ -1087,7 +1087,7 @@
     "decision": "oui",
     "justification": "La vidéo teste un purificateur d'eau dans un salon dédié à l'autonomie, ce qui est pertinent pour l'autosuffisance en eau.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "UumCgaVeQbA",
@@ -1180,7 +1180,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la création d'habitats et de sources alimentaires pour la faune auxiliaire, ce qui contribue à la biodiversité et à la lutte biologique dans les cultures. Cela peut réduire la dépendance aux intrants extérieurs et favoriser une forme d'autosuffisance en matière de protection des cultures.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "gG3AAgDjF6M",
@@ -1240,7 +1240,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment filtrer l'eau en utilisant le charbon, ce qui est une technique liée à l'autosuffisance en eau. La description mentionne une \"filtration écologique, mécanique et économique\", ce qui renforce le lien avec l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "1zBeMbemRHg",
@@ -1301,7 +1301,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une famille vivant en autarcie en Sibérie, en harmonie avec la nature et selon un mode de vie traditionnel. Le documentaire explore leur relation avec l'environnement et leurs croyances, ce qui correspond à la thématique de l'autosuffisance et de l'autonomie matérielle.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "D3D9gO05SPI",
@@ -1396,7 +1396,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'autosuffisance en blé dur en Tunisie, un sujet directement lié à la thématique de l'autosuffisance alimentaire. Elle aborde les efforts d'un pays pour augmenter sa production agricole et réduire sa dépendance aux importations.",
     "score": 8,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "mwCAsQ_2e2I",
@@ -1467,7 +1467,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'autoconsommation solaire photovoltaïque, un moyen de produire sa propre énergie et de réduire sa dépendance au réseau électrique. Les tags incluent \"autosuffisance énergétique\", ce qui confirme la pertinence de la vidéo pour la thématique.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "9NrzE8UKQOw",
@@ -1486,7 +1486,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit comment un agriculteur diminue l'utilisation de produits phytosanitaires grâce au non-labour et à la diversification des cultures, tout en maintenant l'autonomie alimentaire de son élevage. Cela correspond directement à la définition de l'autosuffisance et aux thématiques recherchées.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "bsOdmJanrXA",
@@ -1535,7 +1535,7 @@
     "decision": "oui",
     "justification": "La description de la vidéo mentionne l'autonomie alimentaire nationale et le régime paléo, qui est un régime basé sur l'autosuffisance alimentaire par la chasse et la cueillette. Ces éléments sont liés à la thématique de l'autosuffisance.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "1AZsn8RNBg8",
@@ -1590,7 +1590,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la consommation de plantes sauvages et de la culture de plantes comestibles, ce qui est directement lié à l'autosuffisance alimentaire. Les tags incluent également des termes comme \"autonomie\", \"permaculture\" et \"mode de vie alternatif\", renforçant la pertinence de la vidéo par rapport à la thématique.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "I-iMhC1l778",
@@ -1647,7 +1647,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un système de toilettes sèches écologiques, un élément important pour l'autonomie et la réduction de la dépendance aux systèmes traditionnels. Les tags et la description mettent en évidence l'aspect écologique et l'autonomie, ce qui correspond à la thématique de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "ajwVrt4q1FY",
@@ -1737,7 +1737,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit comment utiliser un frigo 220v dans une caravane en utilisant un convertisseur Victron en mode éco. Ceci est pertinent pour l'autosuffisance car cela permet d'utiliser des appareils plus courants et moins chers, tout en optimisant la consommation d'énergie, ce qui est important pour l'autonomie énergétique.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "-fYePQpizyo",
@@ -1790,7 +1790,7 @@
     "decision": "oui",
     "justification": "La vidéo traite du paillage vivant et gratuit au jardin potager en permaculture. Le titre, la description et les tags sont tous liés à l'autosuffisance alimentaire et aux techniques de permaculture.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "uGiBbD_0vYo",
@@ -1825,7 +1825,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de permaculture, d'agroforesterie, de santé des sols, d'autonomie et de jardinage, des sujets centraux de l'autosuffisance. Les tags confirment également cette thématique.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "uM-uhMNyWlM",
@@ -1871,7 +1871,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un élevage de volailles bio, ce qui correspond à la production de nourriture pour l'autoconsommation et à la recherche d'autonomie alimentaire, un aspect central de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "WWSkHvDQJts",
@@ -1912,7 +1912,7 @@
     "decision": "oui",
     "justification": "La vidéo présente des capteurs solaires thermiques pour le chauffage de l'eau, ce qui est lié à l'autonomie énergétique et à la réduction de la dépendance au système énergétique traditionnel. Les tags incluent également des termes comme \"autonomie\", \"autoconsommation\" et \"écologique\", confirmant la pertinence de la vidéo pour l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "RbGivT85zgM",
@@ -2054,7 +2054,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une plante sauvage comestible, ce qui est directement lié à l'autosuffisance alimentaire.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "fpP4KN7bN5U",
@@ -2122,7 +2122,7 @@
     "decision": "oui",
     "justification": "La description et les tags de la vidéo font référence à l'autonomie, à la vie en camping-car, à l'installation solaire, au recyclage de l'eau et à la vie dans la nature. Ces éléments sont liés à la thématique de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "J-A3KoR57mQ",
@@ -2164,7 +2164,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit la phytoépuration, une technique d'assainissement écologique utilisant des plantes pour purifier les eaux usées. Cette technique contribue à l'autosuffisance en permettant de gérer ses propres eaux usées de manière autonome et durable, réduisant ainsi la dépendance aux systèmes d'assainissement traditionnels.",
     "score": 8,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "rGb85beyT4A",
@@ -2222,7 +2222,7 @@
     "decision": "oui",
     "justification": "Le titre et la description mentionnent des termes clés comme \"permaculture\", \"potager\", \"autonomie\" et \"microferme\", qui sont directement liés à l'autosuffisance. La vidéo semble présenter des techniques et des astuces pour le potager, ce qui contribue à l'autosuffisance alimentaire.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "zx_Uymr3snA",
@@ -2245,7 +2245,7 @@
     "decision": "oui",
     "justification": "La vidéo aborde l'autonomie protéique à l'échelle de l'exploitation agricole et des territoires, ce qui est directement lié à l'autosuffisance alimentaire. Elle explore des pistes d'amélioration pour la production de protéines, un élément essentiel de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "iFMG2f2-BNs",
@@ -2356,7 +2356,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de techniques pour adapter la forêt au changement climatique en utilisant la biodynamie, ce qui contribue à la résilience et à l'autonomie des écosystèmes, et donc est lié à l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "Cb0FwLbfVmo",
@@ -2375,7 +2375,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne la création d'un domaine biodynamique, ce qui est fortement lié à l'autosuffisance alimentaire et à une agriculture respectueuse de l'environnement. Cela suggère une démarche d'autonomie et de production locale.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "JJm-VmvL0bM",
@@ -2395,7 +2395,7 @@
     "decision": "oui",
     "justification": "Le titre et la description mentionnent un \"écolieu intégré au territoire\" et un projet d'oasis, ce qui correspond à la recherche d'un lieu propice à l'autosuffisance mentionnée dans la définition. La présentation au CEREMA suggère un projet sérieux et réfléchi. Les liens vers le site web et les réseaux sociaux de l'oasis confirment la pertinence.",
     "score": 8,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "WEkPJJdRyHI",
@@ -2419,7 +2419,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne clairement l'autosuffisance. La description mentionne la permaculture, un mode de vie durable et un site web associé, ce qui renforce le lien avec l'autosuffisance.",
     "score": 10,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "efZkKeed-3Q",
@@ -2445,7 +2445,7 @@
     "decision": "oui",
     "justification": "La vidéo semble pertinente car elle mentionne un éco-hameau, la transition écologique, l'habitat partagé et la permaculture, qui sont des éléments liés à l'autosuffisance et à un mode de vie plus autonome.",
     "score": 8,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "W9VxTJjKbjE",
@@ -2466,7 +2466,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une technique de production de miscanthus pour le paillage des animaux, ce qui contribue à l'autonomie de l'agriculteur en matière de litière. Cela correspond à la définition de l'autosuffisance, notamment en réduisant la dépendance au système économique extérieur.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "9spqHJ4IXpo",
@@ -2505,7 +2505,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment filtrer l'eau de sa maison avec du charbon actif. La filtration de l'eau est une technique liée à l'autosuffisance, car elle permet de s'assurer d'avoir de l'eau potable à disposition.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Vv0_ddUOnBQ",
@@ -2582,7 +2582,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la gestion des bio-agresseurs en agriculture biologique, ce qui est pertinent pour l'autosuffisance alimentaire, car cela contribue à la production de nourriture de manière durable et autonome. Les sujets abordés comme la gestion des adventices, des ravageurs et des maladies sont directement liés à la capacité de cultiver ses propres aliments.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "iAujv10bsCg",
@@ -2639,7 +2639,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de permaculture, d'agroforesterie, d'autonomie et de potager. Elle partage l'expérience d'une micro-ferme et donne des conseils sur le jardinage et l'écologie. Les tags confirment que le sujet est lié à l'autosuffisance.",
     "score": 10,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "riJdmbNzUKo",
@@ -2658,7 +2658,7 @@
     "decision": "oui",
     "justification": "La vidéo présente des techniques d'enduits écologiques qui peuvent être utilisés dans la construction ou la rénovation d'habitats autonomes ou écologiques, contribuant à l'autosuffisance en réduisant la dépendance aux matériaux conventionnels.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "_N9bc4k2ank",
@@ -2678,7 +2678,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un constructeur de microhabitats en bois autonomes, ce qui correspond directement à la thématique de l'autosuffisance en termes d'habitat et d'autonomie matérielle.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Zek8OBS3e3s",
@@ -2699,7 +2699,7 @@
     "decision": "oui",
     "justification": "La vidéo parle d'une commune qui n'utilise plus de pesticides, ce qui est un pas vers une agriculture plus autonome et respectueuse de l'environnement, en accord avec les principes de l'autosuffisance (bio, local).",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "_c1IZoDTKvw",
@@ -2723,7 +2723,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit la création d'une ferme agroécologique par Jean-Philippe Cieslak, qui cherche à proposer une alternative à la société de consommation. L'utilisation de la permaculture, le potager, le verger, et les animaux indiquent une démarche vers l'autonomie alimentaire et une vie moins dépendante du système économique dominant. De plus, le but de sensibilisation et d'éducation à une agriculture respectueuse et à une alimentation plus équilibrée est cohérent avec la thématique de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "FJA598OLrcs",
@@ -2768,7 +2768,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un bilan d'une année d'expérience vers l'autonomie, incluant l'habitat, la gestion des déchets et l'autonomie alimentaire. Les tags confirment l'orientation vers l'autonomie et l'autosuffisance.",
     "score": 10,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "25p9dvbUo8w",
@@ -2813,7 +2813,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une station solaire photovoltaïque autonome, permettant de produire sa propre électricité. Cela correspond à la démarche d'autosuffisance énergétique, qui est un aspect important de l'autosuffisance globale. Les mots-clés \"AUTONOME\", \"SOLAIRE\", \"ENERGIE\", \"renouvelable\", \"DIY\" renforcent cette pertinence.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "25p9dvbUo8w",
@@ -2858,7 +2858,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une station solaire photovoltaïque autonome, permettant de produire sa propre électricité. Cela correspond à la démarche d'autosuffisance énergétique, qui est un aspect important de l'autosuffisance globale. Les mots-clés \"AUTONOME\", \"SOLAIRE\", \"ENERGIE\", \"renouvelable\", \"DIY\" renforcent cette pertinence.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "vz-WWdHJ9Kc",
@@ -2897,7 +2897,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une ferme de vers de terre et aborde la lombriculture, le compostage et la production de vers de compostage. Ces techniques contribuent à l'autonomie alimentaire et à la permaculture, des éléments centraux de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "yCXyTUpfyWQ",
@@ -2924,7 +2924,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une technique d'irrigation économe en eau (oyas), ce qui contribue à l'autonomie alimentaire et s'inscrit dans une démarche d'autosuffisance, notamment en permaculture. Les tags confirment également le lien avec l'autonomie alimentaire.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "XDRYvkFg8n4",
@@ -2986,7 +2986,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une installation de panneaux solaires et de batteries pour rendre une maison autonome en électricité. Cela correspond à la définition de l'autosuffisance en matière d'énergie et présente un témoignage pertinent.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "idz54MQdHRc",
@@ -3057,7 +3057,7 @@
     "decision": "oui",
     "justification": "La vidéo présente l'aquaponie, une technique de production alimentaire qui contribue à l'autosuffisance. Elle montre un centre de formation en aquaponie et des exemples d'installations aquaponiques, incluant des aspects de low-tech et de recyclage, ce qui correspond aux critères de pertinence pour la thématique de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Q1hE1Y7wiaU",
@@ -3078,7 +3078,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment cultiver du soja, une légumineuse riche en protéines, ce qui peut contribuer à l'autosuffisance alimentaire. Elle aborde également l'importance de la rotation des cultures, un aspect essentiel de la permaculture et de l'agriculture durable. De plus, elle met en avant les avantages de la culture du soja pour l'indépendance en protéines végétales et la biodiversité.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "0VuFEYDRBGM",
@@ -3097,7 +3097,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un potager agroécologique qui vise à produire de manière naturelle et locale, ce qui est directement lié à l'autosuffisance alimentaire. L'accent mis sur l'écologie et la production locale renforce la pertinence.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "KxxfsVhI-ag",
@@ -3205,7 +3205,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment vivre sans loyer ni factures, en utilisant des panneaux solaires et des batteries pour l'autonomie énergétique. Les tags incluent des termes liés à l'autonomie, l'autarcie, l'autoconsommation, et la vie en van, ce qui correspond à la thématique de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "JmyrzMc6UeA",
@@ -3248,7 +3248,7 @@
     "decision": "oui",
     "justification": "La vidéo traite du stockage alimentaire, un aspect important de l'autosuffisance, bien que présentée sous l'angle du survivalisme. Elle donne des conseils pratiques sur les aliments à stocker et les quantités nécessaires, ce qui contribue à la capacité de subvenir à ses besoins alimentaires de manière autonome.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "7q3d5BrinCM",
@@ -3267,7 +3267,7 @@
     "decision": "oui",
     "justification": "Un poulailler mobile est une installation permettant de produire des oeufs et de la viande de volaille, contribuant ainsi à l'autosuffisance alimentaire. Le titre mentionne explicitement un poulailler.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "LXoDDQ_GpiA",
@@ -3303,7 +3303,7 @@
     "decision": "oui",
     "justification": "La vidéo traite directement de l'autosuffisance alimentaire en Algérie, avec des exemples concrets comme le blé, le lait, le sucre et les engrais. Elle aborde les enjeux économiques et stratégiques liés à cette démarche.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "0b39Cl2iKmU",
@@ -3322,7 +3322,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un produit pour l'entretien des poulaillers, ce qui contribue à l'autosuffisance en permettant de maintenir un environnement sain pour les volailles.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "BqRiihD90nQ",
@@ -3348,7 +3348,7 @@
     "decision": "oui",
     "justification": "La vidéo concerne un stage de permaculture axé sur l'autonomie, la création de jardins, et les transmissions culinaires. Les tags \"permaculture\" et \"autonomie\" confirment la pertinence par rapport à la thématique.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "fsdBU5g4Fa4",
@@ -3433,7 +3433,7 @@
     "decision": "oui",
     "justification": "La vidéo présente l'autoconstruction d'une phytoépuration, ce qui contribue à l'autosuffisance en matière de traitement des eaux usées. Le titre et la description indiquent clairement un projet d'autoconstruction lié à l'environnement et à l'autonomie.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Rpq1xfa7nvY",
@@ -3452,7 +3452,7 @@
     "decision": "oui",
     "justification": "Le titre et la description mentionnent la permaculture et la culture de fraises, ce qui est directement lié à l'autosuffisance alimentaire.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "aFyCj9eE4xQ",
@@ -3479,7 +3479,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment utiliser un composteur de jardin, ce qui contribue à réduire les déchets et à créer du compost pour le jardinage. Le compostage est une technique liée à l'autosuffisance alimentaire et à la réduction de la dépendance aux engrais chimiques.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Ks5QeTU0We8",
@@ -3510,7 +3510,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment protéger les arbres fruitiers contre les maladies et les ravageurs, ce qui contribue à la production de nourriture et donc à l'autosuffisance alimentaire. C'est un tutoriel qui présente une technique liée à l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "-6ecq5hc5ig",
@@ -3535,7 +3535,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit le témoignage d'une personne visant l'autonomie alimentaire grâce à une serre autonome et des techniques comme l'aquaponie et la production de graines, ce qui correspond à la définition de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "L5rNEeHYokg",
@@ -3578,7 +3578,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit la conception d'une tiny house autonome en énergie et en eau, ce qui correspond directement à la thématique de l'autosuffisance. L'objectif de réduire l'empreinte carbone et de vivre de manière durable renforce cette pertinence.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "L5rNEeHYokg",
@@ -3621,7 +3621,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit la conception d'une tiny house autonome en énergie et en eau, ce qui correspond directement à la thématique de l'autosuffisance. L'objectif de réduire l'empreinte carbone et de vivre de manière durable renforce cette pertinence.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "KDQ34RdRIco",
@@ -3646,7 +3646,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une technique agricole biologique permettant de produire du maïs sans engrais, ce qui contribue à l'autosuffisance alimentaire en réduisant la dépendance aux intrants extérieurs. Le focus sur le bio et les couverts végétaux renforce la pertinence.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "bOR_UkFTZAI",
@@ -3722,7 +3722,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un éco-village et une ferme biologique qui mettent en œuvre des pratiques d'agriculture responsable, de vente directe et d'autonomie alimentaire. Les thèmes abordés, comme la permaculture, la transition écologique et le développement durable, sont directement liés à l'autosuffisance. De plus, la vidéo met en avant un style de vie durable et une consommation responsable.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "8rwFj5OL-Go",
@@ -3749,7 +3749,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une recette de gaspacho à base de légumes du potager (betterave, concombre). Elle mentionne également l'autonomie alimentaire et le potager, ce qui correspond à la thématique de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "kTpNnoERF0Q",
@@ -3801,7 +3801,7 @@
     "decision": "oui",
     "justification": "La vidéo est un tutoriel sur le semis de fabacées (légumineuses), qui sont une source de nourriture importante pour l'autosuffisance alimentaire. Elle fournit des astuces pour des semis réussis et est donc pertinente pour la thématique.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "1AuYxtKsRvI",
@@ -3846,7 +3846,7 @@
     "decision": "oui",
     "justification": "La vidéo présente la peinture à la chaux, une technique de peinture naturelle et écologique. Cela correspond à une démarche d'autonomie et de réduction de la dépendance aux produits industriels, en privilégiant des alternatives saines et respectueuses de l'environnement.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "VRd6ezifxT0",
@@ -4119,7 +4119,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un écolieu axé sur l'agroécologie et la permaculture, qui vise à l'autonomie et à un mode de vie plus écologique. Les mots-clés \"autonomie\", \"ecolieu\", \"permaculture\" et \"agroécologie\" sont directement liés à l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "ihi165Ha_58",
@@ -4173,7 +4173,7 @@
     "decision": "oui",
     "justification": "Le titre et la description mentionnent explicitement l'autonomie et l'autosuffisance, avec un focus sur un projet concret sur un terrain agricole. Les tags confirment également le lien avec l'autosuffisance et l'autonomie alimentaire.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "oClJplkvSJ8",
@@ -4307,7 +4307,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la gestion des déchets, incluant potentiellement le compostage et le tri, ce qui contribue à une démarche d'autosuffisance en réduisant la dépendance aux services extérieurs et en valorisant les ressources locales.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "rr9v5EkqspE",
@@ -4358,7 +4358,7 @@
     "decision": "oui",
     "justification": "Le titre et la description mentionnent clairement le concept d'autarcie, qui est très proche de l'autosuffisance. Les tags incluent également les termes \"vivre en autarcie\" et \"autarcie\". La description indique que les personnes présentées dans la vidéo vivent de manière isolée et doivent subvenir à leurs besoins de base, ce qui correspond à la définition de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "9-VnZY_0SW0",
@@ -4394,7 +4394,7 @@
     "decision": "oui",
     "justification": "La vidéo montre le repiquage d'un drageon de yucca et mentionne ses utilisations (shampoing, fil, fruits comestibles). Les tags incluent des termes pertinents tels que \"autonomie\", \"autarcie\", \"survie\", \"cultiver\", et \"jardin\". La description et les tags suggèrent un lien fort avec l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "FEwDHmEXtww",
@@ -4486,7 +4486,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit l'installation d'un composteur électromécanique collectif, ce qui contribue à la réduction des déchets et à la valorisation des ressources locales, un aspect important de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "0uORzJZETX8",
@@ -4511,7 +4511,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la création d'une microferme, qui est une méthode pour cultiver de manière rentable sur une petite surface. Cela correspond directement à la thématique de l'autosuffisance alimentaire et à la recherche d'autonomie matérielle. De plus, il s'agit d'un tutoriel/conseil sur une technique liée à l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "6rlv5bXe4zY",
@@ -4605,7 +4605,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de chauffage économe en énergie et respectueux de l'environnement, ce qui contribue à réduire la dépendance aux systèmes énergétiques conventionnels. L'utilisation de matériaux durables et la réduction de la consommation d'énergie sont des aspects importants de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "vsNmo-vsI4E",
@@ -4671,7 +4671,7 @@
     "decision": "oui",
     "justification": "La fermentation lactique est une technique de conservation des aliments, notamment pour la fabrication de yaourts, ce qui contribue à l'autosuffisance alimentaire. La vidéo explique le processus biologique de cette technique.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "JSc6jDwTXso",
@@ -4712,7 +4712,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un système agricole visant à réduire la dépendance aux intrants synthétiques et à améliorer la fertilité des sols, ce qui contribue à une agriculture plus autonome et durable. Cela correspond à la définition de l'autosuffisance, notamment en termes de réduction de la dépendance au système économique extérieur et de promotion de pratiques agricoles durables.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "OyTOeLxKVF4",
@@ -4741,7 +4741,7 @@
     "decision": "oui",
     "justification": "La vidéo aborde la démarche zéro déchet et l'économie frugale, qui sont des composantes importantes de l'autosuffisance et de la réduction de la dépendance au système économique extérieur. Les tags confirment cette orientation.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "mmOAsQUGndA",
@@ -4765,7 +4765,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment appliquer un badigeon à la chaux, une technique de construction naturelle et durable. L'utilisation de matériaux naturels et la durabilité sont des aspects liés à l'autosuffisance, notamment dans la construction et l'entretien d'un habitat autonome. De plus, la description met en avant les avantages écologiques et économiques du badigeon à la chaux, ce qui correspond aux valeurs de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "e6wbcqqL9EA",
@@ -4793,7 +4793,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un producteur de plantes médicinales et aromatiques, ce qui est lié à l'autosuffisance en termes de production locale et potentiellement biologique de ressources essentielles. De plus, la description mentionne la permaculture et l'autonomie, renforçant le lien avec la thématique.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "UBOAy-j2JV8",
@@ -4821,7 +4821,7 @@
     "decision": "oui",
     "justification": "La vidéo traite du biocontrôle, une méthode alternative aux pesticides pour protéger les plantes au jardin. Elle s'inscrit dans une démarche de jardinage respectueux de l'environnement et favorise l'autonomie dans la gestion du potager, ce qui est pertinent pour l'autosuffisance alimentaire.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "8AzggWXmAek",
@@ -4853,7 +4853,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une ferme équestre qui est autonome en électricité grâce aux énergies renouvelables. Cela correspond à la recherche d'autonomie matérielle et à la réduction de la dépendance au système extérieur, ce qui est au cœur de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "KPVBXMPIOBo",
@@ -4893,7 +4893,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un système d'eau autonome pour fourgon aménagé, ce qui contribue à l'autosuffisance en permettant de gérer ses propres ressources en eau lors de voyages. Le titre et la description mettent en avant l'aspect \"autonome\" du système, et les tags confirment le lien avec l'aménagement de fourgons pour un mode de vie autonome.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Ia9UAj1-n5k",
@@ -4986,7 +4986,7 @@
     "decision": "oui",
     "justification": "La vidéo montre un suivi de culture de légumes exotiques dans un potager, avec des exemples comme les patates douces, le maïs et les cacahuètes. Elle partage des expériences et des techniques de culture, ce qui est pertinent pour l'autosuffisance alimentaire.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "5D6MJfx7iqE",
@@ -5032,7 +5032,7 @@
     "decision": "oui",
     "justification": "La vidéo présente l'utilisation de la consoude en cuisine, une plante sauvage comestible. Les tags incluent des termes liés à l'autonomie, la cuisine sauvage, et la nourriture saine, ce qui correspond à la thématique de l'autosuffisance, notamment par l'autoconsommation et la valorisation de ressources locales.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "gID7gmTlvu0",
@@ -5069,7 +5069,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment installer une chaudière à bois, un élément qui contribue à l'autonomie énergétique d'une habitation. Elle offre un tutoriel technique détaillé sur un sujet pertinent pour l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "sNhAo1GTiDg",
@@ -5102,7 +5102,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit le travail d'un paysan boulanger qui utilise des semences paysannes biologiques pour cultiver du blé. Cela est directement lié à l'autosuffisance alimentaire, à l'autonomie et à la réduction de la dépendance au système agricole conventionnel.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "j3F-AvwvM6s",
@@ -5121,7 +5121,7 @@
     "decision": "oui",
     "justification": "La vidéo aborde la préparation d'une randonnée en autonomie, ce qui implique de subvenir à ses propres besoins pendant la durée de la randonnée. La stratégie de ravitaillement, le choix du matériel et les précautions de sécurité sont des éléments liés à l'autosuffisance en contexte de randonnée.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "TIWv2O6sepM",
@@ -5197,7 +5197,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une famille ayant un projet de ferme d'autosuffisance alimentaire. Le titre et la description mentionnent clairement l'autosuffisance alimentaire. Les tags incluent des termes pertinents tels que \"autosuffisance alimentaire\", \"autonomie alimentaire\", \"agriculture biologique\", \"ferme\", et \"permaculture\".",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "YdazOz0DnVE",
@@ -5247,7 +5247,7 @@
     "decision": "oui",
     "justification": "La vidéo, d'après son titre, sa description et ses tags, traite de l'autonomie au potager, de la permaculture, de la résilience et de l'autonomie alimentaire. Elle présente l'évolution d'un potager après une période d'absence, ce qui peut être intéressant pour ceux qui cherchent à développer leur propre autonomie alimentaire.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "KkJXmS9KxhU",
@@ -5280,7 +5280,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment alimenter un chauffe-eau avec des panneaux solaires, ce qui est lié à l'autosuffisance énergétique. Elle présente une technique contribuant à réduire la dépendance au réseau électrique.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "-cmVPa6vrHM",
@@ -5397,7 +5397,7 @@
     "decision": "oui",
     "justification": "La vidéo traite des semis au potager en permaculture, ce qui est directement lié à l'autosuffisance alimentaire. Les tags incluent des termes comme \"autonomie\", \"jardin\", \"potager\", \"légumes\", \"bio\", et \"économie\", qui sont tous pertinents pour le sujet. De plus, le titre mentionne l'\"autonomie\".",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "oZ0_hW6MKew",
@@ -5416,7 +5416,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment conserver des fruits secs, ce qui contribue à l'autonomie alimentaire en permettant de stocker de la nourriture produite soi-même ou localement. Les tags et la description mentionnent l'autonomie alimentaire et des accompagnements à l'autonomie, ce qui confirme la pertinence du sujet.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "SSEc14g01hY",
@@ -5569,7 +5569,7 @@
     "decision": "oui",
     "justification": "La vidéo est un tutoriel qui explique comment cultiver des champignons sur du marc de café, ce qui est une technique liée à l'autosuffisance alimentaire.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "YjLEdSJvqN4",
@@ -5589,7 +5589,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit la réalisation d'un puits pour une pompe à chaleur géothermique et l'arrosage du jardin. L'accès à l'eau est un élément essentiel de l'autosuffisance, notamment pour l'alimentation et l'énergie. De plus, la description contient des liens vers des sites d'information sur le potentiel aquifère et géothermique, ce qui est pertinent pour une démarche d'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Ln_EbH3WJec",
@@ -5608,7 +5608,7 @@
     "decision": "oui",
     "justification": "La vidéo mentionne le potager et la consoude B14, ce qui suggère un lien avec la culture de plantes et potentiellement l'autosuffisance alimentaire.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "ZZZqwKefTBw",
@@ -5657,7 +5657,7 @@
     "decision": "oui",
     "justification": "La gestion des déchets verts, le broyage à domicile, et la gestion écologique des espaces verts sont des techniques qui contribuent à l'autosuffisance, notamment en permettant de créer du compost pour le jardinage et l'agriculture à petite échelle.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "u1fU5FeuZ90",
@@ -5688,7 +5688,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une technique de permaculture (culture en lasagnes) qui contribue à l'autosuffisance alimentaire en optimisant la production potagère. Les mots-clés et la description confirment le lien direct avec la permaculture, une pratique centrale pour atteindre l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "R0C0eikT7Pg",
@@ -5756,7 +5756,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une ferme agroécologique qui travaille collectivement pour produire des aliments sains, ce qui est directement lié à l'autosuffisance alimentaire. Les tags incluent des termes clés comme 'autonomie', 'permaculture', 'agriculture bio' et 'alimentation', confirmant la pertinence du contenu pour la thématique de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "d06ssNOndOk",
@@ -5780,7 +5780,7 @@
     "decision": "oui",
     "justification": "La vidéo concerne la construction d'une cuisine en palettes, ce qui s'inscrit dans une démarche d'autonomie et de récupération, contribuant ainsi à l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "w-lU7ctnHoQ",
@@ -5839,7 +5839,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit la création d'un espace cuisine pour permettre aux résidents de cuisiner en autonomie, ce qui est directement lié à l'autosuffisance alimentaire et à l'autonomie matérielle.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "e3D9uotfVdE",
@@ -5911,7 +5911,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit la fabrication de biogaz à usage domestique, ce qui contribue à l'autosuffisance énergétique. Elle présente une technique liée à l'autosuffisance et à la réduction de la dépendance au système énergétique extérieur.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "SIn3L-zkLns",
@@ -5949,7 +5949,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'autosuffisance alimentaire à travers la création d'un potager autonome, ce qui correspond parfaitement à la définition de l'autosuffisance. Les tags et la description confirment cette thématique.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "IxrD-a8vvR8",
@@ -6016,7 +6016,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une formation aux compétences éco-responsables, ce qui est pertinent pour l'autosuffisance car cela peut inclure des techniques de production alimentaire, de gestion des ressources, etc. Le programme vise à développer des compétences liées à la transition écologique, ce qui contribue indirectement à l'autonomie et à la réduction de la dépendance au système économique extérieur.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "6ebcpruZXrw",
@@ -6158,7 +6158,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une batterie nomade et des panneaux solaires pour alimenter une maison, ce qui contribue à l'autonomie énergétique et donc à l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "91QgA7508Ek",
@@ -6194,7 +6194,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de lactofermentation de plantes sauvages cueillies, dans le but d'atteindre l'autonomie alimentaire. Les tags confirment également le lien avec l'autonomie alimentaire et la cueillette.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "NmRVRpUulXU",
@@ -6216,7 +6216,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne l'autonomie, un système céréalier bio (agriculture biologique) et l'azote, un élément essentiel à la croissance des plantes. L'azote est souvent un facteur limitant en agriculture biologique, donc l'autonomie en azote est un objectif important pour l'autosuffisance alimentaire.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "HBP9x_3LgEM",
@@ -6249,7 +6249,7 @@
     "decision": "oui",
     "justification": "La vidéo traite du bio-habitat et de la construction écologique, qui sont des aspects liés à l'autosuffisance en termes de logement et de réduction de l'impact environnemental. Elle aborde l'économie d'énergie et la vie dans un environnement sain, ce qui correspond à la recherche d'autonomie et de durabilité.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "YmE5ln7JuIQ",
@@ -6287,7 +6287,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne explicitement \"Vers l'autonomie\". La description précise que la vidéo traite du travail des fermes bio pour atteindre l'autonomie. Les tags incluent des termes pertinents comme \"Autonomie\", \"Agriculture Biologique\", \"agroécologie\", \"élevage\", \"grandes cultures\", et \"économie\", ce qui indique un lien fort avec la thématique de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "LGRXZaoTx0U",
@@ -6322,7 +6322,7 @@
     "decision": "oui",
     "justification": "La vidéo traite d'une maladie courante des tomates (mildiou) et propose des solutions pour la soigner ou la prévenir. La culture de tomates est une activité courante dans les jardins potagers, qui contribue à l'autosuffisance alimentaire. La vidéo donne des conseils pratiques pour maintenir ses cultures en bonne santé.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "C02NkO1TKhg",
@@ -6392,7 +6392,7 @@
     "decision": "oui",
     "justification": "La vidéo aborde l'adaptation des bâtiments au climat futur, ce qui est lié à la résilience et à la durabilité. Les tags incluent des termes comme \"permaculture\", \"jardinage écologique\", \"compostage\", \"écoconstruction\" et \"sustainableliving\", qui sont directement liés à l'autosuffisance. De plus, la description mentionne une masterclass pour concevoir une maison saine et autonome.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "iBjTD3urewo",
@@ -6427,7 +6427,7 @@
     "decision": "oui",
     "justification": "La vidéo aborde l'adaptation des bâtiments au climat futur, ce qui est lié à la résilience et à la durabilité. Les tags incluent des termes comme \"permaculture\", \"jardinage écologique\", \"compostage\", \"écoconstruction\" et \"sustainableliving\", qui sont directement liés à l'autosuffisance. De plus, la description mentionne une masterclass pour concevoir une maison saine et autonome.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "qtbcwYEtp9I",
@@ -6465,7 +6465,7 @@
     "decision": "oui",
     "justification": "Le titre et la description indiquent clairement que la vidéo traite de l'autosuffisance en blé au Zimbabwe. Les tags confirment également le sujet de l'agriculture et de l'autosuffisance alimentaire.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "JXGvkp6BoQ8",
@@ -6490,7 +6490,7 @@
     "decision": "oui",
     "justification": "La vidéo porte sur la méthanisation en auto-construction, une technique directement liée à l'autosuffisance énergétique. Le tutoriel et la présentation de l'association Picojoule indiquent un contenu pratique et informatif.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "NLVL2074Og4",
@@ -6533,7 +6533,7 @@
     "decision": "oui",
     "justification": "La vidéo aborde l'éco-anxiété et mentionne des personnes s'isolant dans des éco-lieux. Bien que le sujet principal soit l'éco-anxiété, le lien avec les éco-lieux, qui sont souvent liés à l'autosuffisance, justifie une pertinence modérée.",
     "score": 5,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "J-UoISZaSZo",
@@ -6569,7 +6569,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une spirale à insectes, un élément souvent utilisé dans les jardins en permaculture et les potagers bio pour favoriser la biodiversité et l'équilibre écologique. Les tags incluent des termes clés liés à l'autosuffisance comme \"autonomie\", \"permaculture\", \"potager\", \"bio\", \"growyourownfood\" et \"agroecologie\". Le sujet de la vidéo, l'évolution et l'efficacité de la spirale à insectes, est pertinent pour ceux qui cherchent à créer un écosystème autosuffisant dans leur jardin.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "tZCP7KD7jTI",
@@ -6594,7 +6594,7 @@
     "decision": "oui",
     "justification": "La vidéo présente le jardinage de légumes perpétuels, ce qui est directement lié à la production de nourriture et donc à l'autosuffisance alimentaire. La description mentionne également une redécouverte du jardin en période de crise, suggérant un intérêt pour l'autonomie.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "sJQBioQH_s0",
@@ -6710,7 +6710,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un robot agricole autonome qui peut remplacer un tracteur. L'utilisation de robots agricoles contribue à l'autonomie et à l'efficacité des exploitations agricoles, ce qui est lié à l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "7ihp8N-adlo",
@@ -6729,7 +6729,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une technique agricole (pâturage des brebis) qui contribue à l'autosuffisance alimentaire en optimisant l'utilisation des ressources locales (prairies). Le témoignage et les conseils d'experts renforcent la pertinence de la vidéo pour la thématique de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "JAYEIIk3yuI",
@@ -6750,7 +6750,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un projet de vie autonome au Panama, mettant en avant l'habitat écologique, l'autonomie alimentaire grâce à la production de fruits et légumes, et l'utilisation de sources d'énergie renouvelable. Les thèmes abordés correspondent directement à la définition de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "MRB_jAMjOoU",
@@ -6792,7 +6792,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la conservation des légumes et fruits du jardin potager, un aspect important de l'autosuffisance alimentaire. Les mots clés comme \"permaculture\", \"potager\", \"autonomie\", \"stockage\", et \"survivalisme\" confirment la pertinence du contenu pour la thématique.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Vz4yibOxdug",
@@ -6837,7 +6837,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment semer des petits pois, une culture potagère. Les tags #permaculture #autonomie #autosuffisance confirment que la vidéo s'inscrit dans cette thématique. Il s'agit d'un tutoriel qui contribue à l'autosuffisance alimentaire.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "bSAI5srbung",
@@ -6867,7 +6867,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit la transformation d'une vieille bâtisse en maison autonome, abordant des aspects clés de l'autosuffisance comme l'eau, l'électricité solaire et les toilettes sèches. Le titre et la description mettent en avant l'autonomie et l'autosuffisance, et les tags confirment cette thématique.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Jd2RqnCOUhE",
@@ -6949,7 +6949,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une maison bioclimatique et un éco-habitat, ce qui correspond à une démarche d'autonomie et de réduction de l'impact environnemental, des aspects importants de l'autosuffisance. De plus, les matériaux biosourcés utilisés sont en lien avec la production locale et le respect de l'environnement, des notions clés de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "_UA8aPfNDZ8",
@@ -6981,7 +6981,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit l'évolution de lasagnes cadres en bois dans un contexte de permaculture, incluant l'ajout de lombricompost et l'expérimentation de l'association des \"trois sœurs\". Ces éléments sont directement liés à la production de nourriture de manière autonome et durable, ce qui correspond à la définition de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "7fH1c9OZv4M",
@@ -7009,7 +7009,7 @@
     "decision": "oui",
     "justification": "La vidéo traite d'un aspect technique de l'élevage avicole (purges automatiques), ce qui peut contribuer à l'autosuffisance alimentaire en améliorant la qualité de l'élevage.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "Bk5oXpL-Qws",
@@ -7073,7 +7073,7 @@
     "decision": "oui",
     "justification": "La vidéo aborde des sujets directement liés à l'autosuffisance, tels que les semis de pommiers (production alimentaire), les toilettes sèches (gestion des ressources) et les cadeaux zéro-déchet (réduction de la consommation). De plus, la description met en avant la création de modes de vie respectueux de la nature et moins dépendants de la consommation, ce qui correspond à la définition de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "0mtDkccZG2M",
@@ -7284,7 +7284,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la biodiversité et de l'agroécologie, en particulier de l'utilisation d'insectes pour la lutte biologique en agriculture. Ces pratiques contribuent à une agriculture plus autonome et moins dépendante des intrants extérieurs, ce qui est lié à l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "cG7lJupBII0",
@@ -7326,7 +7326,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de viticulture bio et de la fertilité des sols, ce qui est directement lié à l'autosuffisance alimentaire et à la production locale de nourriture. Les sujets abordés, comme le stockage du carbone, l'adaptation des apports en matières organiques et le vitipastoralisme, contribuent à des techniques favorisant une agriculture plus autonome et durable.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "z6OIoU88m6s",
@@ -7345,7 +7345,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une agricultrice, ce qui est directement lié à la production de nourriture et donc à l'autosuffisance alimentaire. Le lieu (Apatou) suggère un contexte localisé, potentiellement en lien avec des pratiques agricoles spécifiques ou un mode de vie plus autonome.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "BbIac6mCOKI",
@@ -7380,7 +7380,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un système agricole qui vise à concilier performance économique et temps libre pour l'agricultrice. Le système de monotraite, vêlages groupés et assolement tout herbe peut être vu comme une démarche vers une plus grande autonomie et une meilleure qualité de vie, ce qui est en lien avec la thématique de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "wnum_REw8mo",
@@ -7416,7 +7416,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit le processus de récolte du foin, une activité agricole qui contribue à l'autonomie alimentaire et à la résilience, des thèmes centraux de l'autosuffisance. Les tags et la description mentionnent explicitement l'autonomie et la permaculture.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "5UIsAYWjtVg",
@@ -7472,7 +7472,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'autonomie protéique dans un élevage, ce qui est directement lié à l'autosuffisance alimentaire. L'utilisation de prairies multi-espèces et de méteils fourragers pour équilibrer la ration des animaux est une technique contribuant à l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "rzWlSmxuEHE",
@@ -7491,7 +7491,7 @@
     "decision": "oui",
     "justification": "La description mentionne explicitement la construction d'un écolieu avec une agriculture durable, ce qui est directement lié à l'autosuffisance. Le projet vise à créer un écosystème durable et respectueux de l'environnement, ce qui correspond à la définition de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "X-LylDhHQT8",
@@ -7515,7 +7515,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de permaculture et de biodiversité au potager, ce qui est directement lié à l'autosuffisance alimentaire. La description mentionne des techniques de culture et l'importance de la pollinisation, des éléments essentiels pour produire sa propre nourriture.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "nM6bhY-oGk8",
@@ -7540,7 +7540,7 @@
     "decision": "oui",
     "justification": "Bien que le titre et les tags soient vagues, la description mentionne explicitement l'autonomie et le survivalisme, et renvoie vers une chaîne YouTube dédiée à ces sujets. La vidéo pourrait potentiellement présenter une technique de cuisine ou de préparation alimentaire utile dans un contexte d'autosuffisance.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "8S0jW93bUVI",
@@ -7595,7 +7595,7 @@
     "decision": "oui",
     "justification": "La vidéo aborde le thème de la vie sans pétrole et des économies d'énergie avec Yves Cochet, ce qui est lié à la réduction de la dépendance au système économique extérieur et à la recherche d'une vie plus autonome, un des aspects de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "-8rlLAFxpLU",
@@ -7629,7 +7629,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la gestion agroécologique des ravageurs, ce qui est une technique contribuant à l'autosuffisance alimentaire en réduisant la dépendance aux intrants externes (pesticides) et en favorisant des méthodes de production plus durables.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "0esFlxOlZgw",
@@ -7708,7 +7708,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit l'installation d'un agriculteur avec des choix visant à l'autonomie (temps de travail, charges), ce qui correspond à la définition de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "xyEC9I6luRY",
@@ -7793,7 +7793,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la production d'énergie solaire, ce qui peut contribuer à l'autosuffisance énergétique. La description mentionne des panneaux solaires et un boîtier d'alimentation autonome, ce qui est pertinent pour le sujet.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "fMCtESAAMuc",
@@ -7850,7 +7850,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une recette de gâteau au chocolat et courgette réalisée avec les légumes du jardin potager, ce qui est directement lié à l'autoconsommation et à l'utilisation de produits locaux, éléments clés de l'autosuffisance. De plus, les tags incluent des termes comme \"permaculture\", \"autonomie\", \"jardin\", et \"potager\", confirmant la pertinence de la vidéo pour cette thématique.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "VhCh_8Gs1Zk",
@@ -7875,7 +7875,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un exemple de circuit court de maraîchage, contribuant à l'autonomie alimentaire locale, ce qui est un aspect important de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "VhCh_8Gs1Zk",
@@ -7900,7 +7900,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un exemple de circuit court de maraîchage, contribuant à l'autonomie alimentaire locale, ce qui est un aspect important de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "r8UvmXQucmY",
@@ -7939,7 +7939,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une ferme coopérative qui pratique l'agriculture biologique et le maraîchage. Ces pratiques contribuent à l'autosuffisance alimentaire en produisant localement des légumes bio.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Qwg4pXckbXI",
@@ -7969,7 +7969,7 @@
     "decision": "oui",
     "justification": "La vidéo concerne l'installation de panneaux photovoltaïques, ce qui contribue à l'autonomie énergétique d'un foyer. Cela s'inscrit dans la démarche d'autosuffisance en réduisant la dépendance au système énergétique extérieur.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "g3RQc_jCA1Q",
@@ -8187,7 +8187,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un projet de vie axé sur l'autonomie alimentaire et énergétique. Les métadonnées mentionnent clairement l'autonomie, l'autonomie alimentaire, le potager et la serre. La description détaille une démarche d'autonomie en lien avec la nature et un mode de vie plus conscient, ce qui correspond à la définition de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "RlSUnmAr5oY",
@@ -8221,7 +8221,7 @@
     "decision": "oui",
     "justification": "La vidéo traite d'éco-quartiers, qui sont des lieux conçus pour être plus écologiques et durables. Bien que cela ne soit pas directement de l'autosuffisance, l'accent mis sur la durabilité, la réduction de l'étalement urbain et la promotion du développement économique local et de la qualité de vie s'aligne sur les principes de réduction de la dépendance au système extérieur. De plus, l'épisode \"Réinventer la nature\" suggère une connexion avec la production locale de ressources.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "iWpvAx1485Q",
@@ -8255,7 +8255,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment récupérer l'eau de pluie pour des usages domestiques comme les toilettes et le lave-vaisselle, ce qui contribue à réduire la dépendance à l'eau potable et s'inscrit dans une démarche d'autonomie et d'autosuffisance en eau.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "_CI3Aen8ikM",
@@ -8339,7 +8339,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une visite détaillée du jardin, du jardin-forêt et du potager, partageant des informations sur les végétaux qui réussissent et ceux qui ne réussissent pas. Les tags incluent \"Autonomie\", \"autosuffisance\", \"jardin\", \"potager\", \"autonomie alimentaire\", \"autosuffisance alimentaire\", ce qui indique clairement un lien avec la thématique de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "IcrjKvz7cFk",
@@ -8358,7 +8358,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un atelier sur la culture de la grenade et du kaki, ce qui contribue à l'autosuffisance alimentaire en permettant aux gens de cultiver leurs propres fruits. L'événement Tech&Bio Arboriculture suggère une approche biologique, ce qui est cohérent avec la définition de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "pWLqffm983w",
@@ -8396,7 +8396,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une technique agricole (paillage) qui contribue à l'autosuffisance en agriculture et en élevage.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "fpbyiRinCx8",
@@ -8473,7 +8473,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'utilisation des tomates vertes, ce qui relève de l'autoconsommation et de la valorisation des ressources alimentaires. De plus, la description et les tags mentionnent explicitement des concepts liés à l'autosuffisance comme la permaculture, la vie en autonomie, la culture biologique et l'écovillage.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "DWWo1qaUMrw",
@@ -8500,7 +8500,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit l'utilisation du miscanthus pour créer une litière pour dindes, permettant une autonomie en matière de litière. Cela contribue à l'autosuffisance de l'exploitation agricole.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "8-nYE9bZNQ8",
@@ -8631,7 +8631,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'élevage des cailles, une activité liée à la production de nourriture et donc à l'autosuffisance alimentaire.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "nP2GTY4dz4c",
@@ -8680,7 +8680,7 @@
     "decision": "oui",
     "justification": "La vidéo documente l'autoconstruction d'une maison en A, un habitat autoconstruit, avec l'objectif d'autonomie. Le projet inclut également un camping thématique axé sur l'autonomie et une association dédiée à la transmission de savoirs et compétences pour une plus grande autonomie des foyers. La vidéo présente une technique de construction (pose de tuiles) qui contribue à l'autosuffisance en matière de logement.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "uDkkYZvQjZo",
@@ -8713,7 +8713,7 @@
     "decision": "oui",
     "justification": "La vidéo explique le lombricompostage, une technique de compostage qui contribue à la réduction des déchets et à la production d'engrais naturels, ce qui est pertinent pour l'autosuffisance, notamment dans le domaine de l'autonomie alimentaire.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "R2f75TP_Pok",
@@ -8782,7 +8782,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la phytoépuration maison, une technique de traitement des eaux usées qui contribue à l'autonomie et à la réduction de la dépendance aux systèmes extérieurs. Le titre et la description indiquent clairement un lien avec l'autosuffisance, et les tags confirment l'aspect DIY et le traitement des eaux.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "fLdrgURuxg4",
@@ -8801,7 +8801,7 @@
     "decision": "oui",
     "justification": "Le titre et la description indiquent clairement qu'il s'agit d'un tutoriel sur la culture de pommes de terre, ce qui est directement lié à l'autosuffisance alimentaire.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "zjukYMHW54A",
@@ -8828,7 +8828,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une ferme laitière bio qui fabrique ses propres fromages et yaourts en circuit court. Bien que ce ne soit pas de l'autosuffisance totale, cela contribue à une production locale et durable, réduisant la dépendance au système alimentaire industriel.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "zjukYMHW54A",
@@ -8855,7 +8855,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une ferme laitière bio qui fabrique ses propres fromages et yaourts en circuit court. Bien que ce ne soit pas de l'autosuffisance totale, cela contribue à une production locale et durable, réduisant la dépendance au système alimentaire industriel.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "1do3XhxMP1c",
@@ -8939,7 +8939,7 @@
     "decision": "oui",
     "justification": "La vidéo semble traiter de permaculture et de plantations, en utilisant du marc de café. Les mots-clés incluent \"permaculture\", \"autonomie\", \"agriculture pérenne\", \"plantations\", \"agroécologie\". Tous ces éléments sont liés à l'autosuffisance, notamment alimentaire.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "p2RsgaVauCM",
@@ -8980,7 +8980,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment creuser un puits ou un forage, ce qui permet d'accéder à une source d'eau. L'accès à l'eau est un besoin fondamental et une composante importante de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "qhIONpZn-bI",
@@ -8999,7 +8999,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne la greffe d'un pommier, ce qui est une technique liée à l'autosuffisance alimentaire. La description contient le mot \"autonomie\", renforçant le lien avec la thématique. Bien que bref, le contenu suggère une contribution à l'autonomie alimentaire.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "zMovDJ2KsKA",
@@ -9045,7 +9045,7 @@
     "decision": "oui",
     "justification": "La vidéo présente une rencontre avec CULTEEV, une entreprise spécialisée dans les jardins d'intérieur hydroponiques. L'hydroponie est une technique de culture qui peut contribuer à l'autosuffisance alimentaire, surtout en milieu urbain ou dans des conditions climatiques difficiles. La vidéo montre une solution pour cultiver ses propres herbes aromatiques et légumes, ce qui correspond à la définition de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "7dQAupf5GrI",
@@ -9092,7 +9092,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une technique de permaculture pour produire des légumes sur une petite surface sans travail du sol, ce qui contribue à l'autosuffisance alimentaire. Les tags incluent des termes pertinents comme \"autonomie\", \"jardin bio\", \"permaculture\", \"abondance de légumes\", et \"sol vivant\". La description met l'accent sur la production abondante de légumes, ce qui est directement lié à l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "iL2lqxAT4Nc",
@@ -9145,7 +9145,7 @@
     "decision": "oui",
     "justification": "La vidéo traite du filtrage de l'eau, une ressource essentielle pour l'autosuffisance. Elle compare différents filtres à eau et discute de leur certification, ce qui est pertinent pour garantir la potabilité de l'eau en situation d'autonomie. Les tags incluent des termes comme \"autonomie\", \"résilience hydrique\", \"survivalisme\", \"autonomie en eau\", ce qui confirme le lien avec la thématique.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "lZIQ9fzrvYs",
@@ -9164,7 +9164,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une technique de paillage en permaculture, ce qui contribue à l'autosuffisance en améliorant la gestion du sol et en réduisant le besoin d'intrants extérieurs. Les tags et la description confirment le lien avec la permaculture et le jardinage.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "DjEosHD-SmI",
@@ -9184,7 +9184,7 @@
     "decision": "oui",
     "justification": "La vidéo aborde la gestion des déchets verts et propose des conseils pour devenir plus éco-responsable pendant le confinement. Bien que ne traitant pas directement de la production alimentaire, elle s'inscrit dans une démarche d'autonomie et de réduction de la dépendance aux services extérieurs, ce qui est un aspect de l'autosuffisance.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "-vhYYWX65Oc",
@@ -9220,7 +9220,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un poulailler de 4000 pondeuses. L'élevage de volailles, en particulier de poules pondeuses, contribue à l'autosuffisance alimentaire en permettant la production d'œufs pour l'autoconsommation.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "SBmubDSyn3Q",
@@ -9300,7 +9300,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment produire du biogaz à partir de déchets via la méthanisation, ce qui peut contribuer à l'autosuffisance énergétique en réduisant la dépendance aux énergies fossiles. Elle présente une technique liée à l'autosuffisance et y contribue.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "4zFI1wvZ0zg",
@@ -9353,7 +9353,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un système de culture aéroponique qui permet d'économiser de l'eau et de l'espace, tout en augmentant le rendement. Ce système peut être alimenté par des panneaux solaires, ce qui le rend autonome. L'aéroponie est une technique qui contribue à l'autosuffisance alimentaire.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Kceo8Q6WbBg",
@@ -9395,7 +9395,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la gestion de l'eau dans un habitat durable, un aspect important de l'autosuffisance. Elle aborde des techniques d'économie et de préservation de l'eau, ce qui est pertinent pour la thématique.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Vf5yu0pOMfc",
@@ -9496,7 +9496,7 @@
     "decision": "oui",
     "justification": "La vidéo aborde l'autonomie en agriculture, un aspect central de l'autosuffisance, à travers l'expérience d'un maraîcher bio en permaculture. Le titre et la description mettent en avant l'objectif d'autonomie et la production locale.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "mwpOSOWT7JM",
@@ -9550,7 +9550,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la culture du pommier et de la production de produits dérivés tels que le cidre, l'eau-de-vie et le vinaigre, ce qui contribue à l'autonomie alimentaire. Les tags incluent également des termes liés à l'autonomie, à la permaculture et à la résilience.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "uNGzKmLcYgs",
@@ -9578,7 +9578,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la consommation alternative, locale et naturelle, ce qui est directement lié à la réduction de la dépendance au système économique extérieur et à la recherche d'une vie plus autonome, des éléments clés de l'autosuffisance. Les tags comme \"Alimentation\", \"Nourriture\", \"Approvisionnement\" et \"Local\" renforcent cette pertinence.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "d7jHCy0eZZo",
@@ -9629,7 +9629,7 @@
     "decision": "oui",
     "justification": "La vidéo traite directement de l'autonomie alimentaire et de la culture de légumes au potager dans le but de réduire la dépendance aux supermarchés. Les tags confirment l'orientation vers l'autonomie alimentaire, la permaculture et le potager bio.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Qx_g5i4Gzsg",
@@ -9687,7 +9687,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un semoir autonome, ce qui est directement lié à l'autosuffisance alimentaire en facilitant la production agricole. Les tags incluent des termes comme \"robot autonome\", \"semis\", \"agroécologie\", ce qui confirme la pertinence de la vidéo pour la thématique.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "eKudrSrjwFM",
@@ -9713,7 +9713,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un tracteur électrique et autonome, ce qui est une technique contribuant à l'autosuffisance en agriculture. L'autonomie énergétique et la capacité à automatiser certaines tâches agricoles sont des éléments pertinents pour l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "1Tur0zcDnvU",
@@ -9735,7 +9735,7 @@
     "decision": "oui",
     "justification": "Le titre et la description indiquent clairement que la vidéo traite de l'autonomie et présente une serre comme un élément contribuant à cet objectif. La mention de l'aquaponie renforce le lien avec l'autosuffisance alimentaire.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "OitEzHbXflw",
@@ -9760,7 +9760,7 @@
     "decision": "oui",
     "justification": "Le titre et la description mentionnent explicitement l'autosuffisance. Il s'agit d'une vidéo de type \"avis livresque\" sur des livres traitant de ce sujet, ce qui correspond à un partage d'expérience et d'informations pertinent.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "8k6SQmWOmdA",
@@ -9841,7 +9841,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit la préparation d'engrais de poisson, une technique agricole qui contribue à une agriculture plus saine et potentiellement à l'autosuffisance alimentaire. La description mentionne l'apprentissage de la fabrication d'engrais, ce qui indique un tutoriel ou une démonstration pratique.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "IJ5YTqI3fqY",
@@ -9886,7 +9886,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une technique (BRF) qui améliore la qualité du sol et réduit la dépendance à l'irrigation, contribuant ainsi à l'autosuffisance alimentaire. De plus, le titre mentionne explicitement l'autosuffisance du sol.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "V4GQ5dcUHis",
@@ -9950,7 +9950,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'autonomie des exploitations agricoles et présente des innovations technologiques pour les tracteurs, ainsi que des solutions de guidage à bas prix. Ces éléments contribuent à l'autosuffisance en permettant aux agriculteurs de moderniser leurs équipements et d'améliorer leur efficacité.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "cF6LgZktn3k",
@@ -9979,7 +9979,7 @@
     "decision": "oui",
     "justification": "La vidéo explique l'importance des amendements calcaires pour la santé des sols et l'autonomie des champs. Elle aborde des techniques d'amélioration du sol qui contribuent à l'autosuffisance alimentaire.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "l2ILLcBthvA",
@@ -10075,7 +10075,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne un \"éco-lieu\", ce qui suggère un mode de vie axé sur l'autonomie et le respect de l'environnement, éléments clés de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "vJLMkUWt4SI",
@@ -10116,7 +10116,7 @@
     "decision": "oui",
     "justification": "La vidéo traite du sursemis de légumineuses dans une prairie, ce qui contribue à l'autonomie en protéines et à la sécurité fourragère. Les tags incluent \"Autonomie\", \"agroécologie\", \"Sécurité fourragère\", et \"Autonomie en protéines\", ce qui indique clairement un lien avec l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "xro4pjbE7Xs",
@@ -10218,7 +10218,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne un \"système d'eau autonome\", ce qui est directement lié à l'autosuffisance, notamment en matière d'accès à l'eau. Le lien avec un poulailler suggère également une potentielle production alimentaire autonome.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "v_zazV2r3Qc",
@@ -10328,7 +10328,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment protéger les agrumes en hiver, ce qui peut être pertinent pour les personnes cherchant à cultiver leur propre nourriture et à devenir plus autosuffisantes.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "IHim6tinbtg",
@@ -10460,7 +10460,7 @@
     "decision": "oui",
     "justification": "La vidéo montre comment fumer du poisson soi-même, ce qui est une technique de conservation des aliments et contribue à l'autosuffisance alimentaire. La description indique clairement qu'il s'agit d'une recette pour faire fumer du poisson.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "LuBrulwFl7U",
@@ -10499,7 +10499,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment utiliser la consoude Bocking 4 pour nourrir gratuitement la volaille et le bétail. Cela contribue directement à l'autosuffisance alimentaire en réduisant la dépendance aux aliments achetés pour les animaux. De plus, la vidéo est liée à la permaculture et à l'autonomie, deux concepts clés de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "xdqp_GmGmtU",
@@ -10525,7 +10525,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'agroforesterie, qui est une technique agricole associant arbres et cultures ou élevage, contribuant à la transition agroécologique et à une production agricole plus durable et potentiellement plus autonome. Cela peut contribuer à l'autosuffisance alimentaire.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "9WfcL5sTUcU",
@@ -10564,7 +10564,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un test de pompe solaire, un dispositif qui peut contribuer à l'autonomie énergétique et à la gestion de l'eau, deux aspects importants de l'autosuffisance. L'utilisation de l'énergie solaire pour alimenter une pompe à eau pour un bassin suggère une volonté de réduire la dépendance aux sources d'énergie conventionnelles.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "YcE0YlIMyCs",
@@ -10649,7 +10649,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'élevage de poulets, en particulier de la race Goliath, en mettant en avant les aspects de production locale et d'investissement en Afrique. Bien que l'accent ne soit pas mis directement sur l'autosuffisance alimentaire, l'élevage de volailles peut y contribuer en fournissant une source de nourriture (viande et œufs) produite localement.",
     "score": 6,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "hJd0s48excI",
@@ -10680,7 +10680,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne la recherche d'autonomie en paillage. La description détaille la démarche pour atteindre cette autonomie. Les tags incluent des termes clés comme \"autonomie\", \"permaculture\", \"agroécologie\", et \"potager\", qui sont fortement liés à l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "-PKzzkZ9gEw",
@@ -10734,7 +10734,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une technique agricole biologique et sans labour, le faux-semis, qui contribue à l'autonomie en matière de gestion des adventices. Elle s'inscrit dans une démarche d'agroécologie et de réduction de l'utilisation de produits phytosanitaires, favorisant ainsi une agriculture plus durable et autonome.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "cyac6LwQgcc",
@@ -10759,7 +10759,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de biostimulants et de fertilisants utilisés en horticulture et pépinière. Ces techniques contribuent à améliorer les rendements et la qualité des cultures, ce qui est pertinent pour l'autosuffisance alimentaire.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "Ub36mYxT1UI",
@@ -10820,7 +10820,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une initiative visant à améliorer l'autonomie alimentaire des producteurs tout en réduisant l'utilisation de produits phytosanitaires. Elle présente une approche spécifique (les méteils céréales-protéagineux) et un témoignage, ce qui correspond aux critères de pertinence (vlogs, tutoriels, techniques liées à l'autosuffisance).",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "kfnZDJZkuAo",
@@ -10845,7 +10845,7 @@
     "decision": "oui",
     "justification": "La vidéo explique une technique de semis de tomates, ce qui contribue à l'autosuffisance alimentaire. Les tags \"potager\", \"tomates\", \"permaculture\" et \"potagerbio\" renforcent cette pertinence.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "mfq0AScBnfU",
@@ -10924,7 +10924,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment fabriquer un récupérateur d'eau de pluie autonome, ce qui contribue à l'autosuffisance en permettant de collecter et d'utiliser l'eau de pluie pour divers usages (jardinage, etc.). Le tutoriel est un partage d'une technique liée à l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "iaeAjya38-c",
@@ -10953,7 +10953,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la récupération et du traitement des eaux usées, un aspect important de l'autosuffisance, notamment en ce qui concerne la gestion des ressources en eau. Les tags tels que \"autonomie\", \"recycler\", \"récupération eau de pluie\" et \"eaux usees\" confirment la pertinence de la vidéo par rapport à la thématique.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "ZMhGAenCMiI",
@@ -11000,7 +11000,7 @@
     "decision": "oui",
     "justification": "La vidéo présente un outil de désherbage manuel, qui permet de se passer de pesticides et donc de tendre vers une plus grande autonomie dans l'entretien de son jardin. Cela contribue à une forme d'autosuffisance alimentaire en permettant de cultiver un jardin plus sain et productif.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "WZD7O0ZWuzI",
@@ -11019,7 +11019,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de l'amélioration de l'autonomie fourragère dans une exploitation bovine, ce qui est directement lié à l'autosuffisance alimentaire pour les animaux et à la réduction de la dépendance aux achats extérieurs. Les conseils sur les prairies temporaires et la diversification des cultures contribuent à une meilleure gestion des ressources et à une production plus autonome.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "mE--zgF016w",
@@ -11063,7 +11063,7 @@
     "decision": "oui",
     "justification": "La vidéo montre la récolte de tomates dans un potager, ce qui est directement lié à l'autosuffisance alimentaire. La description contient des informations sur la culture des tomates et une recette, renforçant la pertinence. Les tags incluent \"autonomie\", \"jardin\", \"potager\", \"resilience\" et \"budget\".",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "LiOxQ1eIwk4",
@@ -11126,7 +11126,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une technique de permaculture (baissière) pour capter l'eau de pluie et régénérer le sol. Elle met en avant l'autonomie, la résilience et la gestion de l'eau, ce qui est directement lié à la thématique de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "RXmh8Y3pWYE",
@@ -11250,7 +11250,7 @@
     "decision": "oui",
     "justification": "La description mentionne un éco-lieu, ce qui est directement lié à l'autosuffisance et à un mode de vie plus autonome. Le titre \"En avant vers la nouvelle vie\" suggère également un changement de mode de vie vers plus d'autonomie et de durabilité.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "75QloXzbvHM",
@@ -11269,7 +11269,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une initiative de valorisation locale des déchets verts en partenariat avec des agriculteurs. Cette démarche s'inscrit dans une logique d'autonomie et de réduction de la dépendance aux ressources extérieures, ce qui est un aspect important de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "9s2TgDON3_U",
@@ -11338,7 +11338,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne une micro ferme biologique, ce qui est directement lié à l'autosuffisance alimentaire. La description suggère la présentation d'une ferme, ce qui correspond à une expérience concrète en lien avec l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "L39hhz2aqqc",
@@ -11357,7 +11357,7 @@
     "decision": "oui",
     "justification": "Le titre \"Micro-ferme des Chataigniers\" suggère une activité agricole à petite échelle, ce qui est lié à l'autosuffisance alimentaire. La description mentionne un \"panier-bio\", ce qui renforce l'idée d'une production locale et biologique, des aspects clés de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "6i_dmtNRMUc",
@@ -11421,7 +11421,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne \"Kerterre\", et la description indique qu'il s'agit d'un documentaire sur les Kerterre. Les Kerterre sont des habitations écologiques alternatives, ce qui est lié à l'autosuffisance et à l'autonomie matérielle.",
     "score": 7,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "4gikpwZsV18",
@@ -11544,7 +11544,7 @@
     "decision": "oui",
     "justification": "La vidéo traite de la régulation naturelle des bioagresseurs par la faune auxiliaire, ce qui contribue à l'autosuffisance en réduisant la dépendance aux intrants chimiques en agriculture. Les projets présentés (ALTO, ROSA BIP, CABioSol) semblent viser à améliorer les pratiques agricoles pour une meilleure autonomie.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "7-l-_Av3I6I",
@@ -11613,7 +11613,7 @@
     "decision": "oui",
     "justification": "Le titre et la description mentionnent l'autonomie et l'utilisation de fumier, ce qui est pertinent pour l'autosuffisance. Les tags incluent des termes clés comme \"autonomie\", \"permaculture\", \"légumes\", \"fruits\", \"culture sur buttes\", \"vivre libre\", \"ecosystème\", \"paysan\", \"naturel\", \"photovoltaïque\", \"toilette sèche\", \"pépinière\", \"serre\", et \"toit végétalisé\", qui sont tous liés à l'autosuffisance et à un mode de vie autonome.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "_oRD7G9XaNU",
@@ -11663,7 +11663,7 @@
     "decision": "oui",
     "justification": "La vidéo est un retour d'expérience sur une immersion dans un éco-hameau. Les thèmes abordés (vie en collectif, écolieu) sont liés à la recherche d'autonomie et à une vie moins dépendante du système économique traditionnel, ce qui correspond à la définition de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "_zcIFWNLn8g",
@@ -11688,7 +11688,7 @@
     "decision": "oui",
     "justification": "Le titre et la description de la vidéo mentionnent explicitement l'autosuffisance en riz en Afrique de l'Ouest. La vidéo aborde les enjeux et les perspectives de l'autosuffisance alimentaire, ce qui correspond à la thématique définie.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "rG7sFzfeL6U",
@@ -11719,7 +11719,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit un projet de vie en yourte dans un écolieu avec un collectif, ce qui correspond à une démarche d'autonomie et de vie alternative, en lien avec l'autosuffisance. Les tags comme \"permaculture\", \"potager collectif\", \"écolieux france\" renforcent cette pertinence.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "KHXpUkJOA2Y",
@@ -11744,7 +11744,7 @@
     "decision": "oui",
     "justification": "La vidéo explique comment créer une spirale aromatique en permaculture, ce qui est une technique liée à l'autosuffisance en favorisant la culture de plantes aromatiques et en attirant les insectes pollinisateurs. De plus, la description met en avant l'aspect permaculture, qui est un élément clé de l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "p1wGIG6QOXk",
@@ -11776,7 +11776,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne explicitement l'autonomie et la récupération de l'eau de pluie. La description est en lien avec l'habitat écologique et l'autonomie. Les tags confirment la thématique de l'eau de pluie, l'autonomie et la maison écologique.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "FGUyd2cX3SE",
@@ -11853,7 +11853,7 @@
     "decision": "oui",
     "justification": "Le titre et la description suggèrent un documentaire sur une famille vivant de manière autonome. Les tags incluent des termes comme 'autarcie', 'cultiver', 'ferme', 'décroissance', 'résilience', tous liés à l'autosuffisance.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "TOPIXbkj70k",
@@ -11873,7 +11873,7 @@
     "decision": "oui",
     "justification": "La vidéo concerne l'entretien d'un tracteur, un outil agricole essentiel pour l'autosuffisance alimentaire. La formation vise à gagner en autonomie dans cet entretien, ce qui est en accord avec la thématique de l'autosuffisance.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "pPeKkd3PVh4",
@@ -11906,7 +11906,7 @@
     "decision": "oui",
     "justification": "La vidéo montre l'installation d'une yourte, un type d'habitat alternatif qui peut être associé à un mode de vie plus autonome et à l'autosuffisance. Les tags comme \"écolieu\", \"écologie\", \"tinyhouse\", et \"habitat léger\" renforcent cette association.",
     "score": 7,
-    "validation": ""
+    "validation": "non"
   },
   {
     "id_video": "YER-2qYt2B0",
@@ -11974,7 +11974,7 @@
     "decision": "oui",
     "justification": "La vidéo décrit une formation immersive de 4 semaines dans un éco-lieu, axée sur la transition écologique, la vie en collectif et les enjeux de l'autosuffisance. Elle aborde des aspects tels que la permaculture, la vie autonome et la réduction de la dépendance au système économique extérieur, ce qui correspond à la définition de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "fmp538LEKOg",
@@ -11995,7 +11995,7 @@
     "decision": "oui",
     "justification": "Le titre mentionne l'autosuffisance et la description parle de récolte de citrouilles issues de graines et de semis, ce qui est directement lié à la production de nourriture pour soi-même.",
     "score": 9,
-    "validation": ""
+    "validation": "oui"
   },
   {
     "id_video": "MlPXnzvaq5M",
@@ -12014,6 +12014,6 @@
     "decision": "oui",
     "justification": "La vidéo décrit un écolieu, un lieu où des citoyens se regroupent pour vivre et travailler ensemble de manière plus durable et autonome, ce qui est directement lié à la thématique de l'autosuffisance.",
     "score": 8,
-    "validation": ""
+    "validation": "oui"
   }
 ]
