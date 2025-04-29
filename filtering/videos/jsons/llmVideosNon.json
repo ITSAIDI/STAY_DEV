@@ -54,7 +54,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo explique comment remplacer les filtres à charbon d'une hotte de cuisine. Bien que cela puisse indirectement réduire le gaspillage en entretenant un appareil existant, ce n'est pas directement lié à l'autosuffisance alimentaire, à la production de nourriture ou à la réduction de la dépendance au système économique et social extérieur.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "u7KA4jfbqLA",
@@ -83,7 +84,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo décrit un produit de filtration de l'eau. Bien que l'accès à l'eau potable soit fondamental, la vidéo ne traite pas de la production autonome de ressources, ni de techniques d'autosuffisance. Elle se concentre sur un produit commercial.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "ditQxK5i648",
@@ -101,7 +103,8 @@
     ],
     "decision": "non",
     "justification": "Le titre et la description sont trop vagues pour déterminer si la vidéo concerne l'autosuffisance. Le terrassement peut être lié à de nombreux projets différents, et sans plus d'informations, il est impossible de conclure que cela concerne l'autosuffisance.",
-    "score": 3
+    "score": 3,
+    "validation": ""
   },
   {
     "id_video": "UVRDdw79eyo",
@@ -129,7 +132,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble traiter d'une innovation dans le domaine des thérapies cellulaires, ce qui n'est pas directement lié à l'autosuffisance alimentaire ou à l'autonomie matérielle. Les tags indiquent que c'est une émission d'une chaîne de télévision locale.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "UVRDdw79eyo",
@@ -157,7 +161,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble traiter d'une innovation dans le domaine des thérapies cellulaires, ce qui n'est pas directement lié à l'autosuffisance alimentaire ou à l'autonomie matérielle. Les tags indiquent que c'est une émission d'une chaîne de télévision locale.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "kIuYrcF8fJ4",
@@ -202,7 +207,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo décrit une expérience d'isolement et de silence complet à des fins de développement personnel et d'introspection. Bien qu'elle puisse impliquer une certaine forme d'autonomie personnelle, elle ne se concentre pas sur la production de nourriture, la vie durable ou la réduction de la dépendance au système économique, qui sont des aspects clés de l'autosuffisance. Les tags confirment l'orientation développement personnel et expérience sociale de la vidéo.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "2bgtNHirdpg",
@@ -226,7 +232,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo décrit une situation où des nageurs sont effrayés par un requin. Ce contenu n'a aucun lien avec l'autosuffisance.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "DdzpreePx6Q",
@@ -244,7 +251,8 @@
     ],
     "decision": "non",
     "justification": "Le titre seul est trop vague pour déterminer si la vidéo concerne l'autosuffisance. L'absence de description et de tags ne permet pas d'évaluer le contenu de la vidéo.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "N2wCKkah44o",
@@ -262,7 +270,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo traite de l'origine des noms de lieux liés aux arbres et aux forêts. Bien que les arbres et les forêts soient des éléments naturels importants, la vidéo ne semble pas aborder directement les aspects pratiques de l'autosuffisance, comme la production de nourriture, la permaculture ou la réduction de la dépendance au système économique.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "uIib2jT2r3w",
@@ -291,7 +300,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo aborde l'autonomie de la dissuasion nucléaire française, ce qui est différent de l'autosuffisance individuelle ou communautaire en termes de besoins fondamentaux comme l'alimentation. Le sujet est plus centré sur la politique et la défense nationale.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "Mjet7DYtYK4",
@@ -309,7 +319,8 @@
     ],
     "decision": "non",
     "justification": "Bien que la vidéo parle de production et de consommation de pommes de terre, elle semble être plus axée sur une enquête et un projet de design que sur la pratique de l'autosuffisance elle-même. Il n'y a pas d'éléments indiquant une démarche d'autoconsommation ou de réduction de la dépendance au système économique.",
-    "score": 3
+    "score": 3,
+    "validation": ""
   },
   {
     "id_video": "js3S13MvH9M",
@@ -327,7 +338,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo présente l'installation d'un système d'évacuation des eaux usées dans une maison conteneur. Bien que cela puisse contribuer à l'autonomie d'une habitation, le sujet principal n'est pas directement lié à l'autosuffisance alimentaire ou à la réduction de la dépendance au système économique au sens large. Il s'agit plus d'un aspect technique de la construction ou de la rénovation d'une maison.",
-    "score": 3
+    "score": 3,
+    "validation": ""
   },
   {
     "id_video": "JRAWlxIlA7A",
@@ -345,7 +357,8 @@
     ],
     "decision": "non",
     "justification": "Le titre mentionne une centrale à Curbans et une apparition sur France 3. Sans plus d'informations dans la description ou les tags, il est impossible de déterminer si cela est lié à l'autosuffisance. Cela pourrait être une centrale électrique classique, un reportage sur la commune, etc.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "R0Romn-stJY",
@@ -363,7 +376,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble porter sur la pollution agricole et les déchets. Bien que cela puisse être lié à des préoccupations environnementales qui sous-tendent parfois l'autosuffisance, le focus principal n'est pas sur la production autonome de ressources ou la réduction de la dépendance au système économique. Il s'agit plutôt d'une dénonciation de la pollution.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "mCRELWY8-_Q",
@@ -381,7 +395,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble traiter de l'histoire de l'alcool et de son lien avec les civilisations, ce qui n'est pas directement lié à l'autosuffisance, même si cela pourrait potentiellement toucher à la production artisanale ou à des aspects culturels liés à l'alimentation.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "rh6i_5WfBuE",
@@ -424,7 +439,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo traite de l'eau structurée et de ses bienfaits pour la santé, mais elle ne semble pas directement liée à l'autosuffisance alimentaire ou à la production de nourriture. Elle se concentre davantage sur la santé et le bien-être personnel.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "MbE-Gl-YbEI",
@@ -460,7 +476,8 @@
     ],
     "decision": "non",
     "justification": "Bien que la vidéo porte sur une tribu indigène vivant en harmonie avec la nature et selon un mode de vie traditionnel, elle se concentre davantage sur l'aspect culturel et touristique de la tribu plutôt que sur des pratiques spécifiques d'autosuffisance. La description et les tags mettent l'accent sur la découverte, le voyage et le tourisme, et non sur des techniques de production alimentaire ou d'autonomie.",
-    "score": 3
+    "score": 3,
+    "validation": ""
   },
   {
     "id_video": "wL_7d-gH7ek",
@@ -479,7 +496,8 @@
     ],
     "decision": "non",
     "justification": "Le titre et l'absence de description et de tags ne suggèrent aucun lien avec l'autosuffisance. Le titre semble indiquer une histoire personnelle sans rapport avec la production alimentaire, l'autonomie ou des techniques associées.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "xguEgpLQV3k",
@@ -507,7 +525,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo parle des bananes en général, de leur culture et de leur importance économique. Bien que la culture de bananes puisse être liée à l'autosuffisance dans certaines régions, la vidéo ne se concentre pas sur l'autosuffisance en tant que telle.",
-    "score": 3
+    "score": 3,
+    "validation": ""
   },
   {
     "id_video": "eBEds_afLN0",
@@ -547,7 +566,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo traite de la réforme territoriale et de ses problèmes, un sujet politique et administratif qui n'est pas directement lié à l'autosuffisance. Les métadonnées (titre, description, tags) ne font aucune mention d'autosuffisance, d'autonomie, de permaculture, d'agriculture biologique, ou de sujets similaires.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "ZQRZviGuF4g",
@@ -565,7 +585,8 @@
     ],
     "decision": "non",
     "justification": "Le titre et l'absence de description et de tags ne permettent pas de déterminer si la vidéo concerne l'autosuffisance. Le titre suggère une anecdote sur la montagne, mais sans contexte, il est impossible de faire le lien avec l'autosuffisance.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "BOsV6spNbpQ",
@@ -583,7 +604,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble être axée sur une recette de dessert spécifique (betterave et chocolat) et ne présente pas de lien direct avec l'autosuffisance, l'autoconsommation ou des techniques de production alimentaire autonome. Les tags sont également génériques (dessert, gastronomie, cuisine française) et ne suggèrent pas un contenu lié à l'autosuffisance.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "Xd453av_52w",
@@ -611,7 +633,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble être un vlog général sur les plantes, le rempotage et les boutures. Bien que cela puisse être lié à l'autosuffisance (par exemple, cultiver sa propre nourriture), la description et les tags ne mettent pas l'accent sur cet aspect. Il s'agit davantage d'une vidéo de type \"lifestyle\" axée sur les plantes d'intérieur ou d'ornement.",
-    "score": 3
+    "score": 3,
+    "validation": ""
   },
   {
     "id_video": "WMCpW-cpL9k",
@@ -635,7 +658,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble être un cours de SVT sur la production de matière organique par les plantes, ciblant les élèves de terminale et les étudiants en BTS diététique. Bien que la production de matière organique soit liée à l'autosuffisance alimentaire, le contenu principal de la vidéo semble être axé sur l'enseignement et la révision pour des examens, plutôt que sur la pratique de l'autosuffisance elle-même. Il n'y a pas de mention de techniques d'autoconsommation, de permaculture ou d'autres aspects clés de l'autosuffisance.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "6LEvKg8qKao",
@@ -659,7 +683,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo traite du financement de l'autonomie des retraités, et non de l'autosuffisance au sens de production de ses propres ressources (alimentaires, énergétiques, etc.). Le contexte est politique et financier, et ne correspond pas à la définition de l'autosuffisance.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "J9yQZcdkIH8",
@@ -678,7 +703,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo décrit une ferme géante au Brésil. Bien qu'elle mentionne des aspects agricoles, elle ne semble pas axée sur l'autosuffisance, l'autoconsommation ou les techniques associées. L'échelle de la ferme suggère une production commerciale plutôt qu'une démarche d'autosuffisance.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "FTAqeeuJgbQ",
@@ -696,7 +722,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble porter sur le label HVE (Haute Valeur Environnementale) et une critique du bio, ce qui est lié à l'agriculture mais pas directement à l'autosuffisance. Le titre et la description indiquent un débat sur les labels agricoles plutôt qu'une démarche d'autonomie et de production personnelle.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "z6IncdlQbN4",
@@ -715,7 +742,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo décrit le processus de production de matière organique par les plantes. Bien que la production de matière organique soit essentielle à l'autosuffisance, la vidéo se concentre sur les aspects biologiques et chimiques de ce processus, plutôt que sur les aspects pratiques de la culture ou de la gestion des plantes dans un contexte d'autosuffisance.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "cvZPq2GSvcM",
@@ -733,7 +761,8 @@
     ],
     "decision": "non",
     "justification": "Le titre \"Le Cycle de l'Azote\" est trop vague pour déterminer si la vidéo traite directement d'autosuffisance. Bien que le cycle de l'azote soit un élément important pour l'agriculture et donc potentiellement lié à l'autosuffisance, l'absence de description et de tags ne permet pas de confirmer que la vidéo aborde l'autosuffisance.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "FZ2MqKpLVTA",
@@ -754,7 +783,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo décrit une boutique en ligne de fleurs et comment une entreprise horticole s'adapte à une situation difficile. Bien que liée aux plantes, elle ne traite pas de l'autosuffisance alimentaire ou de techniques associées. L'accent est mis sur le soutien aux producteurs et non sur la production personnelle.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "_YayPDbxjAE",
@@ -777,7 +807,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble être un vlog général sur la vie à la ferme en France, sans mention spécifique de l'autosuffisance, de l'autoconsommation, ou de techniques agricoles durables. Les métadonnées sont trop vagues pour affirmer un lien direct avec la thématique.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "HnmWyCLdh4I",
@@ -798,7 +829,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble traiter de la pollution et des déchets, ce qui, bien que lié à l'environnement, ne correspond pas directement à la thématique de l'autosuffisance qui se concentre sur la capacité à subvenir à ses propres besoins.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "pXjJJgCmsb8",
@@ -816,7 +848,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo explique comment créer un terrarium. Bien que cela puisse être lié à la nature et au jardinage, le contenu ne se concentre pas sur l'autosuffisance alimentaire ou la réduction de la dépendance au système économique et social. Il s'agit plutôt d'un projet de décoration intérieure.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "Rjv7GeThofI",
@@ -834,7 +867,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble être un extrait d'une émission de cuisine avec Philippe Etchebest jeune. Il n'y a aucun indice dans le titre, la description ou les tags qui suggèrent un lien avec l'autosuffisance, l'autoconsommation, la permaculture ou un mode de vie autonome.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "pWNzDB3PRFI",
@@ -867,7 +901,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo traite de l'histoire et de l'image sociale du tabac, ce qui n'est pas directement lié à l'autosuffisance alimentaire ou à la réduction de la dépendance au système économique et social.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "0ZhPQEdANGk",
@@ -892,7 +927,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo, d'après son titre, sa description et ses tags, semble être centrée sur le jeu Fortnite et ne présente aucun lien avec l'autosuffisance.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "IpSDnSFd9-Y",
@@ -919,7 +955,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble porter sur une altercation dans le RER D, ce qui n'a aucun lien avec l'autosuffisance.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "TIzI8MW_KTg",
@@ -963,7 +1000,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo décrit le métier de bibliothécaire et n'a aucun lien avec l'autosuffisance, l'autoconsommation ou des techniques liées à la production de nourriture ou à la vie autonome.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "GYSmHYJfnvQ",
@@ -991,7 +1029,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo traite de l'économie et du marché de la volaille, ce qui est lié à la production alimentaire, mais ne se concentre pas sur l'autosuffisance ou l'autoconsommation directe. Elle aborde l'aspect commercial et économique de la filière avicole, et non la production individuelle pour subvenir à ses propres besoins.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "OGQmCrSUaEE",
@@ -1041,7 +1080,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo décrit le métier d'ingénieur d'exploitation d'usines hydroélectriques chez EDF. Bien que l'hydroélectricité soit une source d'énergie renouvelable et durable, la vidéo ne traite pas directement de l'autosuffisance. Elle se concentre sur la production d'électricité à grande échelle par une entreprise, ce qui est différent de l'objectif d'autonomie et d'autoconsommation prôné par l'autosuffisance.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "wynLELIWjiY",
@@ -1061,7 +1101,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo parle d'André Gorz et de l'écosocialisme, mais ne se concentre pas directement sur l'autosuffisance ou des techniques liées à celle-ci. Elle aborde des thèmes connexes comme la décroissance, mais le lien direct avec la production de nourriture ou la réduction de la dépendance au système économique pour les besoins de base n'est pas clair.",
-    "score": 3
+    "score": 3,
+    "validation": ""
   },
   {
     "id_video": "GNkQq47JjEE",
@@ -1130,7 +1171,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo présente un best-of de machinisme agricole. Bien que l'agriculture soit liée à l'autosuffisance alimentaire, la vidéo se concentre sur les machines et les techniques agricoles à grande échelle, et non sur les pratiques d'autosuffisance à petite échelle ou les techniques de permaculture. Les métadonnées ne mentionnent pas l'autosuffisance, l'autoconsommation, le bio, le local ou le saisonnier.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "vmjxKZ4lzEk",
@@ -1155,7 +1197,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble promouvoir un système de filtration d'eau alternatif (Eau Kangen) en critiquant les cartouches filtrantes classiques. Bien que l'accès à l'eau potable soit un besoin fondamental, la vidéo ne traite pas directement de l'autosuffisance alimentaire ou de la production de ressources par soi-même. Elle s'apparente plus à une publicité pour un produit spécifique.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "3aX4tMcdGCM",
@@ -1173,7 +1216,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble être un cours sur la transformation de la matière organique par les êtres vivants du sol. Bien que cela puisse être lié à la fertilité du sol et donc indirectement à l'autosuffisance alimentaire, le titre et la description ne mentionnent pas explicitement l'autosuffisance ou des pratiques associées. Le manque d'informations claires rend difficile de l'évaluer comme directement pertinente.",
-    "score": 3
+    "score": 3,
+    "validation": ""
   },
   {
     "id_video": "8waoAttTffY",
@@ -1192,7 +1236,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo semble se concentrer sur la qualité de l'eau et potentiellement sur l'alimentation vivante, mais ne mentionne pas directement l'autosuffisance, l'autoconsommation, ou des techniques liées à l'autonomie matérielle.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "ZQ8hWTDNRoA",
@@ -1223,7 +1268,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo traite de l'autonomie des voitures électriques et démystifie des idées reçues à ce sujet. Bien que l'autonomie soit un aspect de l'indépendance en matière de transport, le sujet principal n'est pas l'autosuffisance au sens de la production de ressources ou de la réduction de la dépendance au système économique et social pour les besoins fondamentaux comme l'alimentation.",
-    "score": 1
+    "score": 1,
+    "validation": ""
   },
   {
     "id_video": "OxYz946nI3A",
@@ -1241,7 +1287,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo porte sur un amendement pour encourager la surélévation des bâtiments, ce qui est lié à la sobriété foncière et à la rénovation énergétique. Bien que cela puisse contribuer indirectement à un mode de vie plus durable, ce n'est pas directement lié à l'autosuffisance alimentaire ou à la réduction de la dépendance au système économique et social au sens de la définition fournie.",
-    "score": 3
+    "score": 3,
+    "validation": ""
   },
   {
     "id_video": "JG4XtGYcwtg",
@@ -1266,7 +1313,8 @@
     ],
     "decision": "non",
     "justification": "La vidéo présente une entreprise de mobilier éco-responsable. Bien que l'éco-responsabilité puisse être un aspect de l'autosuffisance, la vidéo ne traite pas directement de la production de nourriture, de la réduction de la dépendance au système économique ou de techniques liées à l'autosuffisance.",
-    "score": 3
+    "score": 3,
+    "validation": ""
   },
   {
     "id_video": "6H1_LUx-rBc",
@@ -1284,7 +1332,8 @@
     ],
     "decision": "non",
     "justification": "Le titre et la description sont trop vagues. Bien que le miscanthus puisse être utilisé dans un contexte d'autosuffisance (paillage, litière animale, etc.), le titre seul ne permet pas de déterminer si la vidéo traite de l'autosuffisance.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   },
   {
     "id_video": "XGcZKZ-w0FA",
@@ -1333,6 +1382,7 @@
     ],
     "decision": "non",
     "justification": "La vidéo traite du concept de coopérative dans le contexte de la grande distribution et du commerce. Bien qu'elle aborde des thèmes comme l'indépendance et la mutualisation, elle ne se concentre pas sur l'autosuffisance individuelle ou la production de nourriture pour l'autoconsommation. Le sujet principal est l'organisation et le fonctionnement des coopératives commerciales.",
-    "score": 2
+    "score": 2,
+    "validation": ""
   }
 ]
