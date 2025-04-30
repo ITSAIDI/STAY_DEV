@@ -20,8 +20,7 @@
       "habitats autonomes cultures de printemps",
       "habitats autonomes culture en pot"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "t14uEe-Hjh8",
@@ -42,8 +41,7 @@
       "autosuffisance pommes de terre",
       "autonomie pommes de terre"
     ],
-    "IP": 8.1,
-    "decision": "oui"
+    "IP": 8.4
   },
   {
     "id_video": "i0IFbGzq-VQ",
@@ -60,8 +58,7 @@
       "ferme autonome poêle de masse",
       "éco-lieu poêle de masse"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "-b6dgogXo1U",
@@ -93,8 +90,7 @@
     "requete": [
       "autonomie panneau solaire thermique"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "RsnjEME3bwM",
@@ -129,8 +125,7 @@
     "requete": [
       "autonomie tomates"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "u-Txp1SkvmE",
@@ -168,8 +163,7 @@
       "ferme autonome azote",
       "vie en autarcie cultiver des légumineuses"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "13UkjLo-94A",
@@ -280,8 +274,7 @@
       "éco-lieu pratiques agricoles",
       "éco-lieu serre bioclimatique"
     ],
-    "IP": 27.7,
-    "decision": "oui"
+    "IP": 21.799999999999997
   },
   {
     "id_video": "LtYzN2Slcm0",
@@ -336,8 +329,7 @@
     "requete": [
       "éco-lieu filtre à charbon actif"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "5z4j-vMdpi8",
@@ -371,8 +363,7 @@
     "requete": [
       "vie en autarcie changement climatique"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "Gv4asggbIs0",
@@ -388,8 +379,7 @@
     "requete": [
       "éco-lieu biodiversité"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "SvaITbil4vQ",
@@ -417,8 +407,7 @@
       "autosuffisance cendre de bois",
       "autonomie cendre de bois"
     ],
-    "IP": 6.8,
-    "decision": "oui"
+    "IP": 7.2
   },
   {
     "id_video": "S5l6mCU8xL4",
@@ -438,8 +427,7 @@
     "requete": [
       "autosuffisance courgettes"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "7vC_Xuz6J9A",
@@ -472,8 +460,7 @@
       "habitats autonomes plants de légumes",
       "habitats autonomes pratiques agricoles"
     ],
-    "IP": 8.899999999999999,
-    "decision": "oui"
+    "IP": 8.6
   },
   {
     "id_video": "mbWjjECz8dY",
@@ -505,8 +492,7 @@
       "autonomie batterie plomb",
       "autosuffisance batterie"
     ],
-    "IP": 6.5,
-    "decision": "oui"
+    "IP": 7.0
   },
   {
     "id_video": "87x2vNnIexU",
@@ -523,8 +509,7 @@
       "autonomie plantes aromatiques",
       "habitats autonomes plantes aromatiques"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "5CaxbvD0kCo",
@@ -569,8 +554,7 @@
     "requete": [
       "ferme autonome fermentation"
     ],
-    "IP": 4.499999999999999,
-    "decision": "non"
+    "IP": 5.000000000000001
   },
   {
     "id_video": "79UsXG2zUeA",
@@ -599,8 +583,7 @@
       "autonomie secheresse",
       "habitats autonomes secheresse"
     ],
-    "IP": 8.1,
-    "decision": "oui"
+    "IP": 8.4
   },
   {
     "id_video": "1DpIZShOzKw",
@@ -621,8 +604,7 @@
       "autosuffisance betterave",
       "autonomie betterave"
     ],
-    "IP": 4.799999999999999,
-    "decision": "non"
+    "IP": 5.200000000000001
   },
   {
     "id_video": "u7KA4jfbqLA",
@@ -649,8 +631,7 @@
     "requete": [
       "éco-lieu filtre à charbon actif"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "ditQxK5i648",
@@ -666,8 +647,7 @@
     "requete": [
       "éco-lieu haies"
     ],
-    "IP": 2.3999999999999995,
-    "decision": "non"
+    "IP": 2.6000000000000005
   },
   {
     "id_video": "kwWJeVZqkD8",
@@ -700,8 +680,7 @@
       "autonomie panneau solaire thermique",
       "autosuffisance capteur solaire"
     ],
-    "IP": 6.5,
-    "decision": "oui"
+    "IP": 7.0
   },
   {
     "id_video": "91qIonjSU6Y",
@@ -718,8 +697,7 @@
       "autosuffisance lasagne",
       "autonomie lasagne"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "8so1zR4Iu6k",
@@ -736,8 +714,7 @@
       "ferme autonome alimentation",
       "autonomie pratiques agricoles"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "85i3qfuDK1g",
@@ -775,8 +752,7 @@
       "autonomie biologique",
       "ferme autonome biologique"
     ],
-    "IP": 9.6,
-    "decision": "oui"
+    "IP": 9.399999999999999
   },
   {
     "id_video": "q3cZfxeG4zQ",
@@ -803,8 +779,7 @@
       "éco-lieu choux Daubenton",
       "éco-lieu spirale d'aromatiques"
     ],
-    "IP": 6.5,
-    "decision": "oui"
+    "IP": 7.0
   },
   {
     "id_video": "otsoE8n7ZKA",
@@ -820,8 +795,7 @@
     "requete": [
       "éco-lieu déchets"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "LWwGVQNq69M",
@@ -871,8 +845,7 @@
       "autosuffisance fertilité",
       "ferme autonome fertilité"
     ],
-    "IP": 8.1,
-    "decision": "oui"
+    "IP": 8.4
   },
   {
     "id_video": "3TSTFBir23Q",
@@ -891,8 +864,7 @@
       "ferme autonome blé",
       "ferme autonome céréales"
     ],
-    "IP": 4.799999999999999,
-    "decision": "non"
+    "IP": 5.200000000000001
   },
   {
     "id_video": "CMSPdiWzlno",
@@ -909,8 +881,7 @@
       "éco-lieu legumes",
       "éco-lieu maraichage"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "2NKKe0POqig",
@@ -932,8 +903,7 @@
       "autosuffisance chaux chanvre",
       "autonomie chaux chanvre"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "ludExE6ixm8",
@@ -962,8 +932,7 @@
       "autonomie matières brunes",
       "ferme autonome matières brunes"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "Rgh0XTZoMKs",
@@ -979,8 +948,7 @@
     "requete": [
       "habitats autonomes salades"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "31dKCfWtJmI",
@@ -1028,8 +996,7 @@
     "requete": [
       "vie en autarcie tracteur"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "yyXMxeYlX2E",
@@ -1071,8 +1038,7 @@
     "requete": [
       "vie en autarcie eaux grises"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "kqLItKmPiBE",
@@ -1088,8 +1054,7 @@
     "requete": [
       "habitats autonomes filtration naturelle"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "UumCgaVeQbA",
@@ -1120,8 +1085,7 @@
     "requete": [
       "autonomie jardin urbain"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "IQDS8x3RoU0",
@@ -1137,8 +1101,7 @@
     "requete": [
       "autosuffisance courges"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "4osID-D-G7A",
@@ -1175,8 +1138,7 @@
     "requete": [
       "habitats autonomes maraîchage bio"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "gG3AAgDjF6M",
@@ -1213,8 +1175,7 @@
       "autonomie jardinage naturel",
       "autonomie oignon perpétuel"
     ],
-    "IP": 10.2,
-    "decision": "oui"
+    "IP": 9.8
   },
   {
     "id_video": "oDzLZLfy2iU",
@@ -1231,8 +1192,7 @@
       "autosuffisance filtre à charbon actif",
       "autonomie filtre à charbon actif"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "UVRDdw79eyo",
@@ -1258,8 +1218,7 @@
     "requete": [
       "éco-lieu maladies"
     ],
-    "IP": 1.0,
-    "decision": "non"
+    "IP": 1.0
   },
   {
     "id_video": "1zBeMbemRHg",
@@ -1279,8 +1238,7 @@
       "ferme autonome santé des sols",
       "ferme autonome vers de terre"
     ],
-    "IP": 7.1,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "kIuYrcF8fJ4",
@@ -1323,8 +1281,7 @@
     "requete": [
       "vie en autarcie nutriments"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "MbnrZ8rB1oI",
@@ -1359,8 +1316,7 @@
       "vie en autarcie déchets végétaux",
       "vie en autarcie eaux noires"
     ],
-    "IP": 9.2,
-    "decision": "oui"
+    "IP": 8.8
   },
   {
     "id_video": "D3D9gO05SPI",
@@ -1400,8 +1356,7 @@
     "requete": [
       "ferme autonome écologie"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "CkvKMzsvM_M",
@@ -1417,8 +1372,7 @@
     "requete": [
       "autonomie déchets"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "DtQyQAweYXc",
@@ -1448,8 +1402,7 @@
     "requete": [
       "autosuffisance blé"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "mwCAsQ_2e2I",
@@ -1471,8 +1424,7 @@
       "autosuffisance fertilité du sol",
       "autonomie fertilité du sol"
     ],
-    "IP": 7.699999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "ZipUXj8sF-8",
@@ -1515,8 +1467,7 @@
       "autosuffisance capteur solaire",
       "autonomie capteur solaire"
     ],
-    "IP": 8.4,
-    "decision": "oui"
+    "IP": 8.6
   },
   {
     "id_video": "9NrzE8UKQOw",
@@ -1532,8 +1483,7 @@
     "requete": [
       "autonomie assolement"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "bsOdmJanrXA",
@@ -1554,8 +1504,7 @@
     "requete": [
       "ferme autonome cendre de bois"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "NRVsgoI8kBM",
@@ -1577,8 +1526,7 @@
       "vie en autarcie agriculture biologique",
       "vie en autarcie cultures biologiques"
     ],
-    "IP": 4.799999999999999,
-    "decision": "non"
+    "IP": 5.200000000000001
   },
   {
     "id_video": "1AZsn8RNBg8",
@@ -1630,8 +1578,7 @@
     "requete": [
       "autonomie plantes aromatiques"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "I-iMhC1l778",
@@ -1685,8 +1632,7 @@
       "habitats autonomes toilettes sèches",
       "habitats autonomes coccinelle"
     ],
-    "IP": 11.399999999999999,
-    "decision": "oui"
+    "IP": 10.6
   },
   {
     "id_video": "2bgtNHirdpg",
@@ -1708,8 +1654,7 @@
     "requete": [
       "vie en autarcie eaux grises"
     ],
-    "IP": 1.0,
-    "decision": "non"
+    "IP": 1.0
   },
   {
     "id_video": "ajwVrt4q1FY",
@@ -1727,8 +1672,7 @@
       "ferme autonome vers de terre",
       "ferme autonome verger naturel"
     ],
-    "IP": 6.5,
-    "decision": "oui"
+    "IP": 7.0
   },
   {
     "id_video": "Pm634cd7JWw",
@@ -1775,8 +1719,7 @@
       "autonomie badigeon",
       "habitats autonomes badigeon"
     ],
-    "IP": 6.5,
-    "decision": "oui"
+    "IP": 7.0
   },
   {
     "id_video": "DdzpreePx6Q",
@@ -1792,8 +1735,7 @@
     "requete": [
       "autonomie antiparasite"
     ],
-    "IP": 1.0,
-    "decision": "non"
+    "IP": 1.0
   },
   {
     "id_video": "N2wCKkah44o",
@@ -1809,8 +1751,7 @@
     "requete": [
       "éco-lieu cultures sous les arbres"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "LvXEGgxLqDo",
@@ -1826,8 +1767,7 @@
     "requete": [
       "autonomie caravane"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "-fYePQpizyo",
@@ -1877,8 +1817,7 @@
       "autonomie paillage",
       "ferme autonome paillage"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "uGiBbD_0vYo",
@@ -1910,8 +1849,7 @@
     "requete": [
       "autosuffisance santé des sols"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "uM-uhMNyWlM",
@@ -1954,8 +1892,7 @@
       "habitats autonomes volaille",
       "ferme autonome volaille"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "uIib2jT2r3w",
@@ -1982,8 +1919,7 @@
     "requete": [
       "autonomie amendement"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "Mjet7DYtYK4",
@@ -1999,8 +1935,7 @@
     "requete": [
       "éco-lieu pomme de terre"
     ],
-    "IP": 2.3999999999999995,
-    "decision": "non"
+    "IP": 2.6000000000000005
   },
   {
     "id_video": "js3S13MvH9M",
@@ -2016,8 +1951,7 @@
     "requete": [
       "éco-lieu plomberie"
     ],
-    "IP": 2.3999999999999995,
-    "decision": "non"
+    "IP": 2.6000000000000005
   },
   {
     "id_video": "WWSkHvDQJts",
@@ -2055,8 +1989,7 @@
     "requete": [
       "autonomie panneau solaire thermique"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "RbGivT85zgM",
@@ -2114,8 +2047,7 @@
       "éco-lieu plantes mellifères",
       "éco-lieu haie mellifère"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "rGePc1eJyUQ",
@@ -2132,8 +2064,7 @@
       "autosuffisance chénopode Bon Henri",
       "autonomie chénopode Bon Henri"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "fpP4KN7bN5U",
@@ -2198,8 +2129,7 @@
     "requete": [
       "vie en autarcie eaux grises"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "J-A3KoR57mQ",
@@ -2238,8 +2168,7 @@
       "habitats autonomes eaux grises",
       "habitats autonomes eaux noires"
     ],
-    "IP": 6.8,
-    "decision": "oui"
+    "IP": 7.2
   },
   {
     "id_video": "rGb85beyT4A",
@@ -2275,8 +2204,7 @@
       "habitats autonomes puits artésien",
       "habitats autonomes surpresseur"
     ],
-    "IP": 9.0,
-    "decision": "oui"
+    "IP": 9.0
   },
   {
     "id_video": "JRAWlxIlA7A",
@@ -2292,8 +2220,7 @@
     "requete": [
       "éco-lieu électroculture"
     ],
-    "IP": 1.0,
-    "decision": "non"
+    "IP": 1.0
   },
   {
     "id_video": "giXiOlh0pzM",
@@ -2309,8 +2236,7 @@
     "requete": [
       "autonomie microferme"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "zx_Uymr3snA",
@@ -2330,8 +2256,7 @@
     "requete": [
       "autonomie oléagineux"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "iFMG2f2-BNs",
@@ -2366,8 +2291,7 @@
       "autosuffisance marc de café",
       "autonomie marc de café"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "4MkKbJ6gHtE",
@@ -2392,8 +2316,7 @@
     "requete": [
       "éco-lieu haie mellifère"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "R0Romn-stJY",
@@ -2409,8 +2332,7 @@
     "requete": [
       "ferme autonome déchets"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "Vt98hF6WhSo",
@@ -2426,8 +2348,7 @@
     "requete": [
       "habitats autonomes haie mellifère"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "38hYbzQFSFE",
@@ -2450,8 +2371,7 @@
     "requete": [
       "autonomie changement climatique"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "Cb0FwLbfVmo",
@@ -2467,8 +2387,7 @@
     "requete": [
       "autosuffisance viticulture"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "JJm-VmvL0bM",
@@ -2485,8 +2404,7 @@
       "éco-lieu fleurs",
       "éco-lieu poules"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "WEkPJJdRyHI",
@@ -2507,8 +2425,7 @@
       "vie en autarcie agriculture durable",
       "vie en autarcie solutions techniques"
     ],
-    "IP": 8.8,
-    "decision": "oui"
+    "IP": 9.2
   },
   {
     "id_video": "efZkKeed-3Q",
@@ -2531,8 +2448,7 @@
     "requete": [
       "habitats autonomes transition"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "W9VxTJjKbjE",
@@ -2550,8 +2466,7 @@
       "autosuffisance miscanthus",
       "autonomie miscanthus"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "9spqHJ4IXpo",
@@ -2587,8 +2502,7 @@
       "autosuffisance filtre à charbon actif",
       "autonomie filtre à charbon actif"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "Vv0_ddUOnBQ",
@@ -2631,8 +2545,7 @@
       "ferme autonome poulailler",
       "éco-lieu poulailler"
     ],
-    "IP": 9.0,
-    "decision": "oui"
+    "IP": 9.0
   },
   {
     "id_video": "tNtyh5B7uxQ",
@@ -2660,8 +2573,7 @@
       "habitats autonomes bio-agresseurs",
       "habitats autonomes bio agresseurs"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "iAujv10bsCg",
@@ -2715,8 +2627,7 @@
       "vie en autarcie micro-ferme",
       "vie en autarcie culture en pot"
     ],
-    "IP": 8.5,
-    "decision": "oui"
+    "IP": 9.0
   },
   {
     "id_video": "riJdmbNzUKo",
@@ -2732,8 +2643,7 @@
     "requete": [
       "éco-lieu badigeon"
     ],
-    "IP": 4.499999999999999,
-    "decision": "non"
+    "IP": 5.000000000000001
   },
   {
     "id_video": "_N9bc4k2ank",
@@ -2750,8 +2660,7 @@
       "habitats autonomes tiny house",
       "habitats autonomes sustainable farming"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "Zek8OBS3e3s",
@@ -2769,8 +2678,7 @@
     "requete": [
       "éco-lieu zéro résidu de pesticides"
     ],
-    "IP": 4.499999999999999,
-    "decision": "non"
+    "IP": 5.000000000000001
   },
   {
     "id_video": "_c1IZoDTKvw",
@@ -2791,8 +2699,7 @@
     "requete": [
       "ferme autonome jardin urbain"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "FJA598OLrcs",
@@ -2834,8 +2741,7 @@
       "autonomie déchets",
       "habitats autonomes déchets avicoles"
     ],
-    "IP": 7.6,
-    "decision": "oui"
+    "IP": 8.4
   },
   {
     "id_video": "25p9dvbUo8w",
@@ -2877,8 +2783,7 @@
       "autosuffisance capteur solaire",
       "autonomie capteur solaire"
     ],
-    "IP": 6.8,
-    "decision": "oui"
+    "IP": 7.2
   },
   {
     "id_video": "vz-WWdHJ9Kc",
@@ -2914,8 +2819,7 @@
       "ferme autonome vers de terre",
       "ferme autonome lombricompostage"
     ],
-    "IP": 7.1,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "yCXyTUpfyWQ",
@@ -2939,8 +2843,7 @@
     "requete": [
       "ferme autonome culture en pot"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "mCRELWY8-_Q",
@@ -2956,8 +2859,7 @@
     "requete": [
       "habitats autonomes fermentation"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "rh6i_5WfBuE",
@@ -2998,8 +2900,7 @@
     "requete": [
       "vie en autarcie eau dynamisée"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "XDRYvkFg8n4",
@@ -3058,8 +2959,7 @@
       "vie en autarcie batterie",
       "ferme autonome batterie"
     ],
-    "IP": 13.8,
-    "decision": "oui"
+    "IP": 12.2
   },
   {
     "id_video": "idz54MQdHRc",
@@ -3101,8 +3001,7 @@
     "requete": [
       "habitats autonomes bio"
     ],
-    "IP": 7.3,
-    "decision": "oui"
+    "IP": 8.2
   },
   {
     "id_video": "Zrnl3YHXc9Y",
@@ -3125,8 +3024,7 @@
     "requete": [
       "éco-lieu aquaponie"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "Q1hE1Y7wiaU",
@@ -3144,8 +3042,7 @@
       "éco-lieu cultures précoces",
       "éco-lieu cultures de printemps"
     ],
-    "IP": 5.799999999999999,
-    "decision": "oui"
+    "IP": 6.2
   },
   {
     "id_video": "0VuFEYDRBGM",
@@ -3161,8 +3058,7 @@
     "requete": [
       "éco-lieu biodiversité"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "KxxfsVhI-ag",
@@ -3190,8 +3086,7 @@
       "autonomie pomme de terre",
       "autonomie pommes de terre"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "ouvHMIo2CUE",
@@ -3216,8 +3111,7 @@
       "habitats autonomes cultures de printemps",
       "habitats autonomes plants de légumes"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "WhdldlJVgs8",
@@ -3263,8 +3157,7 @@
     "requete": [
       "vie en autarcie batterie lithium"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "JmyrzMc6UeA",
@@ -3304,8 +3197,7 @@
     "requete": [
       "autonomie pénurie alimentaire"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "7q3d5BrinCM",
@@ -3321,8 +3213,7 @@
     "requete": [
       "éco-lieu poulailler"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "MbE-Gl-YbEI",
@@ -3356,8 +3247,7 @@
       "vie en autarcie cultures",
       "vie en autarcie cultures compagnes"
     ],
-    "IP": 3.3,
-    "decision": "non"
+    "IP": 3.2
   },
   {
     "id_video": "LXoDDQ_GpiA",
@@ -3390,8 +3280,7 @@
       "autosuffisance fertilisant",
       "autosuffisance engrais"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "0b39Cl2iKmU",
@@ -3407,8 +3296,7 @@
     "requete": [
       "habitats autonomes fientes de poulet"
     ],
-    "IP": 4.499999999999999,
-    "decision": "non"
+    "IP": 5.000000000000001
   },
   {
     "id_video": "BqRiihD90nQ",
@@ -3431,8 +3319,7 @@
     "requete": [
       "éco-lieu purin de consoude"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "fsdBU5g4Fa4",
@@ -3460,8 +3347,7 @@
       "habitats autonomes lasagne",
       "habitats autonomes solutions techniques"
     ],
-    "IP": 6.1,
-    "decision": "oui"
+    "IP": 6.4
   },
   {
     "id_video": "IEn-QxlhoUg",
@@ -3492,8 +3378,7 @@
       "autonomie fertilité du sol",
       "ferme autonome paillage"
     ],
-    "IP": 7.5,
-    "decision": "oui"
+    "IP": 8.0
   },
   {
     "id_video": "wL_7d-gH7ek",
@@ -3510,8 +3395,7 @@
       "habitats autonomes marc de café",
       "ferme autonome peaux de bananes"
     ],
-    "IP": 1.2999999999999998,
-    "decision": "non"
+    "IP": 1.2
   },
   {
     "id_video": "1UVbIhf8WWg",
@@ -3528,8 +3412,7 @@
       "ferme autonome phyto-épuration",
       "ferme autonome phytoépuration"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "Rpq1xfa7nvY",
@@ -3545,8 +3428,7 @@
     "requete": [
       "éco-lieu oignon perpétuel"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "aFyCj9eE4xQ",
@@ -3570,8 +3452,7 @@
     "requete": [
       "éco-lieu compost"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "Ks5QeTU0We8",
@@ -3599,8 +3480,7 @@
       "autosuffisance badigeon",
       "autonomie badigeon"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "-6ecq5hc5ig",
@@ -3622,8 +3502,7 @@
       "autonomie serre",
       "ferme autonome serre"
     ],
-    "IP": 8.4,
-    "decision": "oui"
+    "IP": 8.6
   },
   {
     "id_video": "L5rNEeHYokg",
@@ -3663,8 +3542,7 @@
     "requete": [
       "habitats autonomes tiny house"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "xguEgpLQV3k",
@@ -3690,8 +3568,7 @@
     "requete": [
       "habitats autonomes peaux de bananes"
     ],
-    "IP": 2.3999999999999995,
-    "decision": "non"
+    "IP": 2.6000000000000005
   },
   {
     "id_video": "eBEds_afLN0",
@@ -3729,8 +3606,7 @@
     "requete": [
       "éco-lieu amendement"
     ],
-    "IP": 1.0,
-    "decision": "non"
+    "IP": 1.0
   },
   {
     "id_video": "KDQ34RdRIco",
@@ -3752,8 +3628,7 @@
     "requete": [
       "ferme autonome intercultures"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "bOR_UkFTZAI",
@@ -3780,8 +3655,7 @@
       "habitats autonomes pénurie alimentaire",
       "habitats autonomes récupérateur d’eau"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "tueIb9ojLkw",
@@ -3824,8 +3698,7 @@
     "requete": [
       "éco-lieu ferme en pierre"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "8rwFj5OL-Go",
@@ -3849,8 +3722,7 @@
     "requete": [
       "autosuffisance betterave"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "kTpNnoERF0Q",
@@ -3866,8 +3738,7 @@
     "requete": [
       "autonomie capteur solaire"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "1WQZPJEQkeg",
@@ -3897,8 +3768,7 @@
       "éco-lieu haricots",
       "éco-lieu cultiver des légumineuses"
     ],
-    "IP": 6.5,
-    "decision": "oui"
+    "IP": 7.0
   },
   {
     "id_video": "1AuYxtKsRvI",
@@ -3940,8 +3810,7 @@
     "requete": [
       "éco-lieu badigeon"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "VRd6ezifxT0",
@@ -3964,8 +3833,7 @@
     "requete": [
       "éco-lieu autofertile"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "iF3O2TSheXI",
@@ -4178,8 +4046,7 @@
       "ferme autonome agriculture durable",
       "ferme autonome ferme agricole"
     ],
-    "IP": 55.6,
-    "decision": "oui"
+    "IP": 40.39999999999999
   },
   {
     "id_video": "Hc1WCafp9FI",
@@ -4207,8 +4074,7 @@
     "requete": [
       "éco-lieu électroculture"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "ZQRZviGuF4g",
@@ -4224,8 +4090,7 @@
     "requete": [
       "vie en autarcie peaux de bananes"
     ],
-    "IP": 1.0,
-    "decision": "non"
+    "IP": 1.0
   },
   {
     "id_video": "ihi165Ha_58",
@@ -4248,8 +4113,7 @@
       "autosuffisance autoconstruction",
       "autonomie autoconstruction"
     ],
-    "IP": 9.4,
-    "decision": "oui"
+    "IP": 9.6
   },
   {
     "id_video": "8ekM4wZd9Eg",
@@ -4274,8 +4138,7 @@
       "autonomie agriculture",
       "habitats autonomes ferme agricole"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "oClJplkvSJ8",
@@ -4303,8 +4166,7 @@
       "autonomie mildiou",
       "ferme autonome mildiou"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "BOsV6spNbpQ",
@@ -4320,8 +4182,7 @@
     "requete": [
       "éco-lieu betterave"
     ],
-    "IP": 1.0,
-    "decision": "non"
+    "IP": 1.0
   },
   {
     "id_video": "ZlS1Igl2RKs",
@@ -4356,8 +4217,7 @@
     "requete": [
       "autonomie citronnier"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "hIGvqUHHzCo",
@@ -4393,8 +4253,7 @@
       "vie en autarcie lasagne",
       "vie en autarcie serre bioclimatique"
     ],
-    "IP": 9.6,
-    "decision": "oui"
+    "IP": 9.399999999999999
   },
   {
     "id_video": "f7fB1z7yZ9o",
@@ -4417,8 +4276,7 @@
     "requete": [
       "autonomie déchets organiques"
     ],
-    "IP": 4.499999999999999,
-    "decision": "non"
+    "IP": 5.000000000000001
   },
   {
     "id_video": "rr9v5EkqspE",
@@ -4466,8 +4324,7 @@
       "vie en autarcie puits canadien",
       "vie en autarcie solutions techniques"
     ],
-    "IP": 7.5,
-    "decision": "oui"
+    "IP": 8.0
   },
   {
     "id_video": "9-VnZY_0SW0",
@@ -4500,8 +4357,7 @@
     "requete": [
       "vie en autarcie culture en pot"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "FEwDHmEXtww",
@@ -4533,8 +4389,7 @@
       "autonomie cultures précoces",
       "autonomie permaculture"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "sMD-LN2qV7Y",
@@ -4565,8 +4420,7 @@
     "requete": [
       "éco-lieu verger naturel"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "3MExx8n6954",
@@ -4586,8 +4440,7 @@
       "ferme autonome composteur",
       "ferme autonome biodéchets"
     ],
-    "IP": 6.3999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "0uORzJZETX8",
@@ -4609,8 +4462,7 @@
       "ferme autonome microferme",
       "ferme autonome micro-ferme"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "6rlv5bXe4zY",
@@ -4641,8 +4493,7 @@
     "requete": [
       "autonomie variétés adaptées"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "ZQcPn8IbLfQ",
@@ -4665,8 +4516,7 @@
     "requete": [
       "éco-lieu thermosyphon"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "Xd453av_52w",
@@ -4692,8 +4542,7 @@
     "requete": [
       "éco-lieu tuteurage"
     ],
-    "IP": 2.3999999999999995,
-    "decision": "non"
+    "IP": 2.6000000000000005
   },
   {
     "id_video": "vsNmo-vsI4E",
@@ -4715,8 +4564,7 @@
       "habitats autonomes bio agresseurs",
       "habitats autonomes mildiou"
     ],
-    "IP": 6.1,
-    "decision": "oui"
+    "IP": 6.4
   },
   {
     "id_video": "5Atl_S3ZUP0",
@@ -4754,8 +4602,7 @@
     "requete": [
       "éco-lieu fermentation"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "JSc6jDwTXso",
@@ -4793,8 +4640,7 @@
     "requete": [
       "éco-lieu fertilité du sol"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "OyTOeLxKVF4",
@@ -4820,8 +4666,7 @@
       "autosuffisance déchets",
       "autosuffisance biodéchets"
     ],
-    "IP": 6.8,
-    "decision": "oui"
+    "IP": 7.2
   },
   {
     "id_video": "mmOAsQUGndA",
@@ -4842,8 +4687,7 @@
     "requete": [
       "éco-lieu badigeon"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "e6wbcqqL9EA",
@@ -4868,8 +4712,7 @@
     "requete": [
       "autosuffisance plantes aromatiques"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "UBOAy-j2JV8",
@@ -4894,8 +4737,7 @@
     "requete": [
       "éco-lieu bio-agresseurs"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "8AzggWXmAek",
@@ -4924,8 +4766,7 @@
     "requete": [
       "ferme autonome matières brunes"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "KPVBXMPIOBo",
@@ -4962,8 +4803,7 @@
     "requete": [
       "autonomie pompe"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "Ia9UAj1-n5k",
@@ -5010,8 +4850,7 @@
       "ferme autonome filtre doulton",
       "éco-lieu filtre doulton"
     ],
-    "IP": 6.8,
-    "decision": "oui"
+    "IP": 7.2
   },
   {
     "id_video": "foeqeAnMDBE",
@@ -5051,8 +4890,7 @@
     "requete": [
       "ferme autonome patates douces"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "5D6MJfx7iqE",
@@ -5095,8 +4933,7 @@
     "requete": [
       "autosuffisance purin de consoude"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "gID7gmTlvu0",
@@ -5130,8 +4967,7 @@
     "requete": [
       "ferme autonome poêle à bois bouilleur"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "WMCpW-cpL9k",
@@ -5153,8 +4989,7 @@
       "vie en autarcie matière organique",
       "éco-lieu matière organique"
     ],
-    "IP": 2.0,
-    "decision": "non"
+    "IP": 2.0
   },
   {
     "id_video": "sNhAo1GTiDg",
@@ -5184,8 +5019,7 @@
       "autonomie variétés natives",
       "autonomie variétés robustes"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "j3F-AvwvM6s",
@@ -5201,8 +5035,7 @@
     "requete": [
       "autonomie itinéraire technique"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "TIWv2O6sepM",
@@ -5228,8 +5061,7 @@
       "autosuffisance haies",
       "autonomie haies"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "jlfz5KWdP1I",
@@ -5273,8 +5105,7 @@
       "autosuffisance jardin",
       "autosuffisance ferme"
     ],
-    "IP": 7.5,
-    "decision": "oui"
+    "IP": 8.0
   },
   {
     "id_video": "YdazOz0DnVE",
@@ -5321,8 +5152,7 @@
       "autonomie plantes compagnes",
       "ferme autonome plantes compagnes"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "KkJXmS9KxhU",
@@ -5352,8 +5182,7 @@
       "autosuffisance panneau solaire thermique",
       "autonomie panneau solaire thermique"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "-cmVPa6vrHM",
@@ -5405,8 +5234,7 @@
       "autonomie autofertile",
       "autonomie verger naturel"
     ],
-    "IP": 10.5,
-    "decision": "oui"
+    "IP": 10.0
   },
   {
     "id_video": "6LEvKg8qKao",
@@ -5428,8 +5256,7 @@
     "requete": [
       "autonomie amendement"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "j01V-wqA5b4",
@@ -5488,8 +5315,7 @@
       "autonomie germination",
       "autonomie semis"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "oZ0_hW6MKew",
@@ -5505,8 +5331,7 @@
     "requete": [
       "autonomie oléagineux"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "SSEc14g01hY",
@@ -5563,8 +5388,7 @@
       "autonomie lombricompostage",
       "autonomie lombricompostage"
     ],
-    "IP": 7.5,
-    "decision": "oui"
+    "IP": 8.0
   },
   {
     "id_video": "i2TsSh3-yLU",
@@ -5594,8 +5418,7 @@
       "autosuffisance marc de café",
       "autonomie marc de café"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "YjLEdSJvqN4",
@@ -5612,8 +5435,7 @@
       "autosuffisance forage manuel",
       "autonomie forage manuel"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "J9yQZcdkIH8",
@@ -5630,8 +5452,7 @@
       "autonomie poullailler",
       "ferme autonome exploitation agricole"
     ],
-    "IP": 2.0,
-    "decision": "non"
+    "IP": 2.0
   },
   {
     "id_video": "Ln_EbH3WJec",
@@ -5647,8 +5468,7 @@
     "requete": [
       "ferme autonome purin de consoude"
     ],
-    "IP": 4.499999999999999,
-    "decision": "non"
+    "IP": 5.000000000000001
   },
   {
     "id_video": "ZZZqwKefTBw",
@@ -5675,8 +5495,7 @@
       "autosuffisance toilettes sèches",
       "autonomie toilettes sèches"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "lXZV2eKaC30",
@@ -5692,8 +5511,7 @@
     "requete": [
       "ferme autonome déchets verts"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "u1fU5FeuZ90",
@@ -5721,8 +5539,7 @@
       "vie en autarcie culture lasagnes",
       "ferme autonome culture lasagnes"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "R0C0eikT7Pg",
@@ -5751,8 +5568,7 @@
     "requete": [
       "autosuffisance électroculture"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "EaQVNpB7VI0",
@@ -5785,8 +5601,7 @@
     "requete": [
       "ferme autonome fruitier"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "d06ssNOndOk",
@@ -5807,8 +5622,7 @@
     "requete": [
       "autonomie cuisine"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "w-lU7ctnHoQ",
@@ -5836,8 +5650,7 @@
       "autonomie ail perpétuel",
       "ferme autonome ail perpétuel"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "cLk3SUZgV_g",
@@ -5862,8 +5675,7 @@
     "requete": [
       "autonomie cuisine"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "FTAqeeuJgbQ",
@@ -5879,8 +5691,7 @@
     "requete": [
       "ferme autonome zéro résidu de pesticides"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "e3D9uotfVdE",
@@ -5949,8 +5760,7 @@
       "autosuffisance biogaz maison",
       "ferme autonome biogaz maison"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "SIn3L-zkLns",
@@ -5985,8 +5795,7 @@
       "habitats autonomes plants de légumes",
       "habitats autonomes culture en pot"
     ],
-    "IP": 8.1,
-    "decision": "oui"
+    "IP": 8.4
   },
   {
     "id_video": "IxrD-a8vvR8",
@@ -6027,8 +5836,7 @@
       "habitats autonomes hache",
       "habitats autonomes batterie"
     ],
-    "IP": 14.8,
-    "decision": "oui"
+    "IP": 13.2
   },
   {
     "id_video": "lJ3_izgIUt8",
@@ -6048,8 +5856,7 @@
     "requete": [
       "éco-lieu développement durable"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "6ebcpruZXrw",
@@ -6069,8 +5876,7 @@
       "autonomie forage manuel",
       "habitats autonomes forage manuel"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "nUwpTbJZWlg",
@@ -6097,8 +5903,7 @@
     "requete": [
       "éco-lieu semence paysanne"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "nHlU7q8PJ4U",
@@ -6184,8 +5989,7 @@
       "ferme autonome batterie lithium",
       "ferme autonome batterie"
     ],
-    "IP": 5.799999999999999,
-    "decision": "oui"
+    "IP": 6.2
   },
   {
     "id_video": "91QgA7508Ek",
@@ -6218,8 +6022,7 @@
     "requete": [
       "autonomie fermentation"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "NmRVRpUulXU",
@@ -6238,8 +6041,7 @@
       "autonomie bio",
       "ferme autonome azote"
     ],
-    "IP": 6.8,
-    "decision": "oui"
+    "IP": 7.2
   },
   {
     "id_video": "HBP9x_3LgEM",
@@ -6269,8 +6071,7 @@
       "habitats autonomes bio",
       "habitats autonomes biologique"
     ],
-    "IP": 5.799999999999999,
-    "decision": "oui"
+    "IP": 6.2
   },
   {
     "id_video": "YmE5ln7JuIQ",
@@ -6305,8 +6106,7 @@
       "autonomie foin",
       "autonomie cultures biologiques"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "LGRXZaoTx0U",
@@ -6338,8 +6138,7 @@
     "requete": [
       "ferme autonome mildiou"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "C02NkO1TKhg",
@@ -6371,8 +6170,7 @@
     "requete": [
       "autosuffisance champignons"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "iBjTD3urewo",
@@ -6404,8 +6202,7 @@
     "requete": [
       "habitats autonomes changement climatique"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "z6IncdlQbN4",
@@ -6422,8 +6219,7 @@
       "vie en autarcie matière organique",
       "éco-lieu matière organique"
     ],
-    "IP": 2.0,
-    "decision": "non"
+    "IP": 2.0
   },
   {
     "id_video": "qtbcwYEtp9I",
@@ -6458,8 +6254,7 @@
       "autosuffisance blé",
       "autosuffisance céréales"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "JXGvkp6BoQ8",
@@ -6481,8 +6276,7 @@
       "autosuffisance biogaz maison",
       "autonomie biogaz maison"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "NLVL2074Og4",
@@ -6522,8 +6316,7 @@
     "requete": [
       "éco-lieu maladies"
     ],
-    "IP": 3.8,
-    "decision": "non"
+    "IP": 4.2
   },
   {
     "id_video": "J-UoISZaSZo",
@@ -6556,8 +6349,7 @@
       "autosuffisance spirale d'aromatiques",
       "autonomie spirale d'aromatiques"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "cvZPq2GSvcM",
@@ -6573,8 +6365,7 @@
     "requete": [
       "ferme autonome azote"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "tZCP7KD7jTI",
@@ -6596,8 +6387,7 @@
       "éco-lieu ail perpétuel",
       "éco-lieu oignon perpétuel"
     ],
-    "IP": 6.5,
-    "decision": "oui"
+    "IP": 7.0
   },
   {
     "id_video": "sJQBioQH_s0",
@@ -6633,8 +6423,7 @@
       "autosuffisance chénopode Bon Henri",
       "autonomie chénopode Bon Henri"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "aqigc85CfSM",
@@ -6677,8 +6466,7 @@
       "vie en autarcie mauvaises herbes",
       "vie en autarcie biologique"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "hHJKLEfxaZs",
@@ -6706,8 +6494,7 @@
     "requete": [
       "autonomie tracteur"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "7ihp8N-adlo",
@@ -6723,8 +6510,7 @@
     "requete": [
       "autosuffisance intercultures"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "JAYEIIk3yuI",
@@ -6742,8 +6528,7 @@
       "habitats autonomes légumes",
       "habitats autonomes biodiversité"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "MRB_jAMjOoU",
@@ -6782,8 +6567,7 @@
       "autonomie jardinage",
       "autonomie autofertile"
     ],
-    "IP": 9.0,
-    "decision": "oui"
+    "IP": 9.0
   },
   {
     "id_video": "FZ2MqKpLVTA",
@@ -6802,8 +6586,7 @@
     "requete": [
       "éco-lieu fleurs vivaces mellifères"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "Vz4yibOxdug",
@@ -6845,8 +6628,7 @@
       "autosuffisance cultiver des légumineuses",
       "autosuffisance cultiver des légumineuses"
     ],
-    "IP": 7.5,
-    "decision": "oui"
+    "IP": 8.0
   },
   {
     "id_video": "bSAI5srbung",
@@ -6873,8 +6655,7 @@
       "vie en autarcie batterie",
       "habitats autonomes pommes de terre"
     ],
-    "IP": 9.899999999999999,
-    "decision": "oui"
+    "IP": 9.6
   },
   {
     "id_video": "Jd2RqnCOUhE",
@@ -6926,8 +6707,7 @@
       "autonomie poules",
       "autonomie poules pondeuses"
     ],
-    "IP": 9.0,
-    "decision": "oui"
+    "IP": 9.0
   },
   {
     "id_video": "nNzCrvIHJek",
@@ -6951,8 +6731,7 @@
     "requete": [
       "éco-lieu maison en ossature bois"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "_YayPDbxjAE",
@@ -6973,8 +6752,7 @@
     "requete": [
       "ferme autonome cultures compagnes"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "_UA8aPfNDZ8",
@@ -7003,8 +6781,7 @@
     "requete": [
       "vie en autarcie culture lasagnes"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "7fH1c9OZv4M",
@@ -7029,8 +6806,7 @@
     "requete": [
       "autonomie déchets avicoles"
     ],
-    "IP": 4.499999999999999,
-    "decision": "non"
+    "IP": 5.000000000000001
   },
   {
     "id_video": "Bk5oXpL-Qws",
@@ -7064,8 +6840,7 @@
       "autosuffisance électroculture",
       "autonomie électroculture"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "HnmWyCLdh4I",
@@ -7084,8 +6859,7 @@
     "requete": [
       "ferme autonome déchets"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "otslmpbS_k4",
@@ -7109,8 +6883,7 @@
       "autonomie germination",
       "autonomie badigeon"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "0mtDkccZG2M",
@@ -7142,8 +6915,7 @@
       "autonomie potassium",
       "autonomie potassium"
     ],
-    "IP": 8.1,
-    "decision": "oui"
+    "IP": 8.4
   },
   {
     "id_video": "IJTg_1XO2k4",
@@ -7171,8 +6943,7 @@
       "vie en autarcie cultiver des légumineuses",
       "éco-lieu cultiver des légumineuses"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "yu5wQ_e1UMo",
@@ -7202,8 +6973,7 @@
       "vie en autarcie biogaz maison",
       "vie en autarcie pompe"
     ],
-    "IP": 7.8,
-    "decision": "oui"
+    "IP": 8.2
   },
   {
     "id_video": "uH6BlX3Cczg",
@@ -7250,8 +7020,7 @@
     "requete": [
       "habitats autonomes poules pondeuses"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "B3gJjLrkbZI",
@@ -7277,8 +7046,7 @@
       "habitats autonomes bio-agresseurs",
       "habitats autonomes bio agresseurs"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "cG7lJupBII0",
@@ -7298,8 +7066,7 @@
       "autosuffisance patates douces",
       "autonomie patates douces"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "pXjJJgCmsb8",
@@ -7315,8 +7082,7 @@
     "requete": [
       "ferme autonome plantes mellifères"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "FVDWn3za16s",
@@ -7332,8 +7098,7 @@
     "requete": [
       "éco-lieu fertilité du sol"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "Rjv7GeThofI",
@@ -7349,8 +7114,7 @@
     "requete": [
       "vie en autarcie lasagne"
     ],
-    "IP": 1.0,
-    "decision": "non"
+    "IP": 1.0
   },
   {
     "id_video": "pWNzDB3PRFI",
@@ -7381,8 +7145,7 @@
     "requete": [
       "éco-lieu fumage"
     ],
-    "IP": 1.0,
-    "decision": "non"
+    "IP": 1.0
   },
   {
     "id_video": "z6OIoU88m6s",
@@ -7398,8 +7161,7 @@
     "requete": [
       "autosuffisance agroforesterie"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "BbIac6mCOKI",
@@ -7431,8 +7193,7 @@
     "requete": [
       "ferme autonome faucher"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "wnum_REw8mo",
@@ -7465,8 +7226,7 @@
       "autosuffisance faucher",
       "autonomie faucher"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "5UIsAYWjtVg",
@@ -7499,8 +7259,7 @@
     "requete": [
       "autonomie germination"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "0ZhPQEdANGk",
@@ -7523,8 +7282,7 @@
       "éco-lieu peaux de bananes",
       "éco-lieu eaux noires"
     ],
-    "IP": 1.2999999999999998,
-    "decision": "non"
+    "IP": 1.2
   },
   {
     "id_video": "AYYl7SuXbS0",
@@ -7541,8 +7299,7 @@
       "autonomie foin",
       "autonomie diversification"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "rzWlSmxuEHE",
@@ -7558,8 +7315,7 @@
     "requete": [
       "éco-lieu écosystème durable"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "X-LylDhHQT8",
@@ -7580,8 +7336,7 @@
     "requete": [
       "autonomie pollinisation"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "nM6bhY-oGk8",
@@ -7603,8 +7358,7 @@
     "requete": [
       "autonomie fumage"
     ],
-    "IP": 4.499999999999999,
-    "decision": "non"
+    "IP": 5.000000000000001
   },
   {
     "id_video": "8S0jW93bUVI",
@@ -7620,8 +7374,7 @@
     "requete": [
       "autonomie fleurs vivaces mellifères"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "Fpb2m32m3JU",
@@ -7654,8 +7407,7 @@
       "habitats autonomes pic pétrolier",
       "ferme autonome pic pétrolier"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "-8rlLAFxpLU",
@@ -7686,8 +7438,7 @@
     "requete": [
       "éco-lieu intercultures"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "IpSDnSFd9-Y",
@@ -7712,8 +7463,7 @@
       "éco-lieu eaux noires",
       "éco-lieu hache"
     ],
-    "IP": 2.2,
-    "decision": "non"
+    "IP": 1.7999999999999998
   },
   {
     "id_video": "0esFlxOlZgw",
@@ -7747,8 +7497,7 @@
       "autonomie pollinisation",
       "ferme autonome pollinisation"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "1xrqJE1MDi8",
@@ -7787,8 +7536,7 @@
     "requete": [
       "ferme autonome intercultures"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "xyEC9I6luRY",
@@ -7845,8 +7593,7 @@
       "vie en autarcie paillage",
       "vie en autarcie arbre fruitier"
     ],
-    "IP": 8.4,
-    "decision": "oui"
+    "IP": 8.6
   },
   {
     "id_video": "Oeu3D3rMrOE",
@@ -7868,8 +7615,7 @@
       "éco-lieu panneau solaire",
       "éco-lieu capteur solaire"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "fMCtESAAMuc",
@@ -7887,8 +7633,7 @@
       "autonomie vers de terre",
       "autonomie vers de terre"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "SSMY1Mq-PDA",
@@ -7921,8 +7666,7 @@
     "requete": [
       "autonomie courgettes"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "VhCh_8Gs1Zk",
@@ -7944,8 +7688,7 @@
     "requete": [
       "autonomie circuits courts"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "r8UvmXQucmY",
@@ -7981,8 +7724,7 @@
     "requete": [
       "ferme autonome coopérative"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "Qwg4pXckbXI",
@@ -8009,8 +7751,7 @@
     "requete": [
       "habitats autonomes installation solaire"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "g3RQc_jCA1Q",
@@ -8055,8 +7796,7 @@
     "requete": [
       "vie en autarcie poêle de masse"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "POPtzy-5jLg",
@@ -8190,8 +7930,7 @@
       "ferme autonome solutions techniques",
       "ferme autonome ferme agricole"
     ],
-    "IP": 36.099999999999994,
-    "decision": "oui"
+    "IP": 27.399999999999995
   },
   {
     "id_video": "mde8rq8WG9w",
@@ -8221,8 +7960,7 @@
       "vie en autarcie fertilisant",
       "vie en autarcie serre bioclimatique"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "RlSUnmAr5oY",
@@ -8253,8 +7991,7 @@
     "requete": [
       "éco-lieu jardin urbain"
     ],
-    "IP": 4.499999999999999,
-    "decision": "non"
+    "IP": 5.000000000000001
   },
   {
     "id_video": "iWpvAx1485Q",
@@ -8285,8 +8022,7 @@
     "requete": [
       "ferme autonome récupérateur d’eau"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "TIzI8MW_KTg",
@@ -8328,8 +8064,7 @@
     "requete": [
       "éco-lieu phosphore"
     ],
-    "IP": 1.0,
-    "decision": "non"
+    "IP": 1.0
   },
   {
     "id_video": "_CI3Aen8ikM",
@@ -8376,8 +8111,7 @@
       "habitats autonomes greffage",
       "vie en autarcie filtre doulton"
     ],
-    "IP": 9.3,
-    "decision": "oui"
+    "IP": 9.2
   },
   {
     "id_video": "VckRdeC_oIY",
@@ -8408,8 +8142,7 @@
     "requete": [
       "autosuffisance secheresse"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "GYSmHYJfnvQ",
@@ -8435,8 +8168,7 @@
     "requete": [
       "éco-lieu volaille"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "IcrjKvz7cFk",
@@ -8452,8 +8184,7 @@
     "requete": [
       "autonomie variétés natives"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "pWLqffm983w",
@@ -8469,8 +8200,7 @@
     "requete": [
       "habitats autonomes bio-agresseurs"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "a3Senopj5-o",
@@ -8486,8 +8216,7 @@
     "requete": [
       "ferme autonome paillage"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "fpbyiRinCx8",
@@ -8515,8 +8244,7 @@
     "requete": [
       "ferme autonome germination"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "3oOXxdfr09s",
@@ -8559,8 +8287,7 @@
     "requete": [
       "éco-lieu tomates"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "DWWo1qaUMrw",
@@ -8584,8 +8311,7 @@
       "autosuffisance miscanthus",
       "autonomie miscanthus"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "OGQmCrSUaEE",
@@ -8633,8 +8359,7 @@
     "requete": [
       "éco-lieu phosphore"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "8-nYE9bZNQ8",
@@ -8672,8 +8397,7 @@
       "autonomie eau dynamisée",
       "ferme autonome eau dynamisée"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "_eQmH7eqT64",
@@ -8741,8 +8465,7 @@
       "autosuffisance sol vivant",
       "autonomie sol vivant"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "DZsmw5QkLbE",
@@ -8758,8 +8481,7 @@
     "requete": [
       "autosuffisance déchets avicoles"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "nP2GTY4dz4c",
@@ -8805,8 +8527,7 @@
     "requete": [
       "habitats autonomes mangeoire automatique"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "uDkkYZvQjZo",
@@ -8836,8 +8557,7 @@
     "requete": [
       "autonomie lombricomposteur"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "R2f75TP_Pok",
@@ -8870,8 +8590,7 @@
     "requete": [
       "éco-lieu purin de consoude"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "a69Gz41dY3A",
@@ -8901,8 +8620,7 @@
       "autonomie phytoépuration",
       "habitats autonomes phytoépuration"
     ],
-    "IP": 7.3999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "fLdrgURuxg4",
@@ -8918,8 +8636,7 @@
     "requete": [
       "ferme autonome pommes de terre"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "zjukYMHW54A",
@@ -8943,8 +8660,7 @@
     "requete": [
       "ferme autonome fromage"
     ],
-    "IP": 4.499999999999999,
-    "decision": "non"
+    "IP": 5.000000000000001
   },
   {
     "id_video": "1do3XhxMP1c",
@@ -8973,8 +8689,7 @@
       "autosuffisance greffage",
       "autonomie greffage"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "9ORdIC52Was",
@@ -9023,8 +8738,7 @@
     "requete": [
       "autonomie marc de café"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "p2RsgaVauCM",
@@ -9062,8 +8776,7 @@
     "requete": [
       "autonomie puits"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "qhIONpZn-bI",
@@ -9079,8 +8792,7 @@
     "requete": [
       "autonomie greffage"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "zMovDJ2KsKA",
@@ -9123,8 +8835,7 @@
     "requete": [
       "ferme autonome plantes aromatiques"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "7dQAupf5GrI",
@@ -9168,8 +8879,7 @@
     "requete": [
       "éco-lieu sol vivant"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "iL2lqxAT4Nc",
@@ -9219,8 +8929,7 @@
       "ferme autonome filtre doulton",
       "éco-lieu filtre doulton"
     ],
-    "IP": 6.8,
-    "decision": "oui"
+    "IP": 7.2
   },
   {
     "id_video": "lZIQ9fzrvYs",
@@ -9236,8 +8945,7 @@
     "requete": [
       "éco-lieu miscanthus"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "DjEosHD-SmI",
@@ -9254,8 +8962,7 @@
       "éco-lieu déchets verts",
       "éco-lieu déchets végétaux"
     ],
-    "IP": 4.799999999999999,
-    "decision": "non"
+    "IP": 5.200000000000001
   },
   {
     "id_video": "-vhYYWX65Oc",
@@ -9288,8 +8995,7 @@
     "requete": [
       "éco-lieu poulailler"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "SBmubDSyn3Q",
@@ -9329,8 +9035,7 @@
       "autosuffisance arbres fruitiers",
       "autosuffisance arbre fruitier"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "wwl05u5U9vo",
@@ -9364,8 +9069,7 @@
     "requete": [
       "éco-lieu biogaz maison"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "4zFI1wvZ0zg",
@@ -9415,8 +9119,7 @@
       "ferme autonome murs",
       "ferme autonome techniques de production"
     ],
-    "IP": 6.5,
-    "decision": "oui"
+    "IP": 7.0
   },
   {
     "id_video": "Kceo8Q6WbBg",
@@ -9435,8 +9138,7 @@
     "requete": [
       "ferme autonome haricots"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "ZnV4tJw82Yc",
@@ -9453,8 +9155,7 @@
       "habitats autonomes eau dynamisée",
       "habitats autonomes techniques de production"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "Vf5yu0pOMfc",
@@ -9473,8 +9174,7 @@
     "requete": [
       "habitats autonomes ail perpétuel"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "E2UNtGrOzpk",
@@ -9507,8 +9207,7 @@
       "autosuffisance culture en pot",
       "autonomie culture en pot"
     ],
-    "IP": 6.8,
-    "decision": "oui"
+    "IP": 7.2
   },
   {
     "id_video": "6T7QDoMAez4",
@@ -9524,8 +9223,7 @@
     "requete": [
       "autosuffisance antiparasite"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "7wpPWx1PE80",
@@ -9546,8 +9244,7 @@
       "autonomie maraîchage",
       "autonomie maraichage"
     ],
-    "IP": 8.1,
-    "decision": "oui"
+    "IP": 8.4
   },
   {
     "id_video": "mwpOSOWT7JM",
@@ -9598,8 +9295,7 @@
     "requete": [
       "ferme autonome fermentation"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "uNGzKmLcYgs",
@@ -9624,8 +9320,7 @@
     "requete": [
       "vie en autarcie circuits courts"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "d7jHCy0eZZo",
@@ -9673,8 +9368,7 @@
       "autosuffisance maraichage",
       "autonomie maraichage"
     ],
-    "IP": 9.6,
-    "decision": "oui"
+    "IP": 9.399999999999999
   },
   {
     "id_video": "Qx_g5i4Gzsg",
@@ -9729,8 +9423,7 @@
       "ferme autonome semis",
       "ferme autonome intercultures"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "eKudrSrjwFM",
@@ -9753,8 +9446,7 @@
       "autosuffisance tracteur",
       "autonomie tracteur"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "1Tur0zcDnvU",
@@ -9773,8 +9465,7 @@
       "autosuffisance serre",
       "autonomie serre"
     ],
-    "IP": 7.5,
-    "decision": "oui"
+    "IP": 8.0
   },
   {
     "id_video": "OitEzHbXflw",
@@ -9796,8 +9487,7 @@
     "requete": [
       "autosuffisance cultures"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "8k6SQmWOmdA",
@@ -9814,8 +9504,7 @@
       "ferme autonome tuteurage",
       "ferme autonome semis"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "oSiFjKGyHiE",
@@ -9834,8 +9523,7 @@
     "requete": [
       "habitats autonomes récolte"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "VsBfZhApKF4",
@@ -9851,8 +9539,7 @@
     "requete": [
       "autosuffisance engrais"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "wynLELIWjiY",
@@ -9870,8 +9557,7 @@
     "requete": [
       "éco-lieu cultures compagnes"
     ],
-    "IP": 2.3999999999999995,
-    "decision": "non"
+    "IP": 2.6000000000000005
   },
   {
     "id_video": "IJ5YTqI3fqY",
@@ -9913,8 +9599,7 @@
       "autosuffisance amendement",
       "autosuffisance intercultures"
     ],
-    "IP": 7.8,
-    "decision": "oui"
+    "IP": 8.2
   },
   {
     "id_video": "V4GQ5dcUHis",
@@ -9975,8 +9660,7 @@
       "autonomie tracteur",
       "ferme autonome techniques de production"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "GNkQq47JjEE",
@@ -10043,8 +9727,7 @@
     "requete": [
       "ferme autonome tracteur"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "vmjxKZ4lzEk",
@@ -10067,8 +9750,7 @@
     "requete": [
       "éco-lieu filtre à charbon actif"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "cF6LgZktn3k",
@@ -10094,8 +9776,7 @@
       "autosuffisance amendement",
       "autonomie santé des sols"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "l2ILLcBthvA",
@@ -10126,8 +9807,7 @@
     "requete": [
       "autonomie greffage"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "9uqDpBN1nyE",
@@ -10167,8 +9847,7 @@
       "ferme autonome vivace",
       "habitats autonomes oignon perpétuel"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "SoWpprMCLb8",
@@ -10184,8 +9863,7 @@
     "requete": [
       "éco-lieu arbre fruitier"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "vJLMkUWt4SI",
@@ -10223,8 +9901,7 @@
       "ferme autonome cultiver des légumineuses",
       "ferme autonome châssis à semis"
     ],
-    "IP": 7.699999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "xro4pjbE7Xs",
@@ -10273,8 +9950,7 @@
       "autosuffisance badigeon",
       "autonomie badigeon"
     ],
-    "IP": 8.0,
-    "decision": "oui"
+    "IP": 8.0
   },
   {
     "id_video": "IEfHGrEsO20",
@@ -10302,8 +9978,7 @@
       "éco-lieu murs",
       "éco-lieu haies"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "gkV3ywZiDLM",
@@ -10319,8 +9994,7 @@
     "requete": [
       "autonomie antiparasite"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "v_zazV2r3Qc",
@@ -10367,8 +10041,7 @@
       "autonomie résilience",
       "vie en autarcie résilience"
     ],
-    "IP": 7.9,
-    "decision": "oui"
+    "IP": 8.6
   },
   {
     "id_video": "m9jX7AyzUnA",
@@ -10384,8 +10057,7 @@
     "requete": [
       "autonomie méthode bonfils"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "D1RZetPPMiY",
@@ -10423,8 +10095,7 @@
     "requete": [
       "autosuffisance citronnier"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "IHim6tinbtg",
@@ -10474,8 +10145,7 @@
     "requete": [
       "vie en autarcie assolement"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "Z24_SpYdXQQ",
@@ -10495,8 +10165,7 @@
       "habitats autonomes jardin urbain",
       "habitats autonomes maraichage"
     ],
-    "IP": 7.1,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "A5NXVOS9FrE",
@@ -10515,8 +10184,7 @@
     "requete": [
       "autosuffisance pompe"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "okbopJLO9as",
@@ -10547,8 +10215,7 @@
     "requete": [
       "éco-lieu fumage"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "LuBrulwFl7U",
@@ -10584,8 +10251,7 @@
     "requete": [
       "autonomie volaille"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "xdqp_GmGmtU",
@@ -10608,8 +10274,7 @@
     "requete": [
       "éco-lieu cultures sous les arbres"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "9WfcL5sTUcU",
@@ -10625,8 +10290,7 @@
     "requete": [
       "éco-lieu fertilisation organique"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "4Ry696-wSDo",
@@ -10643,8 +10307,7 @@
       "ferme autonome pompe",
       "ferme autonome surpresseur"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "YcE0YlIMyCs",
@@ -10665,8 +10328,7 @@
       "autosuffisance pommes de terre",
       "autonomie pommes de terre"
     ],
-    "IP": 8.1,
-    "decision": "oui"
+    "IP": 8.4
   },
   {
     "id_video": "UnCO1R5JgmA",
@@ -10700,8 +10362,7 @@
     "requete": [
       "éco-lieu fientes de poulet"
     ],
-    "IP": 4.499999999999999,
-    "decision": "non"
+    "IP": 5.000000000000001
   },
   {
     "id_video": "hJd0s48excI",
@@ -10729,8 +10390,7 @@
       "autosuffisance paillage",
       "autonomie paillage"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "-PKzzkZ9gEw",
@@ -10781,8 +10441,7 @@
     "requete": [
       "ferme autonome faux"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "3aX4tMcdGCM",
@@ -10798,8 +10457,7 @@
     "requete": [
       "vie en autarcie matière organique"
     ],
-    "IP": 2.3999999999999995,
-    "decision": "non"
+    "IP": 2.6000000000000005
   },
   {
     "id_video": "cyac6LwQgcc",
@@ -10821,8 +10479,7 @@
       "éco-lieu fertilisant",
       "éco-lieu fertilisation organique"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "Ub36mYxT1UI",
@@ -10850,8 +10507,7 @@
       "ferme autonome matières brunes",
       "habitats autonomes micro-ferme"
     ],
-    "IP": 7.8,
-    "decision": "oui"
+    "IP": 8.2
   },
   {
     "id_video": "8waoAttTffY",
@@ -10868,8 +10524,7 @@
       "autosuffisance eau dynamisée",
       "autonomie eau dynamisée"
     ],
-    "IP": 2.0,
-    "decision": "non"
+    "IP": 2.0
   },
   {
     "id_video": "8whQ6PUM4-s",
@@ -10896,8 +10551,7 @@
     "requete": [
       "autonomie céréales"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "kfnZDJZkuAo",
@@ -10919,8 +10573,7 @@
     "requete": [
       "autonomie tomates"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "mfq0AScBnfU",
@@ -10966,8 +10619,7 @@
       "autonomie stockage",
       "autosuffisance batterie lithium"
     ],
-    "IP": 7.5,
-    "decision": "oui"
+    "IP": 8.0
   },
   {
     "id_video": "2dJNcXDjT54",
@@ -10994,8 +10646,7 @@
       "autosuffisance récupérateur d’eau",
       "autonomie récupérateur d’eau"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "iaeAjya38-c",
@@ -11021,8 +10672,7 @@
     "requete": [
       "autosuffisance eaux grises"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "ZMhGAenCMiI",
@@ -11066,8 +10716,7 @@
     "requete": [
       "éco-lieu mauvaises herbes"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "WZD7O0ZWuzI",
@@ -11083,8 +10732,7 @@
     "requete": [
       "autonomie assolement"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "mE--zgF016w",
@@ -11125,8 +10773,7 @@
       "autonomie tomates",
       "autonomie tomate"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "LiOxQ1eIwk4",
@@ -11186,8 +10833,7 @@
       "habitats autonomes engrais",
       "ferme autonome solutions techniques"
     ],
-    "IP": 10.8,
-    "decision": "oui"
+    "IP": 10.2
   },
   {
     "id_video": "RXmh8Y3pWYE",
@@ -11262,8 +10908,7 @@
       "ferme autonome matières brunes",
       "ferme autonome faux"
     ],
-    "IP": 9.0,
-    "decision": "oui"
+    "IP": 9.0
   },
   {
     "id_video": "wJLssuAbQcY",
@@ -11287,8 +10932,7 @@
     "requete": [
       "ferme autonome méthode bonfils"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "sz_rgLCabTk",
@@ -11304,8 +10948,7 @@
     "requete": [
       "éco-lieu puits"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "75QloXzbvHM",
@@ -11321,8 +10964,7 @@
     "requete": [
       "ferme autonome déchets verts"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "9s2TgDON3_U",
@@ -11369,8 +11011,7 @@
     "requete": [
       "autonomie fertilisation organique"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "ZZzejRAc9oE",
@@ -11386,8 +11027,7 @@
     "requete": [
       "ferme autonome graines bio"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "ZQ8hWTDNRoA",
@@ -11416,8 +11056,7 @@
       "autosuffisance faux",
       "autonomie faux"
     ],
-    "IP": 1.2999999999999998,
-    "decision": "non"
+    "IP": 1.2
   },
   {
     "id_video": "L39hhz2aqqc",
@@ -11433,8 +11072,7 @@
     "requete": [
       "ferme autonome micro-ferme"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "6i_dmtNRMUc",
@@ -11474,8 +11112,7 @@
     "requete": [
       "ferme autonome conserves"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "8Oq90zUAYFM",
@@ -11493,8 +11130,7 @@
     "requete": [
       "autosuffisance kerterre"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "4gikpwZsV18",
@@ -11519,8 +11155,7 @@
       "habitats autonomes eau dynamisée",
       "ferme autonome eau dynamisée"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "gKy8IEJmTiM",
@@ -11554,8 +11189,7 @@
     "requete": [
       "habitats autonomes mauvaises herbes"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "OxYz946nI3A",
@@ -11571,8 +11205,7 @@
     "requete": [
       "éco-lieu amendement"
     ],
-    "IP": 2.3999999999999995,
-    "decision": "non"
+    "IP": 2.6000000000000005
   },
   {
     "id_video": "B0u0Hd-NDAs",
@@ -11599,8 +11232,7 @@
       "habitats autonomes bio-agresseurs",
       "habitats autonomes bio agresseurs"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "7-l-_Av3I6I",
@@ -11666,8 +11298,7 @@
       "autosuffisance fumier",
       "autonomie fumier"
     ],
-    "IP": 6.8999999999999995,
-    "decision": "oui"
+    "IP": 7.6
   },
   {
     "id_video": "_oRD7G9XaNU",
@@ -11688,8 +11319,7 @@
       "autonomie maison terre-paille",
       "habitats autonomes autofertile"
     ],
-    "IP": 7.5,
-    "decision": "oui"
+    "IP": 8.0
   },
   {
     "id_video": "076zKKkC3bA",
@@ -11712,8 +11342,7 @@
     "requete": [
       "éco-lieu caravane"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "_zcIFWNLn8g",
@@ -11735,8 +11364,7 @@
       "autosuffisance diversification",
       "autosuffisance céréales"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "rG7sFzfeL6U",
@@ -11764,8 +11392,7 @@
     "requete": [
       "éco-lieu yourte"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "KHXpUkJOA2Y",
@@ -11787,8 +11414,7 @@
     "requete": [
       "ferme autonome spirale d'aromatiques"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "p1wGIG6QOXk",
@@ -11817,8 +11443,7 @@
       "éco-lieu cuve eau pluie",
       "habitats autonomes récupérateur d’eau"
     ],
-    "IP": 8.4,
-    "decision": "oui"
+    "IP": 8.6
   },
   {
     "id_video": "JG4XtGYcwtg",
@@ -11841,8 +11466,7 @@
     "requete": [
       "habitats autonomes matières brunes"
     ],
-    "IP": 2.3999999999999995,
-    "decision": "non"
+    "IP": 2.6000000000000005
   },
   {
     "id_video": "FGUyd2cX3SE",
@@ -11879,8 +11503,7 @@
       "autonomie biogaz maison",
       "ferme autonome biogaz maison"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "_UQUlR5hguw",
@@ -11914,8 +11537,7 @@
     "requete": [
       "vie en autarcie chaux chanvre"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "TOPIXbkj70k",
@@ -11932,8 +11554,7 @@
       "autosuffisance tracteur",
       "autonomie tracteur"
     ],
-    "IP": 5.499999999999999,
-    "decision": "oui"
+    "IP": 6.0
   },
   {
     "id_video": "pPeKkd3PVh4",
@@ -11963,8 +11584,7 @@
     "requete": [
       "éco-lieu yourte"
     ],
-    "IP": 5.199999999999999,
-    "decision": "non"
+    "IP": 5.800000000000001
   },
   {
     "id_video": "YER-2qYt2B0",
@@ -12010,8 +11630,7 @@
     "requete": [
       "autosuffisance poêle à bois bouilleur"
     ],
-    "IP": 6.6,
-    "decision": "oui"
+    "IP": 7.4
   },
   {
     "id_video": "6H1_LUx-rBc",
@@ -12027,8 +11646,7 @@
     "requete": [
       "ferme autonome miscanthus"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "peweH4f4UnA",
@@ -12044,8 +11662,7 @@
     "requete": [
       "éco-lieu transition"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "fmp538LEKOg",
@@ -12063,8 +11680,7 @@
       "autosuffisance courges",
       "autosuffisance courges"
     ],
-    "IP": 7.199999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "XGcZKZ-w0FA",
@@ -12111,8 +11727,7 @@
     "requete": [
       "autonomie coopérative"
     ],
-    "IP": 1.7,
-    "decision": "non"
+    "IP": 1.8
   },
   {
     "id_video": "MlPXnzvaq5M",
@@ -12128,8 +11743,7 @@
     "requete": [
       "éco-lieu développement durable"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "5zn-6O_8oUI",
@@ -12160,8 +11774,7 @@
       "autonomie ferme agricole",
       "autonomie pratiques agricoles"
     ],
-    "IP": 8.0,
-    "decision": "oui"
+    "IP": 8.0
   },
   {
     "id_video": "yU8iXYOPfNY",
@@ -12209,8 +11822,7 @@
     "requete": [
       "autosuffisance maraîchage"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "hgXB9yzLhdE",
@@ -12244,8 +11856,7 @@
     "requete": [
       "éco-lieu volaille"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "lCn3Zu6yXi4",
@@ -12271,8 +11882,7 @@
       "ferme autonome poules pondeuses",
       "ferme autonome déchets avicoles"
     ],
-    "IP": 7.699999999999999,
-    "decision": "oui"
+    "IP": 7.8
   },
   {
     "id_video": "sKuIlyVhQRE",
@@ -12294,8 +11904,7 @@
     "requete": [
       "éco-lieu semis"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "R0g3PwwNNJA",
@@ -12317,8 +11926,7 @@
     "requete": [
       "ferme autonome engrais"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "Uou8YTFucLg",
@@ -12363,8 +11971,7 @@
     "requete": [
       "éco-lieu tiny house"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "RjFPa3GOONo",
@@ -12387,8 +11994,7 @@
     "requete": [
       "ferme autonome diversification"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "lSoWicUMVlM",
@@ -12429,8 +12035,7 @@
       "autosuffisance poêle à bois bouilleur",
       "autonomie poêle à bois bouilleur"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   },
   {
     "id_video": "SrFPFZ14loQ",
@@ -12468,8 +12073,7 @@
       "habitats autonomes céréales",
       "habitats autonomes hache"
     ],
-    "IP": 12.5,
-    "decision": "oui"
+    "IP": 11.0
   },
   {
     "id_video": "SGslcr5UEwQ",
@@ -12492,8 +12096,7 @@
       "autonomie pomme de terre",
       "autosuffisance pommes de terre"
     ],
-    "IP": 6.5,
-    "decision": "oui"
+    "IP": 7.0
   },
   {
     "id_video": "Npz3P9yABz8",
@@ -12546,8 +12149,7 @@
       "habitats autonomes déchets avicoles",
       "habitats autonomes serre bioclimatique"
     ],
-    "IP": 9.5,
-    "decision": "oui"
+    "IP": 9.0
   },
   {
     "id_video": "zakYfUoo7fg",
@@ -12574,8 +12176,7 @@
     "requete": [
       "autosuffisance marc de café"
     ],
-    "IP": 5.8999999999999995,
-    "decision": "oui"
+    "IP": 6.6000000000000005
   },
   {
     "id_video": "pUsYsHfdgtc",
@@ -12627,7 +12228,6 @@
       "habitats autonomes tracteur",
       "ferme autonome tracteur"
     ],
-    "IP": 6.199999999999999,
-    "decision": "oui"
+    "IP": 6.800000000000001
   }
 ]
