@@ -27,6 +27,7 @@ dependencies = [
     "openai>=1.69.0",
     "openpyxl>=3.1.5",
     "pip>=25.0.1",
+    "psycopg[binary]>=3.2.9",
     "python-dotenv>=1.0.1",
     "scrapetube>=2.5.1",
     "seaborn>=0.13.2",
