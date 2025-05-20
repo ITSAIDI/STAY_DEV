@@ -1,6 +1,7 @@
 --select * from chaines ;
---select * from videos;
---SELECT * FROM videos WHERE id_chaine = 'UCVQeGg4Fdrrr8vDXa7yjOYg';
+select * from videos;
+--SELECT * FROM videos WHERE requetes IS NULL and id_chaine = 'UCTpOTnJY4eYL9JBV_Nh5R5Q';
+--SELECT * FROM videos WHERE id_chaine = 'UCEVmxjvp1oBvtHQ2jpD9frw';
 --select * from chaines where nom = 'IADEA';
 --SELECT * FROM videos WHERE id_video = 'PaBTFTR_BaA';
 --SELECT id_chaine FROM chaines WHERE pertinente = TRUE
