@@ -1,5 +1,5 @@
 --select * from chaines ;
---select * from videos;
+select * from videos;
 --SELECT * FROM videos WHERE requetes IS NULL and id_chaine = 'UCTpOTnJY4eYL9JBV_Nh5R5Q';
 --SELECT * FROM videos WHERE id_chaine = 'UCEVmxjvp1oBvtHQ2jpD9frw';
 --select * from chaines where nom = 'IADEA';
@@ -30,9 +30,14 @@ SELECT nombre_videos_total
         LIMIT 1
 */	
 
+
+/*
 SELECT c.id_chaine, c.nom, COUNT(v.id_video) AS nombre_videos
 FROM chaines c
 JOIN videos v ON c.id_chaine = v.id_chaine
 WHERE c.pertinente = TRUE
 GROUP BY c.id_chaine, c.nom
 ORDER BY nombre_videos DESC;
+
+
+*/
