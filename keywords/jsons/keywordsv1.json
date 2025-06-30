@@ -1,0 +1,49 @@
+{
+  "maladies_ravageurs": [
+    "ravageur",
+    "limace",
+    "puceron",
+    "maladie fongique",
+    "bouillie bordelaise",
+    "purin",
+    "lâcher de poules",
+    "lâcher de canards indiens",
+    "porte-greffe",
+    "espèce végétale protectrice"
+  ],
+  "eau": [
+    "puits",
+    "réseau d’eau potable",
+    "sécheresse",
+    "sol hydromorphe",
+    "paillage",
+    "évaporation",
+    "irrigation",
+    "goutte-à-goutte"
+  ],
+  "sol": [
+    "fertilité",
+    "engrais",
+    "engrais organique",
+    "fumiers",
+    "biomasse",
+    "engrais de synthèse",
+    "compost",
+    "paille",
+    "foin",
+    "broyat",
+    "brf",
+    "feuilles mortes",
+    "branchages coupés"
+  ],
+  "adventices": [
+    "végétal indésirable",
+    "mauvaise herbe",
+    "couvert végétaux",
+    "densification des cultures",
+    "désherbage"
+  ],
+  "récolte": [
+    "récolte"
+  ]
+}
