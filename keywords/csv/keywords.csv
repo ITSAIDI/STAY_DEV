@@ -1,19 +1,19 @@
-maladies,maladie
-maladies,ravageur
-maladies,limace
-maladies,puceron
-maladies,maladie fongique
-maladies,traitement
-maladies,bouillie bordelaise
-maladies,purin
-maladies,lâcher de poules
-maladies,lâcher de canards indiens
-maladies,porte-greffe
-maladies,variété résistante
-maladies,organisation spatiale des cultures
-maladies,espèce végétale protectrice
-maladies,protecteur
-maladies,protectrice
+maladies_ravageurs,maladie
+maladies_ravageurs,ravageur
+maladies_ravageurs,limace
+maladies_ravageurs,puceron
+maladies_ravageurs,maladie fongique
+maladies_ravageurs,traitement
+maladies_ravageurs,bouillie bordelaise
+maladies_ravageurs,purin
+maladies_ravageurs,lâcher de poules
+maladies_ravageurs,lâcher de canards indiens
+maladies_ravageurs,porte-greffe
+maladies_ravageurs,variété résistante
+maladies_ravageurs,organisation spatiale des cultures
+maladies_ravageurs,espèce végétale protectrice
+maladies_ravageurs,protecteur
+maladies_ravageurs,protectrice
 eau,accès à l’eau
 eau,puits
 eau,source
