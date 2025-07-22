@@ -16,7 +16,7 @@ print(len(data))
 
 # Connect to youtubstay
 
-conn = psycopg.connect(
+"""conn = psycopg.connect(
     dbname="youtubestay",
     user="postgres",
     password=os.getenv("POSTGRE_PASSWORD"),
@@ -25,7 +25,26 @@ conn = psycopg.connect(
 )
 
 
-cur = conn.cursor()
+cur = conn.cursor()"""
+
+import folium
+
+location_data = {
+        "lat": 49.5532646,
+        "lon": 2.9392577,
+        "ent": "ville"
+      }
+
+map_obj = folium.Map(location=[location_data["lat"], location_data["lon"]], zoom_start=13)
+
+folium.Marker(
+    [location_data["lat"], location_data["lon"]],
+    popup=location_data["ent"],
+    tooltip=location_data["ent"]
+).add_to(map_obj)
+
+map_obj.save("map_janze.html")
+
 
 
 
