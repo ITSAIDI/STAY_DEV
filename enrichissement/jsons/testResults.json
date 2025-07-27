@@ -23,7 +23,8 @@
       "le jardin d'émerveille",
       "graines",
       "aromatiques"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "z35x21dbhsw",
@@ -71,6 +72,14 @@
       "nez noir du valais",
       "mouton",
       "poules de race"
+    ],
+    "output": [
+      {
+        "ent": "janze",
+        "lat": 47.9556915,
+        "lon": -1.495366,
+        "country": "France"
+      }
     ]
   },
   {
@@ -113,6 +122,14 @@
       "potager",
       "voyage",
       "autour du monde"
+    ],
+    "output": [
+      {
+        "ent": "brian",
+        "lat": 45.5913283,
+        "lon": 12.8142248,
+        "country": "Italia"
+      }
     ]
   },
   {
@@ -143,6 +160,14 @@
       "reportage",
       "documentaire",
       "visite"
+    ],
+    "output": [
+      {
+        "ent": "isère",
+        "lat": 45.2897932,
+        "lon": 5.6343825,
+        "country": "France"
+      }
     ]
   },
   {
@@ -157,13 +182,15 @@
       "Eau potable",
       "Réserve alimentaire",
       "Reserve d’eau"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "J39Me6RnTwY",
     "titre": "27 juin 2024",
     "description": "",
-    "tags": null
+    "tags": null,
+    "output": []
   },
   {
     "id_video": "viSl4Gv9mqU",
@@ -192,6 +219,14 @@
       "la noire de janzé",
       "la noire de janze",
       "noire de janze"
+    ],
+    "output": [
+      {
+        "ent": "janze",
+        "lat": 47.9556915,
+        "lon": -1.495366,
+        "country": "France"
+      }
     ]
   },
   {
@@ -208,7 +243,8 @@
       "jardinage",
       "permaculture",
       "potager"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "9-pbc-zRdss",
@@ -231,6 +267,14 @@
       "cuisine",
       "cuisiner",
       "four à bois"
+    ],
+    "output": [
+      {
+        "ent": "brian",
+        "lat": 45.5913283,
+        "lon": 12.8142248,
+        "country": "Italia"
+      }
     ]
   },
   {
@@ -249,7 +293,8 @@
       "solisart",
       "autonomie en chauffage",
       "explication chauffage solaire"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "-5ahOCpQi-k",
@@ -280,6 +325,14 @@
       "solutions",
       "développement durable",
       "developpement durable"
+    ],
+    "output": [
+      {
+        "ent": "bretagne",
+        "lat": 48.2640845,
+        "lon": -2.9202408,
+        "country": "France"
+      }
     ]
   },
   {
@@ -292,7 +345,8 @@
       "permaculture",
       "bac de culture",
       "bac potager"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "pCf8PjSn6xs",
@@ -328,7 +382,8 @@
       "survivalisme eau chaude",
       "eau chaude autonome",
       "DIY"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "YER-2qYt2B0",
@@ -364,7 +419,8 @@
       "survivalisme eau chaude",
       "eau chaude autonome",
       "DIY"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "lSoWicUMVlM",
@@ -394,6 +450,20 @@
       "#comment cuisiner du pain",
       "#comment faire son pain en cocotte",
       "#faire son pain en baguette"
+    ],
+    "output": [
+      {
+        "ent": "bretagne",
+        "lat": 48.2640845,
+        "lon": -2.9202408,
+        "country": "France"
+      },
+      {
+        "ent": "pontivy",
+        "lat": 48.0647729,
+        "lon": -2.9675702,
+        "country": "France"
+      }
     ]
   },
   {
@@ -426,7 +496,8 @@
       "rural",
       "archipelle",
       "sobriété"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "PLvZu5O7_ic",
@@ -440,7 +511,8 @@
       "merles",
       "tomates abimées",
       "tomates attaquées"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "emZFgLaILUE",
@@ -450,7 +522,8 @@
       "potager",
       "jardinage",
       "permaculture"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "yu5wQ_e1UMo",
@@ -466,7 +539,8 @@
       "chauffage",
       "bois",
       "économies"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "okaEc1qSmXo",
@@ -477,7 +551,8 @@
       "jardinage",
       "permaculture",
       "ratatouille"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "VmaB1cxsLxA",
@@ -507,6 +582,20 @@
       "changement de vie",
       "developpement durable",
       "développement durable"
+    ],
+    "output": [
+      {
+        "ent": "normandie",
+        "lat": 49.0677708,
+        "lon": 0.3138532,
+        "country": "France"
+      },
+      {
+        "ent": "pays de bray",
+        "lat": 49.5924506,
+        "lon": 1.5876907,
+        "country": "France"
+      }
     ]
   },
   {
@@ -532,19 +621,22 @@
       "twiza",
       "autoconstruction",
       "autoconstructeur"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "IG35vKlx0U0",
     "titre": "Comment remplir le torchis naturel banché sous toiture ? #shorts",
     "description": "Comment remplir le torchis sous toiture en haut de banche pour une isolation par l'extérieur ?",
-    "tags": null
+    "tags": null,
+    "output": []
   },
   {
     "id_video": "u--kfLTJrAg",
     "titre": "Vlog 12 : barre de rire avec petit cœur d'amour, les hommes et leurs idées mal placées",
     "description": "Bienvenue à tous 🙏 pour nous rejoindre et suivre mes aventures , ABONNEZ VOUS à ma chaîne, n’hésitez pas à liker 👍 et à laisser un petit commentaire cela me fait énormément plaisir ! 😘\n\n\n💖💖💖💖💖💖💖💖💖💖💖💖💖\n\nPour me soutenir \n\n➡️ tipeee : https://fr.tipeee.com/venus-hors-reseau\n➡️paypal :  https://www.paypal.me/lafilleAlaYourte\n\n\n✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️\n\n➡️ Contact: venushorsreseau@gmail.com",
-    "tags": null
+    "tags": null,
+    "output": []
   },
   {
     "id_video": "EyExd5h_j3M",
@@ -584,6 +676,20 @@
       "lacs",
       "bassins",
       "ruisseaux"
+    ],
+    "output": [
+      {
+        "ent": "echologia",
+        "lat": 48.1097352,
+        "lon": -0.7228263,
+        "country": "France"
+      },
+      {
+        "ent": "mayenne",
+        "lat": 48.1507819,
+        "lon": -0.6491274,
+        "country": "France"
+      }
     ]
   },
   {
@@ -593,7 +699,8 @@
     "tags": [
       "potager",
       "mildiou"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "fxKOE2QpyS8",
@@ -603,7 +710,8 @@
       "potager",
       "patate",
       "canicule"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "wv31yRHwEd0",
@@ -617,7 +725,8 @@
       "agroecologie",
       "agriculture naturelle",
       "potager"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "XYZwomaR3ns",
@@ -634,13 +743,15 @@
       "elevage de truite en bassin",
       "elevage de truite chez soi",
       "aquaponie truite et écrevisse"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "IHac3igarJY",
     "titre": "Fatigue constante",
     "description": "",
-    "tags": null
+    "tags": null,
+    "output": []
   },
   {
     "id_video": "LifnAsRRY4E",
@@ -680,6 +791,11 @@
       "je vis hors réseaux",
       "vivre hors réseaux",
       "filtrer l'eau de pluie"
+    ],
+    "output": [
+      {
+        "ent": "larchipelle"
+      }
     ]
   },
   {
@@ -693,7 +809,8 @@
       "poisson fumé",
       "fumoir",
       "fumage à froid"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "_3X3muyDFKY",
@@ -723,13 +840,22 @@
       "recette de saumon fumé",
       "fêtes de noel",
       "fêtes de fin d'année"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "W79c-I7vqFI",
     "titre": "Truite fumée artisanale : secrets et méthode pour un fumage réussi",
     "description": "🐟  Fumage de la truite : du poisson frais au filet fumé artisanal\n\nLe fumage du poisson, cela vous tente ? Dans cette vidéo, je vous emmène exceptionnellement hors de Chez Hélène & René, mais pas bien loin ! Car pour nous, l'autonomie ne signifie pas l’autarcie : elle repose aussi sur le savoir-faire des artisans locaux et les circuits courts.\n\nAujourd’hui, nous avons la chance de suivre Guillaume, pisciculteur et transformateur, qui élève ses truites en aquaponie – comme nous ! Son système lui permet également de cultiver des légumes, dans une approche durable et équilibrée. Il nous ouvre les portes de son laboratoire et nous explique toutes les étapes essentielles : de la pêche au fumage, en passant par le filetage, le salage et la mise sous vide.\n\n🎥 Chapitres :\n0:00 Truite fumée locale \n1:32 Filetage \n12:12 Salage \n16:03 Rinçage\n21:43 Fumage à froid \n27:11 Mise sous vide \n32:32 Législation \n\n📌 Ressources utiles :\n▶ Site de Guillaume Ferme Aquaponique de l'Abbaye : https://aquaponienormandie.com/\n▶ Guide des bonnes pratiques \"POISSONS FUMES SALES MARINES\" (PDF du Ministère de 'Agriculture) : https://agriculture.gouv.fr/guides-de-bonnes-pratiques-dhygiene-gbph\n\n🔗 📌 À voir aussi :\n▶ Aquaponie et élevage de truites : https://www.youtube.com/watch?v=zxF3hJVWFE4&list=PLvlL1xOf8osUS0G9IzTjHcIGml0l7ZexN\n▶ Techniques de conservation artisanales : https://www.youtube.com/watch?v=9hB6L2_2hnw&list=PLvlL1xOf8osUKG6WjNJmG9qfk5K_LxQFS\n\n🎯 Abonnez-vous pour plus de conseils sur l’autonomie alimentaire et la résilience !\n📌 @ChezHélèneEtRené",
-    "tags": null
+    "tags": null,
+    "output": [
+      {
+        "ent": "normandie",
+        "lat": 49.0677708,
+        "lon": 0.3138532,
+        "country": "France"
+      }
+    ]
   },
   {
     "id_video": "M92CPBXG0U0",
@@ -748,7 +874,8 @@
       "légumes",
       "culture",
       "agroforesterie"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "3KxD8q2oWVc",
@@ -781,6 +908,20 @@
       "developpement durable",
       "développement",
       "durable"
+    ],
+    "output": [
+      {
+        "ent": "normandie",
+        "lat": 49.0677708,
+        "lon": 0.3138532,
+        "country": "France"
+      },
+      {
+        "ent": "bec hellouin",
+        "lat": 49.2312413,
+        "lon": 0.7210184,
+        "country": "France"
+      }
     ]
   },
   {
@@ -812,7 +953,8 @@
       "fruits",
       "arbres fruitiers",
       "plantation d'arbres fruitiers"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "NHLziogcmNA",
@@ -851,7 +993,8 @@
       "verger",
       "greffe pommier",
       "comment greffer un pommier"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "B9oMHIbBJaQ",
@@ -890,6 +1033,14 @@
       "collapsologie",
       "reportage",
       "documentaire"
+    ],
+    "output": [
+      {
+        "ent": "tarbes",
+        "lat": 43.232858,
+        "lon": 0.0781021,
+        "country": "France"
+      }
     ]
   },
   {
@@ -919,7 +1070,8 @@
       "jardin vivrier",
       "jardin forêt comestible",
       "forêt comestible"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "nTi-xbAEjOw",
@@ -946,7 +1098,8 @@
       "pralinage des racines",
       "pommiers à cidre",
       "La clé des champs"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "-v1RyFcWmp8",
@@ -984,7 +1137,8 @@
       "pepiniere",
       "pépinière",
       "survivalisme"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "7bb-3Y96Ixw",
@@ -1022,13 +1176,34 @@
       "semer",
       "plantation",
       "repiquage"
+    ],
+    "output": [
+      {
+        "ent": "cher",
+        "lat": 47.0248824,
+        "lon": 2.5753334,
+        "country": "France"
+      },
+      {
+        "ent": "creuse",
+        "lat": 46.0593485,
+        "lon": 2.048901,
+        "country": "France"
+      },
+      {
+        "ent": "limousin",
+        "lat": 45.6879095,
+        "lon": 1.6347606,
+        "country": "France"
+      }
     ]
   },
   {
     "id_video": "M4HPS5x-5Pk",
     "titre": "tour du potager fin aout un merci a mes abonnées infirmières de sens",
     "description": "",
-    "tags": null
+    "tags": null,
+    "output": []
   },
   {
     "id_video": "krNa-Re4Hlw",
@@ -1044,7 +1219,8 @@
       "maison autonome",
       "survivalisme",
       "La clé des champs"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "YakXcfaE9YA",
@@ -1060,7 +1236,8 @@
       "fruitier",
       "fruitiers",
       "La clé des champs"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "VbhHpgDrPD0",
@@ -1088,7 +1265,8 @@
       "alternance",
       "alternance des arbres fruitiers",
       "éclaircissage"
-    ]
+    ],
+    "output": []
   },
   {
     "id_video": "SBmubDSyn3Q",
@@ -1117,6 +1295,7 @@
       "panneau solaire",
       "energie",
       "renouvelable"
-    ]
+    ],
+    "output": []
   }
 ]
