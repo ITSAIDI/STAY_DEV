@@ -24,14 +24,7 @@
       "graines",
       "aromatiques"
     ],
-    "output": [
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "z35x21dbhsw",
@@ -82,7 +75,7 @@
     ],
     "output": [
       {
-        "ent": "janzé",
+        "ent": "janze",
         "lat": 47.9556915,
         "lon": -1.495366,
         "country": "France"
@@ -132,10 +125,10 @@
     ],
     "output": [
       {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
+        "ent": "brian",
+        "lat": 45.5913283,
+        "lon": 12.8142248,
+        "country": "Italia"
       }
     ]
   },
@@ -190,28 +183,14 @@
       "Réserve alimentaire",
       "Reserve d’eau"
     ],
-    "output": [
-      {
-        "ent": "maison",
-        "lat": 45.7794439,
-        "lon": -71.9650393,
-        "country": "Canada"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "J39Me6RnTwY",
     "titre": "27 juin 2024",
     "description": "",
     "tags": null,
-    "output": [
-      {
-        "ent": "paris",
-        "lat": 48.8534951,
-        "lon": 2.3483915,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "viSl4Gv9mqU",
@@ -243,7 +222,7 @@
     ],
     "output": [
       {
-        "ent": "janzé",
+        "ent": "janze",
         "lat": 47.9556915,
         "lon": -1.495366,
         "country": "France"
@@ -265,14 +244,7 @@
       "permaculture",
       "potager"
     ],
-    "output": [
-      {
-        "ent": "centre ville",
-        "lat": 48.9089508,
-        "lon": 2.290992,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "9-pbc-zRdss",
@@ -298,10 +270,10 @@
     ],
     "output": [
       {
-        "ent": "nordica",
-        "lat": 36.4929672,
-        "lon": -4.9604901,
-        "country": "España"
+        "ent": "brian",
+        "lat": 45.5913283,
+        "lon": 12.8142248,
+        "country": "Italia"
       }
     ]
   },
@@ -322,14 +294,7 @@
       "autonomie en chauffage",
       "explication chauffage solaire"
     ],
-    "output": [
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "-5ahOCpQi-k",
@@ -381,14 +346,7 @@
       "bac de culture",
       "bac potager"
     ],
-    "output": [
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "pCf8PjSn6xs",
@@ -425,14 +383,7 @@
       "eau chaude autonome",
       "DIY"
     ],
-    "output": [
-      {
-        "ent": "la cabane",
-        "lat": 48.2372912,
-        "lon": 7.1211325,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "YER-2qYt2B0",
@@ -469,11 +420,7 @@
       "eau chaude autonome",
       "DIY"
     ],
-    "output": [
-      {
-        "ent": "lakaban"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "lSoWicUMVlM",
@@ -504,7 +451,20 @@
       "#comment faire son pain en cocotte",
       "#faire son pain en baguette"
     ],
-    "output": []
+    "output": [
+      {
+        "ent": "bretagne",
+        "lat": 48.2640845,
+        "lon": -2.9202408,
+        "country": "France"
+      },
+      {
+        "ent": "pontivy",
+        "lat": 48.0647729,
+        "lon": -2.9675702,
+        "country": "France"
+      }
+    ]
   },
   {
     "id_video": "G4_vmWaSU3Q",
@@ -537,14 +497,7 @@
       "archipelle",
       "sobriété"
     ],
-    "output": [
-      {
-        "ent": "archipelle",
-        "lat": 45.934352,
-        "lon": 0.0683791,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "PLvZu5O7_ic",
@@ -559,14 +512,7 @@
       "tomates abimées",
       "tomates attaquées"
     ],
-    "output": [
-      {
-        "ent": "merles",
-        "lat": 44.0582041,
-        "lon": 0.9690151,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "emZFgLaILUE",
@@ -577,14 +523,7 @@
       "jardinage",
       "permaculture"
     ],
-    "output": [
-      {
-        "ent": "potager",
-        "lat": 43.5605822,
-        "lon": 1.4778903,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "yu5wQ_e1UMo",
@@ -601,20 +540,7 @@
       "bois",
       "économies"
     ],
-    "output": [
-      {
-        "ent": "paris",
-        "lat": 48.8534951,
-        "lon": 2.3483915,
-        "country": "France"
-      },
-      {
-        "ent": "bordeaux",
-        "lat": 44.841225,
-        "lon": -0.5800364,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "okaEc1qSmXo",
@@ -626,20 +552,7 @@
       "permaculture",
       "ratatouille"
     ],
-    "output": [
-      {
-        "ent": "jardin",
-        "lat": 45.4963988,
-        "lon": 4.9078121,
-        "country": "France"
-      },
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "VmaB1cxsLxA",
@@ -670,7 +583,20 @@
       "developpement durable",
       "développement durable"
     ],
-    "output": []
+    "output": [
+      {
+        "ent": "normandie",
+        "lat": 49.0677708,
+        "lon": 0.3138532,
+        "country": "France"
+      },
+      {
+        "ent": "pays de bray",
+        "lat": 49.5924506,
+        "lon": 1.5876907,
+        "country": "France"
+      }
+    ]
   },
   {
     "id_video": "-PYlxVfbEGA",
@@ -696,48 +622,21 @@
       "autoconstruction",
       "autoconstructeur"
     ],
-    "output": [
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "IG35vKlx0U0",
     "titre": "Comment remplir le torchis naturel banché sous toiture ? #shorts",
     "description": "Comment remplir le torchis sous toiture en haut de banche pour une isolation par l'extérieur ?",
     "tags": null,
-    "output": [
-      {
-        "ent": "banche",
-        "lat": 45.3094319,
-        "lon": 7.463102,
-        "country": "Italia"
-      },
-      {
-        "ent": "toiture",
-        "lat": 12.6105554,
-        "lon": -7.9729272,
-        "country": "Mali"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "u--kfLTJrAg",
     "titre": "Vlog 12 : barre de rire avec petit cœur d'amour, les hommes et leurs idées mal placées",
     "description": "Bienvenue à tous 🙏 pour nous rejoindre et suivre mes aventures , ABONNEZ VOUS à ma chaîne, n’hésitez pas à liker 👍 et à laisser un petit commentaire cela me fait énormément plaisir ! 😘\n\n\n💖💖💖💖💖💖💖💖💖💖💖💖💖\n\nPour me soutenir \n\n➡️ tipeee : https://fr.tipeee.com/venus-hors-reseau\n➡️paypal :  https://www.paypal.me/lafilleAlaYourte\n\n\n✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️\n\n➡️ Contact: venushorsreseau@gmail.com",
     "tags": null,
-    "output": [
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "EyExd5h_j3M",
@@ -780,12 +679,15 @@
     ],
     "output": [
       {
-        "ent": "aquaponia"
-      },
-      {
         "ent": "echologia",
         "lat": 48.1097352,
         "lon": -0.7228263,
+        "country": "France"
+      },
+      {
+        "ent": "mayenne",
+        "lat": 48.1507819,
+        "lon": -0.6491274,
         "country": "France"
       }
     ]
@@ -798,14 +700,7 @@
       "potager",
       "mildiou"
     ],
-    "output": [
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "fxKOE2QpyS8",
@@ -816,14 +711,7 @@
       "patate",
       "canicule"
     ],
-    "output": [
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "wv31yRHwEd0",
@@ -838,20 +726,7 @@
       "agriculture naturelle",
       "potager"
     ],
-    "output": [
-      {
-        "ent": "tour",
-        "lat": 48.462573,
-        "lon": 1.7778493,
-        "country": "France"
-      },
-      {
-        "ent": "potager",
-        "lat": 43.5605822,
-        "lon": 1.4778903,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "XYZwomaR3ns",
@@ -869,28 +744,14 @@
       "elevage de truite chez soi",
       "aquaponie truite et écrevisse"
     ],
-    "output": [
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "IHac3igarJY",
     "titre": "Fatigue constante",
     "description": "",
     "tags": null,
-    "output": [
-      {
-        "ent": "paris",
-        "lat": 48.8534951,
-        "lon": 2.3483915,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "LifnAsRRY4E",
@@ -933,10 +794,7 @@
     ],
     "output": [
       {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
+        "ent": "larchipelle"
       }
     ]
   },
@@ -952,14 +810,7 @@
       "fumoir",
       "fumage à froid"
     ],
-    "output": [
-      {
-        "ent": "amazon",
-        "lat": -0.6207328,
-        "lon": -51.5756469,
-        "country": "Brasil"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "_3X3muyDFKY",
@@ -990,14 +841,7 @@
       "fêtes de noel",
       "fêtes de fin d'année"
     ],
-    "output": [
-      {
-        "ent": "la clé des champs",
-        "lat": 50.6812825,
-        "lon": 3.0390487,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "W79c-I7vqFI",
@@ -1006,10 +850,10 @@
     "tags": null,
     "output": [
       {
-        "ent": "guillaume",
-        "lat": 18.2878996,
-        "lon": -74.0732514,
-        "country": "Ayiti"
+        "ent": "normandie",
+        "lat": 49.0677708,
+        "lon": 0.3138532,
+        "country": "France"
       }
     ]
   },
@@ -1031,14 +875,7 @@
       "culture",
       "agroforesterie"
     ],
-    "output": [
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "3KxD8q2oWVc",
@@ -1078,6 +915,12 @@
         "lat": 49.0677708,
         "lon": 0.3138532,
         "country": "France"
+      },
+      {
+        "ent": "bec hellouin",
+        "lat": 49.2312413,
+        "lon": 0.7210184,
+        "country": "France"
       }
     ]
   },
@@ -1111,14 +954,7 @@
       "arbres fruitiers",
       "plantation d'arbres fruitiers"
     ],
-    "output": [
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "NHLziogcmNA",
@@ -1158,11 +994,7 @@
       "greffe pommier",
       "comment greffer un pommier"
     ],
-    "output": [
-      {
-        "ent": "sebtan"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "B9oMHIbBJaQ",
@@ -1267,14 +1099,7 @@
       "pommiers à cidre",
       "La clé des champs"
     ],
-    "output": [
-      {
-        "ent": "france",
-        "lat": 46.603354,
-        "lon": 1.8883335,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "-v1RyFcWmp8",
@@ -1313,11 +1138,7 @@
       "pépinière",
       "survivalisme"
     ],
-    "output": [
-      {
-        "ent": "sebtan"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "7bb-3Y96Ixw",
@@ -1358,9 +1179,21 @@
     ],
     "output": [
       {
+        "ent": "cher",
+        "lat": 47.0248824,
+        "lon": 2.5753334,
+        "country": "France"
+      },
+      {
         "ent": "creuse",
         "lat": 46.0593485,
         "lon": 2.048901,
+        "country": "France"
+      },
+      {
+        "ent": "limousin",
+        "lat": 45.6879095,
+        "lon": 1.6347606,
         "country": "France"
       }
     ]
@@ -1370,14 +1203,7 @@
     "titre": "tour du potager fin aout un merci a mes abonnées infirmières de sens",
     "description": "",
     "tags": null,
-    "output": [
-      {
-        "ent": "aube",
-        "lat": 48.3201921,
-        "lon": 4.1905397,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "krNa-Re4Hlw",
@@ -1394,14 +1220,7 @@
       "survivalisme",
       "La clé des champs"
     ],
-    "output": [
-      {
-        "ent": "la clé des champs",
-        "lat": 50.6812825,
-        "lon": 3.0390487,
-        "country": "France"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "YakXcfaE9YA",
@@ -1418,14 +1237,7 @@
       "fruitiers",
       "La clé des champs"
     ],
-    "output": [
-      {
-        "ent": "verger",
-        "lat": 45.121396,
-        "lon": 6.9646074,
-        "country": "Italia"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "VbhHpgDrPD0",
@@ -1454,20 +1266,7 @@
       "alternance des arbres fruitiers",
       "éclaircissage"
     ],
-    "output": [
-      {
-        "ent": "maison familiale",
-        "lat": 50.714733,
-        "lon": 2.2351388,
-        "country": "France"
-      },
-      {
-        "ent": "grand jardin",
-        "lat": 51.0370109,
-        "lon": 13.7673639,
-        "country": "Deutschland"
-      }
-    ]
+    "output": []
   },
   {
     "id_video": "SBmubDSyn3Q",
@@ -1497,13 +1296,6 @@
       "energie",
       "renouvelable"
     ],
-    "output": [
-      {
-        "ent": "grand jardin",
-        "lat": 51.0370109,
-        "lon": 13.7673639,
-        "country": "Deutschland"
-      }
-    ]
+    "output": []
   }
 ]
