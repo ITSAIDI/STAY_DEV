@@ -61,7 +61,7 @@ def updateTables():
                 entId = getEntityID(entity['ent'])
             
                 if labelExist(entity['ent'])==False:
-                    cur.execute("insert into entites_spatiales values (%s, %s, %s, %s)",(entId, entity['ent'], entity['lat'], entity['lon']))
+                    cur.execute("insert into entites_spatiales values (%s, %s, %s, %s) ON CONFLICT DO NOTHING",(entId, entity['ent'], entity['lat'], entity['lon']))
                     
                 cur.execute("insert into entites_spatiales_videos values (%s, %s) ON CONFLICT DO NOTHING",(entId, video['id_video']))
     
