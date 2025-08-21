@@ -1,6 +1,6 @@
 This repository contains the source code for the Pre-Visualisation stages of the [STAY project](https://github.com/ITSAIDI/STAYApp).
 
-## Prerequisites
+# Prerequisites
 
 * [uv](https://docs.astral.sh/uv/getting-started/) installed
 
@@ -11,7 +11,7 @@ pip install uv
 ```
 For more  installation options go to  [uv installation](https://docs.astral.sh/uv/getting-started/installation/)
 
-## Setup
+# Setup
 
 1. Clone the repository :
 
@@ -34,6 +34,10 @@ uv venv --python 3.10.16
 uv sync
 ```
 --> You can start now work with any file.
+
+# Start Collecting
+
+You need first to generate a [Youtube_API_KEY](https://developers.google.com/youtube/v3/getting-started)
 
 
 
