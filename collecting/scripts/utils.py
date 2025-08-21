@@ -25,7 +25,9 @@ init()
    
 youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY2"))
 
-#--> Videos
+######################################################## Metadata
+
+#-------------------------------------> Videos
   
 def getvideo_details(video_id):
     request = youtube.videos().list(part='snippet,contentDetails', id=video_id)
@@ -64,13 +66,15 @@ def getVideosId(listVideos):
         ids.append(videoDic['id_video'])
     return ids 
    
+# updateVideos() Update the videos json file with the new videos
+
 def updateVideos(videosMetadata):
     
     print(Style.BRIGHT + Fore.GREEN + '\n Updating...')
     
     with open("../jsons/videos.json", "r", encoding="utf-8") as file:
         videos = json.load(file)
-        ids = getVidoesId(videos)
+        ids = getVideosId(videos)
                 
     if len(videos) == 0:
         videos.extend(videosMetadata)
@@ -90,16 +94,18 @@ def updateVideos(videosMetadata):
         print(Style.BRIGHT + Fore.YELLOW + f'\n Actual Nbr videos : {len(videos)}')
         print(Style.BRIGHT + Fore.GREEN + '\n Saving videos...')
         json.dump(videos, f, ensure_ascii=False, indent=2) 
-        
+  
+# scrapeVideos() function scrapes the videos given a query as input
+      
 def scrapeVideos(query,max_results):
     print(Style.BRIGHT + Fore.GREEN + '\nScraping Videos...')
-    ############################## Scrapetube
+    ############################## Scrapetube returns the videos ids relevant to a search query
     videoIds = []
     searchResults = list(scrapetube.get_search(query,limit=max_results,sort_by='relevance',results_type='video'))
     for result in searchResults:
         videoIds.append(result['videoId'])
         
-    ############################## Youtube API
+    ############################## Youtube API to featch the video metadata given the ID as input
     videosMetadata = []
     for videoid in videoIds:
         videodata = getvideo_details(videoid)
@@ -111,7 +117,7 @@ def scrapeVideos(query,max_results):
 
     print(Style.RESET_ALL)
 
-#--> Channels
+#-------------------------------------> Channels
 
 def getchannel_details(channel_id):
     request = youtube.channels().list(
@@ -152,7 +158,9 @@ def getChannnelsId():
     for video in vidoes:
         Ids.add(video['id_chaine'])
     return Ids  
-      
+    
+# scrapeChannels() function scrapes the channels metadatas based on the collected videos.
+
 def scrapeChannels():
     channelIds = getChannnelsId()
     channels = []
@@ -166,9 +174,9 @@ def scrapeChannels():
         print(Style.BRIGHT + Fore.GREEN + '\n Saving channels...')
         json.dump(channels, f, ensure_ascii=False, indent=2) 
        
-#--> metrics
+######################################################## Metrics
 
-#---------------------------- Vidoes
+#-------------------------------------> Videos
 
 from datetime import datetime
 
@@ -216,7 +224,7 @@ def getVidoesMetrics():
         json.dump(vidoesMetrics, f, ensure_ascii=False, indent=2) 
         print(Style.BRIGHT + Fore.GREEN + '\n json saved...')
  
-#---------------------------- Channels
+#-------------------------------------> Channels
 
 def getMetricsC(channel_id):    
     request = youtube.channels().list(
