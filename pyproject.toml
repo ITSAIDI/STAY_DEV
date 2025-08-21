@@ -1,23 +1,16 @@
 [project]
 name = "stayproject"
 version = "0.1.0"
-description = "Add your description here"
+description = ""
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "beautifulsoup4>=4.13.3",
-    "cartopy>=0.24.1",
     "colorama>=0.4.6",
-    "fitz>=0.0.1.dev2",
-    "flair>=0.15.1",
     "folium>=0.20.0",
-    "frontend>=0.0.3",
     "geopy>=2.4.1",
     "gliner>=0.2.17",
-    "google-api-python-client>=2.165.0",
     "ipykernel>=6.29.5",
     "ipywidgets>=8.1.6",
-    "isodate>=0.7.2",
     "langchain-community>=0.3.21",
     "langchain-core>=0.3.52",
     "langchain-google-genai>=2.1.2",
@@ -26,7 +19,6 @@ dependencies = [
     "langchain-openai>=0.3.13",
     "langchain[openai]>=0.3.23",
     "langdetect>=1.0.9",
-    "langgraph>=0.3.30",
     "matplotlib>=3.10.1",
     "openai>=1.69.0",
     "openpyxl>=3.1.5",
@@ -34,12 +26,7 @@ dependencies = [
     "psycopg[binary]>=3.2.9",
     "python-dotenv>=1.0.1",
     "scrapetube>=2.5.1",
-    "seaborn>=0.13.2",
-    "selenium>=4.31.0",
     "sentence-transformers>=4.1.0",
-    "spacy>=3.8.5",
-    "textrazor>=1.4.1",
     "tqdm>=4.67.1",
-    "transformers>=4.51.3",
     "wordcloud>=1.9.4",
 ]
