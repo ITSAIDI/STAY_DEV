@@ -35,10 +35,11 @@ uv sync
 ```
 --> You can start now work with any file.
 
-# Start Collecting
+# Collecting
 
 1. You need first to generate a [Youtube_API_KEY](https://developers.google.com/youtube/v3/getting-started)
 2. Create a `.env` file on the root of the cloned repository and add your key there as *YOUTUBE_API_KEY* 
 3. Go to the `main.ipynb` in collecting folder and run the cells, a `queries.json` file is already there.
 
-# Start Filtrering
+# Filtrering
+
