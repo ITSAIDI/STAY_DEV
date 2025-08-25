@@ -49,5 +49,8 @@ uv sync
 ## Channels 
 Filtering process for channels is in a `main.ipynb` at *filtering/channels* folder.
 
+# DataBase Updating
+To update the Posgres Databse with new relevent videos and channels you need to :
+1. 
 
 
