@@ -45,5 +45,6 @@ uv sync
 ## Videos 
 1. We used the free version of gemini-flash for the filtering, then you need first to generate a [GEMINI_API_KEY](https://ai.google.dev/gemini-api/docs/api-key)
 2. Add the generated key as envirement variable.
-3. Go to the `main.ipynb` in *filtering/videos* folder, there are three levels of filtreing  each one generates a *json* file with result of the applied filter. The *Refinements* is necessary to prepare data for filtering.
+3. Go to the `main.ipynb` in *filtering/videos* folder, there are three levels of filtreing  each one generates a *json* file with result of the applied filters. The *Refinements step* is necessary to prepare data for filtering.
+
 
