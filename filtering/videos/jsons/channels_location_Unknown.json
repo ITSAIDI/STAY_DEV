@@ -1,0 +1,86 @@
+[
+  {
+    "id_chaine": "UCLGJuh5lzhcvn7u4sWOLo0Q",
+    "nom_chaine": "Fédération des MFR Guadeloupe",
+    "bio": "",
+    "localisation": "FR",
+    "date_creation": "2025-06-03T00:08:10.410072Z",
+    "type_monetisation": "",
+    "details_monetisation": "",
+    "localisation_details": {
+      "Guadeloupe": "FR"
+    },
+    "localisationTime(s)": 6.8748393058776855
+  },
+  {
+    "id_chaine": "UCZlpuRp8f9e5Jv8w6K36Iig",
+    "nom_chaine": "le poun",
+    "bio": "Bricolage divers",
+    "localisation": "",
+    "date_creation": "2021-07-30T19:04:04.602176Z",
+    "type_monetisation": "",
+    "details_monetisation": "",
+    "localisation_details": {},
+    "localisationTime(s)": 1.18448805809021
+  },
+  {
+    "id_chaine": "UC4PydAXS8ZB7QE6FDvi_-HQ",
+    "nom_chaine": "Parc naturel régional des Vosges du Nord",
+    "bio": "Bienvenue sur la chaîne officielle du Parc naturel régional des Vosges du Nord. Découvrez la richesse de notre territoire à travers ses paysages, sa biodiversité, son patrimoine culturel et ses savoir-faire. Suivez nos actions, nos événements et partez à la rencontre de celles et ceux qui font vivre ce parc d’exception.",
+    "localisation": "FR",
+    "date_creation": "2009-12-11T14:59:29Z",
+    "type_monetisation": "",
+    "details_monetisation": "",
+    "localisation_details": {
+      "Parc naturel régional des Vosges du Nord": "FR",
+      "Vosges du Nord": "FR"
+    },
+    "localisationTime(s)": 2.2526302337646484
+  },
+  {
+    "id_chaine": "UCFvpV_ad5nn0U9YY3vp8JCw",
+    "nom_chaine": "AMTEC Annecy",
+    "bio": "",
+    "localisation": "FR",
+    "date_creation": "2010-10-02T10:47:22Z",
+    "type_monetisation": "",
+    "details_monetisation": "",
+    "localisation_details": {
+      "Annecy": "FR"
+    },
+    "localisationTime(s)": 0.9178674221038818
+  },
+  {
+    "id_chaine": "UCiBsOcPJlW9xhI6JOQLIFIQ",
+    "nom_chaine": "MA SERRE AQUAPONIQUE",
+    "bio": "L' aquaponie en pot façon permaculture, suivi de l'évolution d'une année de culture dans ma serre aquaponique . com.\nCréez votre potager luxuriant sur moins de 5 M2",
+    "localisation": "",
+    "date_creation": "2019-04-25T17:49:53Z",
+    "type_monetisation": "",
+    "details_monetisation": "",
+    "localisation_details": {},
+    "localisationTime(s)": 1.701162338256836
+  },
+  {
+    "id_chaine": "UCSBmS6iP9F8aXQIpK9w-KHg",
+    "nom_chaine": "Terre d'Entraide",
+    "bio": "",
+    "localisation": "",
+    "date_creation": "2023-04-16T09:34:01.197091Z",
+    "type_monetisation": "",
+    "details_monetisation": "",
+    "localisation_details": {},
+    "localisationTime(s)": 1.7015454769134521
+  },
+  {
+    "id_chaine": "UCIV0oLf3UevC2ieGv95EfZQ",
+    "nom_chaine": "Sarah de Our Inner Travels",
+    "bio": "",
+    "localisation": "",
+    "date_creation": "2014-02-20T09:58:17Z",
+    "type_monetisation": "",
+    "details_monetisation": "",
+    "localisation_details": {},
+    "localisationTime(s)": 3.2688636779785156
+  }
+]
