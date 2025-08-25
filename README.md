@@ -57,6 +57,8 @@ Filtering process for channels is in a `main.ipynb` at *filtering/channels* fold
 # DataBase Updating
 To update the Posgres Databse with new relevant videos and channels you need to :
 1. First to set your *POSTGRE_PASSWORD* as envirement variable and you need the outputs of filtering step.
+2. Go to the `main.ipynb` in *DataBase* folder and folllow the steps.
+
 
 
 
