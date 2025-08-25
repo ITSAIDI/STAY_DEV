@@ -46,12 +46,17 @@ uv sync
 1. We used the free version of gemini-flash for the filtering, then you need first to generate a [GEMINI_API_KEY](https://ai.google.dev/gemini-api/docs/api-key)
 2. Add the generated key as envirement variable.
 3. Go to the `main.ipynb` in *filtering/videos* folder, there are three levels of filtreing  each one generates a *json* file with result of the applied filters. The *Refinements step* is necessary to prepare data for filtering.
+
+**Output :** videosF3.json file with all relevant videos.
+
 ## Channels 
 Filtering process for channels is in a `main.ipynb` at *filtering/channels* folder.
 
+**Output :** channelsF3.json file for relevant channels.
+
 # DataBase Updating
 To update the Posgres Databse with new relevant videos and channels you need to :
-1. 
+1. First to set your *POSTGRE_PASSWORD* as envirement variable and you need the outputs of filtering step.
 
 
 
