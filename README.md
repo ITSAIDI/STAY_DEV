@@ -41,11 +41,12 @@ uv sync
 2. Create a `.env` file on the root of the cloned repository and add your key there as *YOUTUBE_API_KEY* 
 3. Go to the `main.ipynb` in collecting folder and run the cells, a `queries.json` file is already there.
 
-# Filtrering
+# Filtering
 ## Videos 
 1. We used the free version of gemini-flash for the filtering, then you need first to generate a [GEMINI_API_KEY](https://ai.google.dev/gemini-api/docs/api-key)
 2. Add the generated key as envirement variable.
 3. Go to the `main.ipynb` in *filtering/videos* folder, there are three levels of filtreing  each one generates a *json* file with result of the applied filters. The *Refinements step* is necessary to prepare data for filtering.
 ## Channels 
+
 
 
