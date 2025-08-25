@@ -47,6 +47,7 @@ uv sync
 2. Add the generated key as envirement variable.
 3. Go to the `main.ipynb` in *filtering/videos* folder, there are three levels of filtreing  each one generates a *json* file with result of the applied filters. The *Refinements step* is necessary to prepare data for filtering.
 ## Channels 
+Filtering process for channels is in a `main.ipynb` at *filtering/channels* folder.
 
 
 
