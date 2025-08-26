@@ -63,8 +63,11 @@ For updating only the metrics of existing videos and channels you have to :
 1. Open the project folder in your Code Editor (VSCode for example).
 2. Ensure that you virtual envirement is activated.
 3. Open a new powershell, get into the *Database* folder and run the python script *updateMetrics.py* like this :
-   `uv run updateMetrics.py YOUR_POSTGRE_PASSWORD YOUR_YOUTUBE_API_KEY`
-   The script calls two python functions one for channels metrics and the other for videos metrics.
+```bash
+   uv run updateMetrics.py YOUR_POSTGRE_PASSWORD YOUR_YOUTUBE_API_KEY
+```
+The script calls two python functions one for channels metrics and the other for videos metrics.
+
 
 
 
