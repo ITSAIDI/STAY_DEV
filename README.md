@@ -69,8 +69,14 @@ For updating only the metrics of existing videos and channels you have to :
 The script will connect to your database then call two python functions one for channels metrics and the other for videos metrics.
 
 # Server DataBase Updating
-The server contain already the *updateMetrics.py*, after connecting to the server you run :
-```bash
-   python3 run updateMetrics.py YOUR_POSTGRE_PASSWORD YOUR_YOUTUBE_API_KEY
-```
+The server contain already the *updateMetrics.py*, after connecting to the server you :
+1. Activate the virtual envirement
+ ```bash
+     source venv/bin/activate
+  ```
+3. Execute the following command :
+  ```bash
+     python3 run updateMetrics.py YOUR_POSTGRE_PASSWORD YOUR_YOUTUBE_API_KEY
+  ```
+
 
