@@ -54,7 +54,7 @@ Filtering process for channels is in a `main.ipynb` at *filtering/channels* fold
 
 **Output :** channelsF3.json file for relevant channels and channelsF3Non.json for irrelevant ones.
 
-# DataBase Updating
+# Local DataBase Updating
 To update the Posgres Database with new relevant videos and channels you need to :
 1. First to set your *POSTGRE_PASSWORD* as envirement variable, then you need the outputs of the filtering step.
 2. Go to the `main.ipynb` in *DataBase* folder and folllow the steps.
@@ -68,8 +68,9 @@ For updating only the metrics of existing videos and channels you have to :
 ```
 The script will connect to your database then call two python functions one for channels metrics and the other for videos metrics.
 
-
-
-
-
+# Server DataBase Updating
+The server contain already the *updateMetrics.py*, after connecting to the server you run :
+```bash
+   python3 run updateMetrics.py YOUR_POSTGRE_PASSWORD YOUR_YOUTUBE_API_KEY
+```
 
